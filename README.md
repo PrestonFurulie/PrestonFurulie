@@ -23,7 +23,7 @@ I'm currently pursuing a B.S. in Information Technology at Arizona State Univers
 - **Systems Analysis & Network Fundamentals**
 - **Microsoft OS, C++, Visual Studio, RStudio**
 - **Blueprint & Schematic Reading**
-- **Regulatory Compliance (OSHA 10, NEC)**
+- **Regulatory Compliance (OSHA 10, NECA)**
 - **Electrical & Mechanical Systems**
 - **Project Cost Optimization** (Achieved 50% reduction)
 - **Leadership & Training** (AFROTC, Eagle Scout)
