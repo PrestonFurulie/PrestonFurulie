@@ -21,7 +21,7 @@ I'm currently pursuing a B.S. in Information Technology at Phoenix College (expe
 
 - **IT Troubleshooting & Support**
 - **Systems Analysis & Network Fundamentals**
-- **Microsoft OS, C++, Visual Studio, RStudio**
+- **Microsoft OS, C++, Python, Electrical**
 - **Blueprint & Schematic Reading**
 - **Regulatory Compliance (OSHA 10, NECA)**
 - **Electrical & Mechanical Systems**
