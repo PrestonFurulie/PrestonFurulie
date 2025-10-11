@@ -2,7 +2,7 @@
 
 **IT & Engineering Student | Security Clearance Eligible | Resourceful Problem Solver**
 
-I'm currently pursuing a B.S. in Information Technology at Arizona State University (expected Fall 2026), building on my foundation from a B.S. in Mechanical Engineering Technology (Montana State University, 2021). My journey blends hands-on engineering experience with my passion for IT systems, project execution, and team leadership.
+I'm currently pursuing a B.S. in Information Technology at Phoenix College (expected Fall 2026), building on my foundation from a B.S. in Mechanical Engineering Technology (Montana State University, 2021). My journey blends hands-on engineering experience with my passion for IT systems, project execution, and team leadership.
 
 ---
 
