@@ -1,6 +1,6 @@
 # Preston Furulie
 
-**Full-Stack Developer | Aerospace Engineer | Entrepreneur**
+**IT | Pilot | Electrician | Business Owner**
 
 *Building enterprise solutions at the intersection of technology and aerospace*
 
