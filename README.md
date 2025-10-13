@@ -58,22 +58,22 @@ Worked on electrical installations for major clients like TSMC, Nestlé, and JA 
 
 ### **B.S. Information Technology** 
 *Phoenix College* | *Currently Junior* | *Expected May 2026*  
-*Honors Program, 18+ Credits per semester*
+*Honors Program, 18+ Credits per semester, +150 College Credits*
 
 ### **Mechanical Engineering Technology** *(Incomplete)*
-*Montana State University* | *2018–2021* | *Dropped out as Junior*
+*Montana State University* | *2018–2021* | *Junior*
 
 ### **Current Status**
 - **Junior** pursuing B.S. in Information Technology
-- Taking classes at **Arizona State University**, **Phoenix College**, and **Glendale Community College**
-- **AFROTC Cadet** at ASU Detachment 025
-- **Eagle Scout** - Led community service projects
+- Taking classes at **Phoenix College**, **Glendale Community College**, and **Online Courses**
+- **Student Pilot** at Angel Aviation, AZ
+- **Active Volunteer** - Led community service projects, Church Organizations, and St. Mary's Food Bank
 
 ### **Licenses & Certifications**
 - 🛩️ **FAA Student Pilot License** - Working towards my private pilot license!
 - ⚡ **Local Union Ticket** - Industrial electrical systems
 - 🛡️ **OSHA 10** - Workplace safety compliance
-- 🔧 **Various Operating Licenses** - Industrial equipment and systems
+- 🔧 **Various Operating Licenses & Certifications** - Industrial equipment and systems
 
 ---
 
@@ -95,10 +95,10 @@ Worked on electrical installations for major clients like TSMC, Nestlé, and JA 
 
 ### **Areas of Interest**
 - 🤖 **AI & Automation** - Exploring machine learning and AI applications
-- 🚀 **Aerospace Tech** - High-altitude ballooning and sensor systems
+- 🚀 **Aerospace Tech** - Atmospheric sensor systems - Electrical Engineering
 - 💻 **Web Development** - Building modern web applications
 - ⚡ **Electrical Systems** - Industrial automation and power systems
-- 🛩️ **Aviation** - Flight training and aerospace technology
+- 🛩️ **Aviation** - Flight training and aerospace technology - Comprehensive instrument understanding
 
 ---
 
