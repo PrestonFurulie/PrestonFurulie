@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=550&lines=IT+Student+%7C+NASA+Intern+%7C+Pilot+%7C+Entrepreneur;Building+the+future+with+technology;Always+learning%2C+always+creating)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=500&lines=IT+Student+%7C+NASA+Intern+%7C+Pilot+%7C+Entrepreneur;Building+the+future+with+technology;Always+learning%2C+always+creating)
 
 </div>
 
@@ -57,13 +57,14 @@ Worked on electrical installations for major clients like TSMC, Nestlé, and JA 
 ## 🎓 Education & Learning
 
 ### **B.S. Information Technology** 
-*Phoenix College* | *Expected May 2026*  
+*Phoenix College* | *Currently Junior* | *Expected May 2026*  
 *Honors Program, 18+ Credits per semester*
 
-### **B.S. Mechanical Engineering Technology**
-*Montana State University* | *2018–2021*
+### **Mechanical Engineering Technology** *(Incomplete)*
+*Montana State University* | *2018–2021* | *Dropped out as Junior*
 
 ### **Current Status**
+- **Junior** pursuing B.S. in Information Technology
 - Taking classes at **Arizona State University**, **Phoenix College**, and **Glendale Community College**
 - **AFROTC Cadet** at ASU Detachment 025
 - **Eagle Scout** - Led community service projects
