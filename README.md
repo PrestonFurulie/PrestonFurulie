@@ -1,154 +1,132 @@
-# Preston Furulie
-
-**IT | Pilot | Electrician | Business Owner**
-
-*Building enterprise solutions at the intersection of technology and aerospace*
-
----
-
-## About
-
-I'm a full-stack developer and aerospace engineer with a proven track record of delivering complex, production-ready systems. Currently pursuing a B.S. in Information Technology at Phoenix College while leading **Furulie LLC**, an enterprise software company specializing in AI-powered platforms, payment systems, and government-compliant solutions.
-
-My unique background combines hands-on engineering experience with cutting-edge software development, having contributed to NASA's ASCEND program and built scalable enterprise applications from the ground up.
+# Hey there! 👋 I'm Preston
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![NASA](https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=435&lines=IT+Student+%7C+NASA+Intern+%7C+Pilot+%7C+Entrepreneur;Building+the+future+with+technology;Always+learning%2C+always+creating)
 
 </div>
 
 ---
 
-## Professional Experience
+<div align="center">
 
-### **Owner & Founder** | Furulie LLC
-*October 2025 – Present*
+![Profile Views](https://komarev.com/ghpvc/?username=PeterChaffin&color=00C851&style=for-the-badge)
 
-- Leading a professional services company bridging technology, innovation, and reliability for businesses and government partners
-- Overseeing operations, client relations, and project development across web design, AI-driven automation, and IT infrastructure
-- Combining technical direction with strategic planning for secure, scalable, and future-ready solutions
-- Mission to make advanced digital infrastructure accessible to businesses and government entities
-- **Key Skills**: Project Management, Systems Analysis, Agile Methodologies, Leadership, Problem Solving
+</div>
 
-### **NASA ASCEND Student Intern** | NASA - National Aeronautics and Space Administration
-*October 2025 – Present*
+## 🚀 About Me
 
-- Participating in the NASA ASCEND program at Phoenix College, a high-altitude ballooning project
-- Gaining hands-on experience with **Arduino** and **Raspberry Pi** microcomputers, atmospheric and flight sensors
-- Working with communication and navigation radios, CAD, 3D printing, and PCB design
-- Focusing on engineering problem-solving, systems integration, and data analysis
-- **Key Skills**: Arduino, Electrical Wiring, Project Planning, Analytical Thinking, C++, Agile Methodologies, Systems Analysis, Mechanical Engineering, Project Management, AutoCAD, CSS, HTML, Python, JavaScript, Mechanical Design, Autodesk Fusion 360
+I'm an **IT student** at Phoenix College with a passion for technology, aviation, and entrepreneurship. Currently working on exciting projects with **NASA ASCEND** and building **Furulie LLC** from the ground up.
 
-### **Information Technology Intern** | Maricopa Community Colleges
-*January 2024 – Present*
+<div align="center">
 
-- Pursuing degree and internship in Information Technology with rigorous academic programs (Honors and 18+ Credits)
-- Gaining AFROTC experience and holding Local Union Ticket, OSHA 10, and various operating licenses
-- Attending courses at ASU, Phoenix College, and Glendale Community College
-- Developing expertise in collaborative project execution and ethical leadership
-- **Key Skills**: Arduino, Leadership, RStudio, C++, Agile Methodologies, Systems Analysis, Project Management, CSS, HTML, Python, JavaScript, Ethical Leadership
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![NASA](https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
+![Pilot](https://img.shields.io/badge/Pilot-Student%20License-FF6B35?style=for-the-badge&logo=airplane&logoColor=white)
 
-### **Industrial Electrician** | IBEW Local 640
-*June 2021 – December 2022*
-
-- Led electrical installations for major clients including **TSMC**, **Nestlé**, and **JA Solar**
-- Optimized project workflows using data-driven approaches, achieving **50% cost reduction**
-- Managed high-voltage systems (up to 480V) and complex industrial automation
-- **Skills**: High-voltage systems, industrial automation, project management, cost optimization
+</div>
 
 ---
 
-## Education & Certifications
+## 🎯 What I'm Up To
 
-**Bachelor of Science in Information Technology**  
+### 🏢 **Furulie LLC** - *Founder & Owner*
+*October 2025 – Present*
+
+Building a company that bridges technology, innovation, and reliability for businesses and government partners. Working on web design, AI-driven automation, and IT infrastructure solutions.
+
+### 🚀 **NASA ASCEND Program** - *Student Intern*
+*October 2025 – Present*
+
+Working on high-altitude ballooning projects at Phoenix College! Getting hands-on experience with Arduino, Raspberry Pi, sensors, and all the cool aerospace tech.
+
+### 💻 **IT Intern** - *Maricopa Community Colleges*
+*January 2024 – Present*
+
+Pursuing my IT degree while gaining real-world experience. Currently in the Honors program with 18+ credits per semester across ASU, Phoenix College, and Glendale Community College.
+
+### ⚡ **Industrial Electrician** - *IBEW Local 640*
+*June 2021 – December 2022*
+
+Worked on electrical installations for major clients like TSMC, Nestlé, and JA Solar. Learned a ton about high-voltage systems and project management.
+
+---
+
+## 🎓 Education & Learning
+
+### **B.S. Information Technology** 
 *Phoenix College* | *Expected May 2026*  
 *Honors Program, 18+ Credits per semester*
 
-**Bachelor of Science in Mechanical Engineering Technology**  
+### **B.S. Mechanical Engineering Technology**
 *Montana State University* | *2018–2021*
 
-**Current Academic Status:**
-- Attending courses at **Arizona State University**, **Phoenix College**, and **Glendale Community College**
+### **Current Status**
+- Taking classes at **Arizona State University**, **Phoenix College**, and **Glendale Community College**
 - **AFROTC Cadet** at ASU Detachment 025
-- **Honors Program** participant with rigorous academic load
+- **Eagle Scout** - Led community service projects
 
-**Professional Certifications:**
-- **Local Union Ticket** - Industrial electrical systems
-- **OSHA 10** - Workplace safety compliance
-- **FAA Student Pilot License** - Aviation operations and safety
-- **Various Operating Licenses** - Industrial equipment and systems
-
----
-
-## Technical Expertise
-
-### **Programming Languages & Frameworks**
-- **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React, Next.js
-- **Backend**: Python, C++, Node.js, JWT authentication
-- **Data Analysis**: RStudio, Python (Pandas, NumPy)
-- **Embedded Systems**: Arduino, Raspberry Pi, C/C++
-- **CAD & Design**: AutoCAD, Autodesk Fusion 360, 3D Printing, PCB Design
-
-### **Tools & Technologies**
-- **Version Control**: Git, GitHub
-- **Project Management**: Agile Methodologies, Project Planning
-- **Systems**: Electrical Wiring, Systems Analysis, Mechanical Design
-- **Communication**: Navigation radios, atmospheric and flight sensors
-- **Cloud & DevOps**: Vercel, AWS, Docker
-
-### **Specializations**
-- **Aerospace Engineering** - High-altitude ballooning, embedded systems, sensor integration
-- **Information Technology** - Systems analysis, project management, ethical leadership
-- **Mechanical Engineering** - CAD design, 3D printing, PCB design, analytical thinking
-- **Project Management** - Collaborative project execution, problem-solving, leadership
-- **Industrial Systems** - High-voltage electrical, automation, safety compliance
+### **Licenses & Certifications**
+- 🛩️ **FAA Student Pilot License** - Working towards my private pilot license!
+- ⚡ **Local Union Ticket** - Industrial electrical systems
+- 🛡️ **OSHA 10** - Workplace safety compliance
+- 🔧 **Various Operating Licenses** - Industrial equipment and systems
 
 ---
 
-## Leadership & Service
+## 🛠️ Tech Stack & Skills
 
-**AFROTC Cadet** | *ASU Detachment 025*  
-Developed leadership skills and gained exposure to secure systems, preparing for defense technology roles
+### **Languages I'm Learning**
+- **Python** - Data analysis and automation
+- **JavaScript** - Web development
+- **C++** - Systems programming
+- **HTML/CSS** - Web design
+- **R** - Statistical analysis with RStudio
 
-**Eagle Scout** | *Boy Scouts of America*  
-Led community service project for Campfire USA, demonstrating project management and initiative
+### **Tools & Platforms**
+- **Arduino & Raspberry Pi** - Embedded systems and IoT
+- **Git & GitHub** - Version control and collaboration
+- **AutoCAD & Fusion 360** - CAD design and 3D modeling
+- **3D Printing** - Rapid prototyping
+- **PCB Design** - Circuit board development
+
+### **Areas of Interest**
+- 🤖 **AI & Automation** - Exploring machine learning and AI applications
+- 🚀 **Aerospace Tech** - High-altitude ballooning and sensor systems
+- 💻 **Web Development** - Building modern web applications
+- ⚡ **Electrical Systems** - Industrial automation and power systems
+- 🛩️ **Aviation** - Flight training and aerospace technology
 
 ---
 
-## Recent Projects
+## 🎯 Current Projects
 
-### **Furulie LLC Enterprise Platform**
-- **5,000+ lines** of production TypeScript code
-- **23+ custom React components** with mobile-first responsive design
-- **15+ API integrations** including Stripe, OpenAI, and analytics
-- **A+ security rating** with comprehensive compliance features
+### 🏢 **Furulie LLC**
+Building a company focused on web design, AI-driven automation, and IT infrastructure solutions for businesses and government partners.
 
-### **NASA ASCEND Scientific Payload**
-- Designed embedded system for high-altitude data collection
-- Implemented real-time sensor monitoring and data transmission
-- Successfully launched payload to 100,000 ft altitude
+### 🚀 **NASA ASCEND**
+Working on high-altitude ballooning projects - designing payloads that reach 100,000 ft! Using Arduino, Raspberry Pi, and all sorts of cool sensors.
+
+### 🛩️ **Flight Training**
+Working towards my private pilot license! There's something amazing about combining technology with aviation.
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterChaffin&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterChaffin&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## Connect
+## 🤝 Let's Connect!
 
 <div align="center">
 
@@ -160,12 +138,20 @@ Led community service project for Campfire USA, demonstrating project management
 
 ---
 
-## Fun Fact
+## 💭 Fun Facts
 
-When I'm not coding or working on aerospace projects, you'll find me in the cockpit working towards my private pilot license. I believe the best solutions come from combining different perspectives - whether that's the precision of engineering, the creativity of software development, or the discipline of aviation.
+- 🛩️ I'm working towards my private pilot license
+- 🚀 I work on projects that literally go to space (well, 100,000 ft!)
+- 🏢 I'm building a company while still in school
+- 🎓 I'm taking 18+ credits per semester across multiple colleges
+- ⚡ I used to work on high-voltage electrical systems for major companies
 
 ---
 
-*"Engineering solutions that bridge the gap between aerospace innovation and enterprise software development."*
+<div align="center">
+
+*"Building the future, one project at a time."*
 
 **In God We Trust** 🙏
+
+</div>
