@@ -180,17 +180,16 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 Machine learning applications, process automation, intelligent systems
 
 ### **🚀 Aerospace Technology** 
-High-altitude ballooning, atmospheric sensors, flight systems
+High-altitude ballooning, atmospheric sensors, flight systems, micro-electronics
 
 ### **💻 Web Development**
-Modern web applications, responsive design, full-stack development
+Advanced web applications, responsive design, full-stack development, optimization, automation
 
 ### **⚡ Electrical Systems**
-Industrial automation, high-voltage systems, control engineering
+Industrial automation, high-voltage systems, blueprint execution on time
 
 ### **🛩️ Aviation Technology**
-Flight training, navigation systems, aerospace engineering
-
+Flight training, navigation systems, aeronautical instrumentation
 </div>
 
 ---
@@ -213,10 +212,10 @@ Flight training, navigation systems, aerospace engineering
 <div align="center">
 
 - 🛩️ **Student Pilot** working towards private pilot license
-- 🚀 **Space Projects** - Balloons reaching 100,000+ ft altitude
+- 🚀 **Space Projects** - Balloons reaching 100,000+ ft altitude - Recording Data for NASA
 - 🏢 **Young Entrepreneur** - Building company while in school
 - 🎓 **Academic Excellence** - 18+ credits per semester, Honors program
-- ⚡ **Industrial Experience** - High-voltage electrical systems
+- ⚡ **Industrial Experience** - High-voltage electrical systems - Project Management
 - 🛡️ **Community Service** - Active volunteer and church organizations
 
 </div>
@@ -225,15 +224,15 @@ Flight training, navigation systems, aerospace engineering
 
 ## 🎯 **Goals & Vision**
 
-**Short-term (2025):**
-- Complete private pilot license
-- Launch Furulie LLC commercial services
+**Short-term (2026):**
+- Solo Fly a Plane!
+- Launch NASA Atmospheric Sensors
 - Graduate with B.S. in Information Technology
 
 **Long-term (2026+):**
-- Expand Furulie LLC to government contracting
-- Pursue advanced degrees in aerospace engineering
-- Develop innovative aerospace technologies
+- Expand Furulie LLC, Utilize my government contracting
+- Pursue an Advanced Technology Career
+- Develop innovative technologies for public use
 
 ---
 
@@ -241,7 +240,7 @@ Flight training, navigation systems, aerospace engineering
 
 ### *"Building the future, one project at a time."*
 
-**In God We Trust** 🙏
+**In God We Trust** 
 
 ---
 
