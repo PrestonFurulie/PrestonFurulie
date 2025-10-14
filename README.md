@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hey there! I'm Preston
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hello! I'm Preston Furulie
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=2000&color=00D4AA&center=true&vCenter=true&width=600&lines=🚀+IT+Student+%7C+NASA+Intern+%7C+Pilot+%7C+Entrepreneur;💡+Building+the+future+with+technology;🎯+Always+learning%2C+always+creating;✨+Innovation+through+education+%26+experience" alt="Dynamic Title" />
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50px"> **About Me**
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **About Me**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=700&lines=🎓+Passionate+IT+student+at+Phoenix+College;🚀+NASA+ASCEND+intern+and+entrepreneur;💡+Building+the+future+through+technology;✈️+Aviation+and+innovation+are+my+passions" alt="About me typing" />
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and **entrepreneur** building the future through technology, aviation, and innovation. Currently pursuing my B.S. in Information Technology while working on high-altitude ballooning projects and growing **Furulie LLC**.
+I'm an **IT student** and *IT intern** at Phoenix College, **NASA ASCEND intern**, and **entrepreneur** building the future through technology, aviation, and innovation. Currently pursuing my B.S. in Information Technology while working on advanced research and development **Furulie LLC**.
 
 </div>
 
@@ -63,7 +63,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px"> **Current Focus**
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Current Focus**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=3000&color=00D4AA&center=true&vCenter=true&width=600&lines=🚀+Building+the+future+through+innovation;🎯+Multiple+roles%2C+one+vision;⭐+Excellence+in+everything+I+do" alt="Current focus typing" />
 
@@ -75,8 +75,8 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> **Furulie LLC** 
-*Founder & CEO* | *October 2024 – Present*
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Furulie LLC** 
+*Founder & CEO* | *October 2025 – Present*
 
 <img src="https://img.shields.io/badge/Enterprise-IT_Solutions-00C851?style=for-the-badge&logo=office&logoColor=white" />
 <img src="https://img.shields.io/badge/Government-Contracting-0B3D91?style=for-the-badge&logo=government&logoColor=white" />
@@ -84,7 +84,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 **Key Achievements:**
 - ✅ SAM Registered, DoD Cyber Aware
 - 🤖 AI-driven automation & web development
-- 🛡️ Government compliance & security solutions
+- 🛡️ Legal Government compliance & security solutions
 - 🚀 Building scalable platforms for businesses
 
 </div>
@@ -94,8 +94,8 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **NASA ASCEND Program**
-*Student Intern* | *October 2024 – Present*
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **NASA ASCEND Program**
+*Student Intern* | *October 2025 – Present*
 
 <img src="https://img.shields.io/badge/High-Altitude-Ballooning-FF6B35?style=for-the-badge&logo=rocket&logoColor=white" />
 <img src="https://img.shields.io/badge/Research-Atmospheric_Data-00C851?style=for-the-badge&logo=science&logoColor=white" />
@@ -113,8 +113,8 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **NSF ITS Network**
-*WFExL Program Intern* | *October 2024 – Present*
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **NSF ITS Network**
+*WFExL Program Intern* | *October 2025 – Present*
 
 <img src="https://img.shields.io/badge/Information-Technology-007ACC?style=for-the-badge&logo=computer&logoColor=white" />
 <img src="https://img.shields.io/badge/Network-Services-9C27B0?style=for-the-badge&logo=network&logoColor=white" />
@@ -135,7 +135,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50px"> **Education & Achievements**
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Education & Achievements**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=🎓+Excellence+in+education+and+continuous+learning;💡+Building+skills+for+the+future;🏆+Academic+and+professional+achievements" alt="Education typing" />
 
@@ -143,7 +143,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **B.S. Information Technology** 
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **B.S. Information Technology** 
 **Phoenix College** | **Junior** | **Expected May 2026**
 
 <img src="https://img.shields.io/badge/Honors-Program-FFD700?style=for-the-badge&logo=academic&logoColor=black" />
@@ -179,7 +179,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50px"> **Technical Expertise**
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Technical Expertise**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=⚡+Mastering+cutting-edge+technologies;🚀+Building+innovative+solutions;📈+Continuous+learning+and+growth" alt="Technical expertise typing" />
 
@@ -187,7 +187,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **Programming Languages**
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Programming Languages**
 
 <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -199,7 +199,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **Tools & Platforms**
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Tools & Platforms**
 
 <img src="https://img.shields.io/badge/Arduino-Expert-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry_Pi-Advanced-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
@@ -213,7 +213,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50px"> **Active Projects**
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Active Projects**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=💡+Innovation+in+action;🚀+Building+the+future+today;⭐+Projects+that+make+a+difference" alt="Active projects typing" />
 
@@ -221,7 +221,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-| <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **Project** | <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **Status** | <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **Technology** | <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **Impact** |
+| <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Project** | <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Status** | <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Technology** | <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Impact** |
 |---------|--------|------------|--------|
 | **🏢 Furulie LLC Platform** | <img src="https://img.shields.io/badge/Status-Live-00C851?style=for-the-badge&logo=rocket&logoColor=white" /> | Next.js, TypeScript, AI | Enterprise solutions |
 | **🚀 NASA Balloon Payload** | <img src="https://img.shields.io/badge/Status-Research-FF6B35?style=for-the-badge&logo=flask&logoColor=white" /> | Arduino, Sensors | 100,000+ ft altitude |
@@ -234,7 +234,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50px"> **GitHub Analytics**
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **GitHub Analytics**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=📊+Code+contribution+and+activity+metrics;📈+Continuous+learning+and+growth;💻+Building+the+future+through+code" alt="GitHub analytics typing" />
 
@@ -254,7 +254,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50px"> **Professional Experience**
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Professional Experience**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=💼+Diverse+professional+background;⭐+Excellence+in+every+role;🚀+Building+skills+and+experience" alt="Professional experience typing" />
 
@@ -262,7 +262,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **⚡ Industrial Electrician** - *IBEW Local 640*
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **⚡ Industrial Electrician** - *IBEW Local 640*
 *June 2021 – December 2023*
 
 <img src="https://img.shields.io/badge/High-Voltage-Electrical-FF6B35?style=for-the-badge&logo=electrical&logoColor=white" />
@@ -279,8 +279,8 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **💻 IT Intern** - *Maricopa Community Colleges*
-*October 2025 – Present*
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **💻 IT Intern** - *Maricopa Community Colleges*
+*January 2025 – Present*
 
 <img src="https://img.shields.io/badge/System-Administration-00C851?style=for-the-badge&logo=server&logoColor=white" />
 <img src="https://img.shields.io/badge/Network-Infrastructure-007ACC?style=for-the-badge&logo=network&logoColor=white" />
@@ -298,7 +298,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50px"> **Areas of Expertise**
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Areas of Expertise**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=🎯+Multidisciplinary+expertise;💡+Innovation+across+domains;🚀+Building+the+future+today" alt="Areas of expertise typing" />
 
@@ -306,7 +306,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **🤖 AI & Automation**
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **🤖 AI & Automation**
 <img src="https://img.shields.io/badge/Machine-Learning-FF6B35?style=for-the-badge&logo=brain&logoColor=white" />
 <img src="https://img.shields.io/badge/Process-Automation-00C851?style=for-the-badge&logo=robot&logoColor=white" />
 <img src="https://img.shields.io/badge/Intelligent-Systems-007ACC?style=for-the-badge&logo=ai&logoColor=white" />
@@ -317,7 +317,7 @@ Machine learning applications, process automation, intelligent systems
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **🚀 Aerospace Technology**
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **🚀 Aerospace Technology**
 <img src="https://img.shields.io/badge/High-Altitude-Ballooning-FF6B35?style=for-the-badge&logo=rocket&logoColor=white" />
 <img src="https://img.shields.io/badge/Atmospheric-Sensors-00C851?style=for-the-badge&logo=science&logoColor=white" />
 <img src="https://img.shields.io/badge/Flight-Systems-007ACC?style=for-the-badge&logo=airplane&logoColor=white" />
@@ -328,7 +328,7 @@ High-altitude ballooning, atmospheric sensors, flight systems, micro-electronics
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **💻 Web Development**
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **💻 Web Development**
 <img src="https://img.shields.io/badge/Modern-Web_Apps-00C851?style=for-the-badge&logo=web&logoColor=white" />
 <img src="https://img.shields.io/badge/Responsive-Design-007ACC?style=for-the-badge&logo=responsive&logoColor=white" />
 <img src="https://img.shields.io/badge/Full-Stack-9C27B0?style=for-the-badge&logo=stack&logoColor=white" />
@@ -339,7 +339,7 @@ Advanced web applications, responsive design, full-stack development, optimizati
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **⚡ Electrical Systems**
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **⚡ Electrical Systems**
 <img src="https://img.shields.io/badge/Industrial-Automation-FF6B35?style=for-the-badge&logo=automation&logoColor=white" />
 <img src="https://img.shields.io/badge/High-Voltage-Systems-00C851?style=for-the-badge&logo=electrical&logoColor=white" />
 <img src="https://img.shields.io/badge/Control-Engineering-007ACC?style=for-the-badge&logo=control&logoColor=white" />
@@ -350,7 +350,7 @@ Industrial automation, high-voltage systems, blueprint execution on time
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **🛩️ Aviation Technology**
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **🛩️ Aviation Technology**
 <img src="https://img.shields.io/badge/Flight-Training-FF6B35?style=for-the-badge&logo=airplane&logoColor=white" />
 <img src="https://img.shields.io/badge/Navigation-Systems-00C851?style=for-the-badge&logo=navigation&logoColor=white" />
 <img src="https://img.shields.io/badge/Aeronautical-Instrumentation-007ACC?style=for-the-badge&logo=instrument&logoColor=white" />
@@ -363,7 +363,7 @@ Flight training, navigation systems, aeronautical instrumentation
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50px"> **Let's Connect!**
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Let's Connect!**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=🤝+Let's+connect+and+collaborate;🚀+Building+the+future+together;💡+Innovation+through+partnership" alt="Let's connect typing" />
 
@@ -382,7 +382,7 @@ Flight training, navigation systems, aeronautical instrumentation
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50px"> **Fun Facts & Achievements**
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Fun Facts & Achievements**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=🌟+Beyond+the+code+and+classroom;💡+Passionate+about+innovation;⭐+Making+a+difference+every+day" alt="Fun facts typing" />
 
@@ -414,7 +414,7 @@ Flight training, navigation systems, aeronautical instrumentation
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50px"> **Goals & Vision**
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Goals & Vision**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=🎯+Vision+for+the+future;⭐+Goals+that+inspire+and+motivate;🚀+Building+legacy+through+innovation" alt="Goals and vision typing" />
 
@@ -422,7 +422,7 @@ Flight training, navigation systems, aeronautical instrumentation
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **Short-term (2026):**
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Short-term (2026):**
 <img src="https://img.shields.io/badge/Solo-Fly_a_Plane!-FF6B35?style=for-the-badge&logo=airplane&logoColor=white" />
 <img src="https://img.shields.io/badge/Launch-NASA_Sensors-00C851?style=for-the-badge&logo=rocket&logoColor=white" />
 <img src="https://img.shields.io/badge/Graduate-B.S._IT-007ACC?style=for-the-badge&logo=graduation-cap&logoColor=white" />
@@ -431,7 +431,7 @@ Flight training, navigation systems, aeronautical instrumentation
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30px"> **Long-term (2026+):**
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Long-term (2026+):**
 <img src="https://img.shields.io/badge/Expand-Furulie_LLC-00C851?style=for-the-badge&logo=briefcase&logoColor=white" />
 <img src="https://img.shields.io/badge/Government-Contracting-0B3D91?style=for-the-badge&logo=government&logoColor=white" />
 <img src="https://img.shields.io/badge/Advanced-Technology_Career-007ACC?style=for-the-badge&logo=career&logoColor=white" />
