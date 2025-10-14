@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hello! I'm Preston Furulie
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey there! I'm Preston
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=2000&color=00D4AA&center=true&vCenter=true&width=600&lines=🚀+IT+Student+%7C+NASA+Intern+%7C+Pilot+%7C+Entrepreneur;💡+Building+the+future+with+technology;🎯+Always+learning%2C+always+creating;✨+Innovation+through+education+%26+experience" alt="Dynamic Title" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=2000&color=872B97&center=true&vCenter=true&width=600&lines=🚀+IT+Student+%7C+NASA+Intern+%7C+Pilot+%7C+Entrepreneur;💡+Building+the+future+with+technology;🎯+Always+learning%2C+always+creating;✨+Innovation+through+education+%26+experience" alt="Dynamic Title" />
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=3000&color=00D4AA&center=true&vCenter=true&width=500&lines=🌟+Welcome+to+my+digital+space!+Let's+connect+and+innovate+together" alt="Welcome message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=3000&color=872B97&center=true&vCenter=true&width=500&lines=🌟+Welcome+to+my+digital+space!+Let's+connect+and+innovate+together" alt="Welcome message" />
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20Profile%20Overview" alt="Profile Overview" />
+<img src="https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20Profile%20Overview&title_color=872B97&text_color=171721&icon_color=872B97&bg_color=171721" alt="Profile Overview" />
 
 </div>
 
@@ -30,13 +30,13 @@
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **About Me**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=700&lines=🎓+Passionate+IT+student+at+Phoenix+College;🚀+NASA+ASCEND+intern+and+entrepreneur;💡+Building+the+future+through+technology;✈️+Aviation+and+innovation+are+my+passions" alt="About me typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=872B97&center=true&vCenter=true&width=700&lines=🎓+Passionate+IT+student+at+Phoenix+College;🚀+NASA+ASCEND+intern+and+entrepreneur;💡+Building+the+future+through+technology;✈️+Aviation+and+innovation+are+my+passions" alt="About me typing" />
 
 </div>
 
 <div align="center">
 
-I'm an **IT student** and *IT intern** at Phoenix College, **NASA ASCEND intern**, and **entrepreneur** building the future through technology, aviation, and innovation. Currently pursuing my B.S. in Information Technology while working on advanced research and development **Furulie LLC**.
+I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and **entrepreneur** building the future through technology, aviation, and innovation. Currently pursuing my B.S. in Information Technology while working on high-altitude ballooning projects and growing **Furulie LLC**.
 
 </div>
 
@@ -44,7 +44,7 @@ I'm an **IT student** and *IT intern** at Phoenix College, **NASA ASCEND intern*
 
 ### 🛠️ **Tech Stack & Skills**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=00D4AA&center=true&vCenter=true&width=500&lines=Mastering+cutting-edge+technologies+and+platforms" alt="Tech stack typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=872B97&center=true&vCenter=true&width=500&lines=Mastering+cutting-edge+technologies+and+platforms" alt="Tech stack typing" />
 
 </div>
 
@@ -65,7 +65,7 @@ I'm an **IT student** and *IT intern** at Phoenix College, **NASA ASCEND intern*
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Current Focus**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=3000&color=00D4AA&center=true&vCenter=true&width=600&lines=🚀+Building+the+future+through+innovation;🎯+Multiple+roles%2C+one+vision;⭐+Excellence+in+everything+I+do" alt="Current focus typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=3000&color=872B97&center=true&vCenter=true&width=600&lines=🚀+Building+the+future+through+innovation;🎯+Multiple+roles%2C+one+vision;⭐+Excellence+in+everything+I+do" alt="Current focus typing" />
 
 </div>
 
@@ -84,7 +84,7 @@ I'm an **IT student** and *IT intern** at Phoenix College, **NASA ASCEND intern*
 **Key Achievements:**
 - ✅ SAM Registered, DoD Cyber Aware
 - 🤖 AI-driven automation & web development
-- 🛡️ Legal Government compliance & security solutions
+- 🛡️ Government compliance & security solutions
 - 🚀 Building scalable platforms for businesses
 
 </div>
@@ -137,7 +137,7 @@ I'm an **IT student** and *IT intern** at Phoenix College, **NASA ASCEND intern*
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Education & Achievements**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=🎓+Excellence+in+education+and+continuous+learning;💡+Building+skills+for+the+future;🏆+Academic+and+professional+achievements" alt="Education typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=872B97&center=true&vCenter=true&width=600&lines=🎓+Excellence+in+education+and+continuous+learning;💡+Building+skills+for+the+future;🏆+Academic+and+professional+achievements" alt="Education typing" />
 
 </div>
 
@@ -181,7 +181,7 @@ I'm an **IT student** and *IT intern** at Phoenix College, **NASA ASCEND intern*
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Technical Expertise**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=⚡+Mastering+cutting-edge+technologies;🚀+Building+innovative+solutions;📈+Continuous+learning+and+growth" alt="Technical expertise typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=872B97&center=true&vCenter=true&width=600&lines=⚡+Mastering+cutting-edge+technologies;🚀+Building+innovative+solutions;📈+Continuous+learning+and+growth" alt="Technical expertise typing" />
 
 </div>
 
@@ -215,7 +215,7 @@ I'm an **IT student** and *IT intern** at Phoenix College, **NASA ASCEND intern*
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Active Projects**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=💡+Innovation+in+action;🚀+Building+the+future+today;⭐+Projects+that+make+a+difference" alt="Active projects typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=872B97&center=true&vCenter=true&width=600&lines=💡+Innovation+in+action;🚀+Building+the+future+today;⭐+Projects+that+make+a+difference" alt="Active projects typing" />
 
 </div>
 
@@ -236,17 +236,17 @@ I'm an **IT student** and *IT intern** at Phoenix College, **NASA ASCEND intern*
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **GitHub Analytics**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=📊+Code+contribution+and+activity+metrics;📈+Continuous+learning+and+growth;💻+Building+the+future+through+code" alt="GitHub analytics typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=872B97&center=true&vCenter=true&width=600&lines=📊+Code+contribution+and+activity+metrics;📈+Continuous+learning+and+growth;💻+Building+the+future+through+code" alt="GitHub analytics typing" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Statistics" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Statistics&title_color=872B97&text_color=171721&icon_color=872B97&bg_color=171721" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterChaffin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=💻%20Most%20Used%20Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterChaffin&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=💻%20Most%20Used%20Languages&title_color=872B97&text_color=171721&icon_color=872B97&bg_color=171721" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterChaffin&theme=tokyonight&hide_border=true&custom_title=🔥%20GitHub%20Streak" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterChaffin&theme=radical&hide_border=true&custom_title=🔥%20GitHub%20Streak&title_color=872B97&text_color=171721&icon_color=872B97&bg_color=171721" alt="GitHub Streak" />
 
 </div>
 
@@ -256,7 +256,7 @@ I'm an **IT student** and *IT intern** at Phoenix College, **NASA ASCEND intern*
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Professional Experience**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=💼+Diverse+professional+background;⭐+Excellence+in+every+role;🚀+Building+skills+and+experience" alt="Professional experience typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=872B97&center=true&vCenter=true&width=600&lines=💼+Diverse+professional+background;⭐+Excellence+in+every+role;🚀+Building+skills+and+experience" alt="Professional experience typing" />
 
 </div>
 
@@ -280,7 +280,7 @@ I'm an **IT student** and *IT intern** at Phoenix College, **NASA ASCEND intern*
 <div align="center">
 
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **💻 IT Intern** - *Maricopa Community Colleges*
-*January 2025 – Present*
+*January 2024 – Present*
 
 <img src="https://img.shields.io/badge/System-Administration-00C851?style=for-the-badge&logo=server&logoColor=white" />
 <img src="https://img.shields.io/badge/Network-Infrastructure-007ACC?style=for-the-badge&logo=network&logoColor=white" />
@@ -300,7 +300,7 @@ I'm an **IT student** and *IT intern** at Phoenix College, **NASA ASCEND intern*
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Areas of Expertise**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=🎯+Multidisciplinary+expertise;💡+Innovation+across+domains;🚀+Building+the+future+today" alt="Areas of expertise typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=872B97&center=true&vCenter=true&width=600&lines=🎯+Multidisciplinary+expertise;💡+Innovation+across+domains;🚀+Building+the+future+today" alt="Areas of expertise typing" />
 
 </div>
 
@@ -365,7 +365,7 @@ Flight training, navigation systems, aeronautical instrumentation
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Let's Connect!**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=🤝+Let's+connect+and+collaborate;🚀+Building+the+future+together;💡+Innovation+through+partnership" alt="Let's connect typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=872B97&center=true&vCenter=true&width=600&lines=🤝+Let's+connect+and+collaborate;🚀+Building+the+future+together;💡+Innovation+through+partnership" alt="Let's connect typing" />
 
 </div>
 
@@ -384,7 +384,7 @@ Flight training, navigation systems, aeronautical instrumentation
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Fun Facts & Achievements**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=🌟+Beyond+the+code+and+classroom;💡+Passionate+about+innovation;⭐+Making+a+difference+every+day" alt="Fun facts typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=872B97&center=true&vCenter=true&width=600&lines=🌟+Beyond+the+code+and+classroom;💡+Passionate+about+innovation;⭐+Making+a+difference+every+day" alt="Fun facts typing" />
 
 </div>
 
@@ -416,7 +416,7 @@ Flight training, navigation systems, aeronautical instrumentation
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> **Goals & Vision**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=00D4AA&center=true&vCenter=true&width=600&lines=🎯+Vision+for+the+future;⭐+Goals+that+inspire+and+motivate;🚀+Building+legacy+through+innovation" alt="Goals and vision typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=2500&color=872B97&center=true&vCenter=true&width=600&lines=🎯+Vision+for+the+future;⭐+Goals+that+inspire+and+motivate;🚀+Building+legacy+through+innovation" alt="Goals and vision typing" />
 
 </div>
 
@@ -443,9 +443,9 @@ Flight training, navigation systems, aeronautical instrumentation
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=3000&color=00D4AA&center=true&vCenter=true&width=500&lines=💫+Building+the+future%2C+one+project+at+a+time" alt="Quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=3000&color=872B97&center=true&vCenter=true&width=500&lines=💫+Building+the+future%2C+one+project+at+a+time" alt="Quote" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=00D4AA&center=true&vCenter=true&width=300&lines=In+God+We+Trust+🙏" alt="In God We Trust" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=872B97&center=true&vCenter=true&width=300&lines=In+God+We+Trust+🙏" alt="In God We Trust" />
 
 **© 2025 Preston Furulie • Phoenix, Arizona • [fllc.net](https://fllc.net)**
 
