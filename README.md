@@ -43,7 +43,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 <td width="50%">
 
 ### 🏢 **Furulie LLC** - *Founder & CEO*
-*October 2024 – Present*
+*October 2025 – Present*
 
 **Enterprise IT Solutions & Government Contracting**
 - SAM Registered, DoD Cyber Aware
@@ -55,13 +55,26 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 <td width="50%">
 
 ### 🚀 **NASA ASCEND Program** - *Student Intern*
-*October 2024 – Present*
+*October 2025 – Present*
 
 **High-Altitude Ballooning Research**
 - Designing payloads reaching 100,000+ ft
 - Arduino & Raspberry Pi sensor systems
 - Atmospheric data collection & analysis
 - Aerospace technology development
+
+</td>
+<td width="50%">
+
+### ### 💻 **NSF ITS Network Internship** – *WFExL Program Intern*
+*October 2025 – Present*
+
+**Information Technology Services**
+* Network setup, monitoring & troubleshooting
+* Web server deployment & uptime assurance
+* Cybersecurity & data integrity support
+* IT automation & documentation systems
+
 
 </td>
 </tr>
