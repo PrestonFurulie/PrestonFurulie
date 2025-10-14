@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20Profile%20Overview&title_color=872B97&bg_color=3b396d&icon_color=872B97&bg_color=101425" alt="Profile Overview" />
+<img src="https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Profile%20Overview&title_color=872B97&text_color=ffffff&icon_color=872B97&bg_color=0d1117&ring_color=872B97" alt="Profile Overview" />
 
 </div>
 
@@ -242,11 +242,11 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20GitHub%20Statistics&title_color=872B97&bg_color=3b396d&icon_color=872B97&bg_color=101425" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20GitHub%20Statistics&title_color=872B97&text_color=ffffff&icon_color=872B97&bg_color=0d1117&ring_color=872B97" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterChaffin&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=💻%20Most%20Used%20Languages&title_color=872B97&bg_color=3b396d&icon_color=872B97&bg_color=101425" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterChaffin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=💻%20Most%20Used%20Languages&title_color=872B97&text_color=ffffff&icon_color=872B97&bg_color=0d1117" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterChaffin&theme=radical&hide_border=true&custom_title=🔥%20GitHub%20Streak&title_color=872B97&bg_color=3b396d&icon_color=872B97&bg_color=101425" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterChaffin&theme=tokyonight&hide_border=true&custom_title=🔥%20GitHub%20Streak&title_color=872B97&text_color=ffffff&icon_color=872B97&bg_color=0d1117" alt="GitHub Streak" />
 
 </div>
 
