@@ -52,7 +52,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 - Building scalable platforms for businesses
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🚀 **NASA ASCEND Program** - *Student Intern*
 *October 2025 – Present*
@@ -64,7 +64,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 - Aerospace technology development
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### ### 💻 **NSF ITS Network Internship** – *WFExL Program Intern*
 *October 2025 – Present*
@@ -77,6 +77,7 @@ I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and 
 
 
 </td>
+<td width="33%">
 </tr>
 </table>
 
