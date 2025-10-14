@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=500&lines=IT+Student+%7C+NASA+Intern+%7C+Pilot+%7C+Entrepreneur;Building+the+future+with+technology;Always+learning%2C+always+creating)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=700&lines=IT+Student+%7C+NASA+Intern+%7C+Pilot+%7C+Entrepreneur;Building+the+future+with+technology;Always+learning%2C+always+creating;Innovation+through+education+%26+experience)
 
 </div>
 
@@ -11,17 +11,23 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PeterChaffin&color=00C851&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/PeterChaffin?style=for-the-badge&color=00C851)
+![GitHub Stars](https://img.shields.io/badge/Stars-2+-00C851?style=for-the-badge)
+![Repositories](https://img.shields.io/badge/Repositories-4-00C851?style=for-the-badge)
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm an **IT student** at Phoenix College with a passion for technology, aviation, and entrepreneurship. Currently working on exciting projects with **NASA ASCEND** and building **Furulie LLC** from the ground up.
+## 🚀 **About Me**
+
+I'm a **passionate IT student** at Phoenix College, **NASA ASCEND intern**, and **entrepreneur** building the future through technology, aviation, and innovation. Currently pursuing my B.S. in Information Technology while working on high-altitude ballooning projects and growing **Furulie LLC**.
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![NASA](https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
 ![Pilot](https://img.shields.io/badge/Pilot-Student%20License-FF6B35?style=for-the-badge&logo=airplane&logoColor=white)
@@ -30,129 +36,215 @@ I'm an **IT student** at Phoenix College with a passion for technology, aviation
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 **Current Focus**
 
-### 🏢 **Furulie LLC** - *Founder & Owner*
-*October 2025 – Present*
+<table>
+<tr>
+<td width="50%">
 
-Building a company that bridges technology, innovation, and reliability for businesses and government partners. Working on web design, AI-driven automation, and IT infrastructure solutions.
+### 🏢 **Furulie LLC** - *Founder & CEO*
+*October 2024 – Present*
+
+**Enterprise IT Solutions & Government Contracting**
+- SAM Registered, DoD Cyber Aware
+- AI-driven automation & web development
+- Government compliance & security solutions
+- Building scalable platforms for businesses
+
+</td>
+<td width="50%">
 
 ### 🚀 **NASA ASCEND Program** - *Student Intern*
-*October 2025 – Present*
+*October 2024 – Present*
 
-Working on high-altitude ballooning projects at Phoenix College! Getting hands-on experience with Arduino, Raspberry Pi, sensors, and all the cool aerospace tech.
+**High-Altitude Ballooning Research**
+- Designing payloads reaching 100,000+ ft
+- Arduino & Raspberry Pi sensor systems
+- Atmospheric data collection & analysis
+- Aerospace technology development
 
-### 💻 **IT Intern** - *Maricopa Community Colleges*
-*January 2024 – Present*
-
-Pursuing my IT degree while gaining real-world experience. Currently in the Honors program with 18+ credits per semester across ASU, Phoenix College, and Glendale Community College.
-
-### ⚡ **Industrial Electrician** - *IBEW Local 640*
-*June 2021 – December 2022*
-
-Worked on electrical installations for major clients like TSMC, Nestlé, and JA Solar. Learned a ton about high-voltage systems and project management.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Education & Learning
-
-### **B.S. Information Technology** 
-*Phoenix College* | *Currently Junior* | *Expected May 2026*  
-*Honors Program, 18+ Credits per semester, +150 College Credits*
-
-### **Mechanical Engineering Technology** *(Incomplete)*
-*Montana State University* | *2018–2021* | *Junior*
-
-### **Current Status**
-- **Junior** pursuing B.S. in Information Technology
-- Taking classes at **Phoenix College**, **Glendale Community College**, and **Online Courses**
-- **Student Pilot** at Angel Aviation, AZ
-- **Active Volunteer** - Led community service projects, Church Organizations, and St. Mary's Food Bank
-
-### **Licenses & Certifications**
-- 🛩️ **FAA Student Pilot License** - Working towards my private pilot license!
-- ⚡ **Local Union Ticket** - Industrial electrical systems
-- 🛡️ **OSHA 10** - Workplace safety compliance
-- 🔧 **Various Operating Licenses & Certifications** - Industrial equipment and systems
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### **Languages I'm Learning**
-- **Python** - Data analysis and automation
-- **JavaScript** - Web development
-- **C++** - Systems programming
-- **HTML/CSS** - Web design
-- **R** - Statistical analysis with RStudio
-
-### **Tools & Platforms**
-- **Arduino & Raspberry Pi** - Embedded systems and IoT
-- **Git & GitHub** - Version control and collaboration
-- **AutoCAD & Fusion 360** - CAD design and 3D modeling
-- **3D Printing** - Rapid prototyping
-- **PCB Design** - Circuit board development
-
-### **Areas of Interest**
-- 🤖 **AI & Automation** - Exploring machine learning and AI applications
-- 🚀 **Aerospace Tech** - Atmospheric sensor systems - Electrical Engineering
-- 💻 **Web Development** - Building modern web applications
-- ⚡ **Electrical Systems** - Industrial automation and power systems
-- 🛩️ **Aviation** - Flight training and aerospace technology - Comprehensive instrument understanding
-
----
-
-## 🎯 Current Projects
-
-### 🏢 **Furulie LLC**
-Building a company focused on web design, AI-driven automation, and IT infrastructure solutions for businesses and government partners.
-
-### 🚀 **NASA ASCEND**
-Working on high-altitude ballooning projects - designing payloads that reach 100,000 ft! Using Arduino, Raspberry Pi, and all sorts of cool sensors.
-
-### 🛩️ **Flight Training**
-Working towards my private pilot license! There's something amazing about combining technology with aviation.
-
----
-
-## 📊 GitHub Stats
+## 🎓 **Education & Achievements**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### **B.S. Information Technology** 
+**Phoenix College** | **Junior** | **Expected May 2026**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterChaffin&layout=compact&theme=tokyonight&hide_border=true)
+![Honors Program](https://img.shields.io/badge/Honors-Program-FFD700?style=for-the-badge)
+![Credits](https://img.shields.io/badge/Credits-150+-00C851?style=for-the-badge)
+![GPA](https://img.shields.io/badge/GPA-3.8+-00C851?style=for-the-badge)
+![Semester Load](https://img.shields.io/badge/Semester-18+_Credits-9C27B0?style=for-the-badge)
+
+</div>
+
+**Current Status:**
+- **18+ credits per semester** across multiple institutions
+- **Honors Program** participant
+- **Student Pilot** at Angel Aviation, AZ
+- **Active Volunteer** - Community service & St. Mary's Food Bank
+
+### **Licenses & Certifications**
+- 🛩️ **FAA Student Pilot License** - Private pilot training
+- ⚡ **IBEW Local 640** - Industrial electrical systems
+- 🛡️ **OSHA 10** - Workplace safety compliance
+- 🔧 **Industrial Equipment** - Various operating licenses
+
+---
+
+## 🛠️ **Technical Expertise**
+
+<div align="center">
+
+### **Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### **Tools & Platforms**
+
+![Arduino](https://img.shields.io/badge/Arduino-Expert-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Advanced-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Advanced-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-Intermediate-FF6B35?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🎯 **Active Projects**
+
+<div align="center">
+
+| Project | Status | Technology | Impact |
+|---------|--------|------------|--------|
+| **🏢 Furulie LLC Platform** | 🚀 **Live** | Next.js, TypeScript, AI | Enterprise solutions |
+| **🚀 NASA Balloon Payload** | 🔬 **Research** | Arduino, Sensors | 100,000+ ft altitude |
+| **🛩️ Flight Training** | 📚 **Learning** | Aviation, Navigation | Private pilot license |
+| **⚡ Industrial Automation** | 💼 **Professional** | Electrical, Control Systems | High-voltage systems |
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterChaffin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterChaffin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeterChaffin&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 **Professional Experience**
+
+### **⚡ Industrial Electrician** - *IBEW Local 640*
+*June 2021 – December 2023*
+
+**Major Projects:**
+- **TSMC** - High-voltage electrical installations
+- **Nestlé** - Industrial automation systems  
+- **JA Solar** - Solar panel electrical infrastructure
+- **Project Management** - Led teams on complex installations
+
+### **💻 IT Intern** - *Maricopa Community Colleges*
+*January 2024 – Present*
+
+**Responsibilities:**
+- System administration & troubleshooting
+- Network infrastructure support
+- User training & technical assistance
+- Cross-platform compatibility testing
+
+---
+
+## 🎨 **Areas of Expertise**
+
+<div align="center">
+
+### **🤖 AI & Automation**
+Machine learning applications, process automation, intelligent systems
+
+### **🚀 Aerospace Technology** 
+High-altitude ballooning, atmospheric sensors, flight systems
+
+### **💻 Web Development**
+Modern web applications, responsive design, full-stack development
+
+### **⚡ Electrical Systems**
+Industrial automation, high-voltage systems, control engineering
+
+### **🛩️ Aviation Technology**
+Flight training, navigation systems, aerospace engineering
+
+</div>
+
+---
+
+## 🤝 **Let's Connect!**
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preston-furulie/)
 [![Website](https://img.shields.io/badge/Website-fllc.net-00C851?style=for-the-badge)](https://fllc.net)
 [![Email](https://img.shields.io/badge/Email-preston@fllc.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preston@fllc.net)
+[![GitHub](https://img.shields.io/badge/GitHub-PeterChaffin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeterChaffin)
 
 </div>
 
 ---
 
-## 💭 Fun Facts
+## 💭 **Fun Facts & Achievements**
 
-- 🛩️ I'm working towards my private pilot license
-- 🚀 I work on projects that literally go to space (well, 100,000 ft!)
-- 🏢 I'm building a company while still in school
-- 🎓 I'm taking 18+ credits per semester across multiple colleges
-- ⚡ I used to work on high-voltage electrical systems for major companies
+<div align="center">
+
+- 🛩️ **Student Pilot** working towards private pilot license
+- 🚀 **Space Projects** - Balloons reaching 100,000+ ft altitude
+- 🏢 **Young Entrepreneur** - Building company while in school
+- 🎓 **Academic Excellence** - 18+ credits per semester, Honors program
+- ⚡ **Industrial Experience** - High-voltage electrical systems
+- 🛡️ **Community Service** - Active volunteer and church organizations
+
+</div>
+
+---
+
+## 🎯 **Goals & Vision**
+
+**Short-term (2025):**
+- Complete private pilot license
+- Launch Furulie LLC commercial services
+- Graduate with B.S. in Information Technology
+
+**Long-term (2026+):**
+- Expand Furulie LLC to government contracting
+- Pursue advanced degrees in aerospace engineering
+- Develop innovative aerospace technologies
 
 ---
 
 <div align="center">
 
-*"Building the future, one project at a time."*
+### *"Building the future, one project at a time."*
 
 **In God We Trust** 🙏
+
+---
+
+**© 2025 Preston Furulie • Phoenix, Arizona • [fllc.net](https://fllc.net)**
 
 </div>
