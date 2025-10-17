@@ -41,9 +41,9 @@
 
 ## 🚀 Featured Project: Furulie LLC
 
-[![Lines of Code](https://img.shields.io/badge/Lines_of_Code-6.3M+-00C851?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrestonFurulie/FurulieLLC)
-[![Total Commits](https://img.shields.io/badge/Total_Commits-440+-9C27B0?style=for-the-badge&logo=git&logoColor=white)](https://github.com/PrestonFurulie/FurulieLLC)
-[![Repository](https://img.shields.io/badge/Repository-FurulieLLC-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrestonFurulie/FurulieLLC)
+[![Lines of Code](https://img.shields.io/badge/Lines_of_Code-6.3M+-00C851?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrestonFurulie/PrestonFurulie)
+[![Total Commits](https://img.shields.io/badge/Total_Commits-440+-9C27B0?style=for-the-badge&logo=git&logoColor=white)](https://github.com/PrestonFurulie/PrestonFurulie)
+[![Repository](https://img.shields.io/badge/Repository-FurulieLLC-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrestonFurulie/PrestonFurulie)
 
 **Enterprise-grade SaaS platform** with 6.3+ million lines of code, featuring automation dashboards, cybersecurity tools, and business intelligence solutions.
 
@@ -108,13 +108,14 @@
 
 ## 📈 GitHub Stats
 
-![Preston's Awards](https://github-profile-trophy.vercel.app/?username=PrestonFurulie-ma&rank=S,AAA,AA,A)
+[![Preston's Awards](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&rank=S,AAA,AA,A&theme=matrix&margin-w=10&margin-h=10)](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&rank=S,AAA,AA,A)
 
-![Preston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=matrix)
+[![Preston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=matrix&cache_seconds=86400&v=1)](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=matrix)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=matrix)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=matrix&cache_seconds=86400&v=1)](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=matrix)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrestonFurulie&theme=matrix)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrestonFurulie&theme=matrix&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://github-readme-streak-stats.herokuapp.com/?user=PrestonFurulie&theme=matrix)
+
 
 ---
 
