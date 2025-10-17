@@ -35,7 +35,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=matrix)
 
 ---
 
@@ -62,17 +62,24 @@
 
 ## 💼 Experience
 
-### ⚡ Industrial Electrician  
-*IBEW Local 640* — 2021–2023  
-- 🏭 TSMC, Nestlé, JA Solar – high-voltage installs, automation  
-- 📋 Led blueprint execution and onsite project planning
+
+### <img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/b0279821-6a3c-44ad-b47b-182481c8fcd1" /> NASA Interm
+*Pheonix College* — 2025–Present  
+- 🖥️ Coding, Mechanical Engineering, Electrical Engineering  
+- 🔧 Building high altitude - near space data collection systems
 
 ---
 
 ### 💻 IT Intern  
-*Maricopa Community Colleges* — 2024–Present  
+*Maricopa Community Colleges* — 2025–Present  
 - 🖥️ System administration, networking, help desk  
-- 🔧 Built internal documentation systems
+- 🔧 Restructuring internal documentation systems
+
+---
+### ⚡ Industrial Electrician  
+*IBEW Local 640* — 2021–2023  
+- 🏭 TSMC, Nestlé, JA Solar – high-voltage installs, automation  
+- 📋 Led blueprint execution and onsite project planning
 
 ---
 
@@ -101,11 +108,13 @@
 
 ## 📈 GitHub Stats
 
-![Preston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=radical)
+![Preston's Awards](https://github-profile-trophy.vercel.app/?username=PrestonFurulie-ma&rank=S,AAA,AA,A)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=radical)
+![Preston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=matrix)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrestonFurulie&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=matrix)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrestonFurulie&theme=matrix)
 
 ---
 
