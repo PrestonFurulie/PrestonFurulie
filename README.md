@@ -119,6 +119,6 @@ Added Lines: 6347859
 <div align="center">
 
 > **"In God We Trust 🙏 — Building the future, one project at a time."**  
-> © 2025 Preston Furulie • Phoenix, AZ
+> © 2025 Furulie LLC • Phoenix, AZ
 
 </div>
