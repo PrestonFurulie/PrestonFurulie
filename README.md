@@ -2,12 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
-# Hey, I’m Preston Furulie 🚀  
+# Hey, I'm Preston Furulie 🚀  
 **Entrepreneur • NASA Intern • IT Student • Pilot**
 
-![Website](https://img.shields.io/badge/FurulieLLC.com-Visit-00C851?style=for-the-badge&logo=globe&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-Contact_Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Website](https://img.shields.io/badge/FurulieLLC.com-Visit-00C851?style=for-the-badge&logo=globe&logoColor=white)](https://fllc.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preston-furulie/)
+[![Email](https://img.shields.io/badge/Email-preston@fllc.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preston@fllc.net)
 
 </div>
 
@@ -30,6 +30,22 @@
 🎓 **IT Student** at Phoenix College  
 🚀 **NASA ASCEND Intern** | ✈️ **FAA Student Pilot**  
 🧠 Founder of [Furulie LLC](https://fllc.net) — building enterprise-grade platforms for automation, analytics, and security.
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=radical)
+
+---
+
+## 🚀 Featured Project: Furulie LLC
+
+[![Lines of Code](https://img.shields.io/badge/Lines_of_Code-6.3M+-00C851?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrestonFurulie/FurulieLLC)
+[![Total Commits](https://img.shields.io/badge/Total_Commits-440+-9C27B0?style=for-the-badge&logo=git&logoColor=white)](https://github.com/PrestonFurulie/FurulieLLC)
+[![Repository](https://img.shields.io/badge/Repository-FurulieLLC-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrestonFurulie/FurulieLLC)
+
+**Enterprise-grade SaaS platform** with 6.3+ million lines of code, featuring automation dashboards, cybersecurity tools, and business intelligence solutions.
 
 ---
 
@@ -72,44 +88,32 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### 🔷 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-### 🧰 Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-
-### 🔌 Platforms & Tools
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📈 Stats
+## 📈 GitHub Stats
 
-<div align="center">
+![Preston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrestonFurulie&theme=radical)
 
 ---
 
-## 🤝 Connect
-
-<div align="center">
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preston-furulie/)
 [![Email](https://img.shields.io/badge/Email-preston@fllc.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preston@fllc.net)
 [![Website](https://img.shields.io/badge/Website-fllc.net-00C851?style=for-the-badge&logo=globe&logoColor=white)](https://fllc.net)
-
-</div>
 
 ---
 
