@@ -106,19 +106,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-[![Preston's Awards](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&rank=S,AAA,AA,A&theme=matrix&margin-w=10&margin-h=10)](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&rank=S,AAA,AA,A)
-
-[![Preston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=matrix&cache_seconds=86400&v=1)](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=matrix)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=matrix&cache_seconds=86400&v=1)](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=matrix)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrestonFurulie&theme=matrix&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://github-readme-streak-stats.herokuapp.com/?user=PrestonFurulie&theme=matrix)
-
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preston-furulie/)
