@@ -125,10 +125,9 @@
 [![Website](https://img.shields.io/badge/Website-fllc.net-00C851?style=for-the-badge&logo=globe&logoColor=white)](https://fllc.net)
 
 ---
-##$ $added=0; $removed=0; git log --no-merges --pretty=tformat: --numstat | ForEach-Object { if ($_ -match '^\s*([0-9]+)\s+([0-9]+)\s+') { $added += [int]$matches[1]; $removed += [int]$matches[2] } }; Write-Output "Added: $added"; Write-Output "Removed: $removed"; Write-Output ("Net: " + ($added - $removed))
-Added: 6347859
-Removed: 6289263
-Net: 58596
+##$ $added=0; $removed=0; git log --no-merges --pretty=tformat: --numstat | ForEach-Object { if ($_ -match '^\s*([0-9]+)\s+([0-9]+)\s+') Write-Output "Added Lines: $added")
+Added Lines: 6347859
+
 
 ---
 <div align="center">
