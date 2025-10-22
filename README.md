@@ -110,10 +110,6 @@
 [![Email](https://img.shields.io/badge/Email-preston@fllc.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preston@fllc.net)
 [![Website](https://img.shields.io/badge/Website-fllc.net-00C851?style=for-the-badge&logo=globe&logoColor=white)](https://fllc.net)
 
----
-##$ $added=0; $removed=0; git log --no-merges --pretty=tformat: --numstat | ForEach-Object { if ($_ -match '^\s*([0-9]+)\s+([0-9]+)\s+') Write-Output "Added Lines: $added")
-Added Lines: 6347859
-
 
 ---
 <div align="center">
