@@ -3,7 +3,7 @@
 # Hey, I'm Preston Furulie 🚀  
 **Entrepreneur • NASA Intern • IT Student • Pilot**
 
-[![Website](https://img.shields.io/badge/FurulieLLC.com-Visit-00C851?style=for-the-badge&logo=globe&logoColor=white)](https://fllc.net)
+[![Website](https://img.shields.io/badge/FLLC.com-Visit-00C851?style=for-the-badge&logo=globe&logoColor=white)](https://fllc.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preston-furulie/)
 [![Email](https://img.shields.io/badge/Email-preston@fllc.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preston@fllc.net)
 
