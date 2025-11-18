@@ -5,7 +5,6 @@
 ### <span style="color: #FF00FF">⚡</span> **Neon Cyberpunk Developer** <span style="color: #00FFFF">⚡</span> | <span style="color: #9D00FF">🌌</span> **Midnight Tokyo Aesthetic** <span style="color: #FF1493">🌌</span>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/preston-furulie/)
-[![GitHub](https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
 [![Email](https://img.shields.io/badge/Email-9D00FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:pfurulie@gmail.com)
 [![Website](https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=About.me&logoColor=000000&labelColor=000000)](https://fllc.net)
 
