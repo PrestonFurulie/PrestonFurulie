@@ -27,7 +27,7 @@
 
 </div>
 
-**Hey there! My name is Preston Furulie.
+My name is Preston Furulie.
 I'm an up-and-coming CEO who is passionate about adding value to your company!
 Curating scalable, secure and most importantly, high-performance applications is my specialty.
 With my experience in high-profile, multi-million dollar projects at TSMC, NASA and the Nat. Science Foundation, I possess a wide range of skills:
