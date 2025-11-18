@@ -48,7 +48,7 @@
 
 ## <span style="color: #9D00FF">📊</span> **GITHUB STATS & PERFORMANCE** <span style="color: #FF1493">📊</span>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github&custom_title=Preston%27s%20GitHub%20Stats&include_all_commits=true&border_color=9D00FF&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github&custom_title=Preston%27s%20GitHub%20Stats&include_all_commits=true&border_color=9D00FF&count_private=true)
 
 <div align="center" style="margin-top: 20px;">
 
@@ -58,9 +58,22 @@
 
 <div align="center" style="margin-top: 30px;">
 
-### <span style="color: #FF00FF">🚀</span> **Featured Repository: FurulieLLC** <span style="color: #00FFFF">🚀</span>
+### <span style="color: #FF00FF">🚀</span> **Featured Repositories** <span style="color: #00FFFF">🚀</span>
 
-[![FurulieLLC](https://github-readme-stats.vercel.app/api/pin/?username=PrestonFurulie&repo=FurulieLLC&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=9D00FF)](https://github.com/PrestonFurulie/FurulieLLC)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+[![NASA-ASCEND-Website](https://github-readme-stats.vercel.app/api/pin/?username=PrestonFurulie&repo=NASA-ASCEND-Website&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=9D00FF)](https://github.com/PrestonFurulie/NASA-ASCEND-Website)
+
+</td>
+<td width="50%" valign="top">
+
+[![WebDevelopment](https://github-readme-stats.vercel.app/api/pin/?username=PrestonFurulie&repo=WebDevelopment&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=9D00FF)](https://github.com/PrestonFurulie/WebDevelopment)
+
+</td>
+</tr>
+</table>
 
 </div>
 
