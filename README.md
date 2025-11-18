@@ -27,10 +27,18 @@
 
 </div>
 
-**Full-stack developer** with experience at **NASA** and other government organizations, specializing in advanced electrical hardware and software design and data transmission system enhancements. Proficient in Python, C++, and cybersecurity, delivering high-quality software solutions. Strong collaborator focused on driving operational efficiency and innovation in technology environments.
-
-**Versatile IT Professional** with comprehensive experience across the entire IT/Cybersecurity spectrum—from infrastructure and networking to application development, security operations, and cloud architecture. Well-versed in all IT domains with proven ability to adapt and excel in any team role.
-
+**Hey there! My name is Preston Furulie.
+I'm an up-and-coming CEO who is passionate about adding value to your company!
+Curating scalable, secure and most importantly, high-performance applications is my specialty.
+With my experience in high-profile, multi-million dollar projects at TSMC, NASA and the Nat. Science Foundation, I possess a wide range of skills:
+Advanced electrical hardware installation
+Software design
+Data transmission system enhancements
+Department of Defense Cyber Aware certification
+SAM Registration for government contracting
+Expertise in systems such as React, Next.js, TypeScript, Python, and general cloud infrastructure
+These skills have contributed to my proven track record of delivering enterprise-grade solutions with 99.9% uptime guarantees.
+Let's collaborate to bring the best out of your company!
 ---
 
 <div align="center">
