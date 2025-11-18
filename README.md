@@ -2,11 +2,11 @@
 
 # Preston Furulie 🚀
 
-### Versatile IT Professional | Full-Stack Developer | Cybersecurity Specialist | Cloud Engineer | DevOps | IT Operations | Embedded Systems | Data Engineer
+### Full-Stack Developer | NASA Intern | Cybersecurity Enthusiast | IT Generalist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preston-furulie/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrestonFurulie)
-[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfurulie@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfurulie@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fllc.net)
 
 </div>
@@ -15,170 +15,219 @@
 
 ## 👨‍💻 About Me
 
-**Versatile IT Professional** with comprehensive experience across the **entire IT/Cybersecurity spectrum**—from Full-Stack Development to Cloud Infrastructure, DevOps to IT Operations, Embedded Systems to Data Engineering, and Cybersecurity to Enterprise Solutions. Currently working at **NASA** and other government organizations, specializing in advanced electrical hardware and software design and data transmission system enhancements.
+Full-stack developer with experience at **NASA** and other government organizations, specializing in advanced electrical hardware and software design and data transmission system enhancements. Proficient in Python, C++, and cybersecurity, delivering high-quality software solutions. Strong collaborator focused on driving operational efficiency and innovation in technology environments.
 
-Proficient across all IT domains—frontend development to backend architecture, security compliance to infrastructure management, embedded systems to enterprise solutions. Strong collaborator focused on driving operational efficiency and innovation in technology environments. Successfully delivered projects on time and under budget with zero safety violations across multiple domains.
-
-**Exploring opportunities across all IT/Cyber roles**—open to Full-Stack Development, Cybersecurity, Cloud Engineering, DevOps, IT Operations, Data Engineering, Embedded Systems, and Infrastructure Management positions.
+**Versatile IT Professional** with comprehensive experience across the entire IT/Cybersecurity spectrum—from infrastructure and networking to application development, security operations, and cloud architecture. Well-versed in all IT domains with proven ability to adapt and excel in any team role.
 
 ---
 
-## 🛠️ Comprehensive IT & Cyber Tech Stack
+## 🏆 GitHub Trophies
 
-### 💻 Full-Stack Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+<div align="center">
 
-### ☁️ Cloud & DevOps Engineering
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=FFFFFF)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=github-actions&logoColor=FFFFFF)
-![IaC](https://img.shields.io/badge/IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=FFFFFF)
-![Observability](https://img.shields.io/badge/Observability-FF0000?style=for-the-badge&logo=datadog&logoColor=FFFFFF)
+![trophy](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15)
 
-### 🔒 Cybersecurity & Compliance
-![NIST 800-53](https://img.shields.io/badge/NIST_800--53-FF0000?style=for-the-badge&logo=shield&logoColor=FFFFFF)
-![CIS Benchmarks](https://img.shields.io/badge/CIS_Benchmarks-FF0000?style=for-the-badge&logo=shield-check&logoColor=FFFFFF)
-![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-FF0000?style=for-the-badge&logo=shield&logoColor=FFFFFF)
-![IAM](https://img.shields.io/badge/IAM-FF6B35?style=for-the-badge&logo=key&logoColor=FFFFFF)
-![Encryption](https://img.shields.io/badge/Encryption-00D9FF?style=for-the-badge&logo=lock&logoColor=000000)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FF6B35?style=for-the-badge&logo=crowdstrike&logoColor=FFFFFF)
-![Tanium](https://img.shields.io/badge/Tanium-000000?style=for-the-badge&logo=tanium&logoColor=FFFFFF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF)
+</div>
 
-### 🗄️ Data Engineering & IT Operations
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000000)
+---
+
+## 📊 GitHub Stats & Performance
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=onedark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github&custom_title=Preston%27s%20GitHub%20Stats&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=onedark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=10)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=PrestonFurulie&theme=onedark&hide_border=true&background=000000&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
+
+**Grade: A+** | **Multiple Languages** | **High Activity**
+
+</div>
+
+---
+
+## 🌐 Cloudflare Performance Metrics
+
+<div align="center">
+
+### Production Infrastructure Performance
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| **Total Requests (30 days)** | 146.52k | 🟢 Active |
+| **Total Bandwidth** | 4.3 GB | 🟢 Optimized |
+| **Cached Bandwidth** | 3.53 GB (82%) | 🟢 Excellent |
+| **Unique Visitors (30 days)** | 3.12k | 🟢 Growing |
+| **Peak Daily Visitors** | 242 | 🟢 High Traffic |
+| **Cache Hit Rate** | 32.51% | 🟢 Efficient |
+
+*Production metrics from fllc.net infrastructure*
+
+</div>
+
+---
+
+## 🛠️ Comprehensive IT & Cybersecurity Expertise
+
+### 💻 **Full-Stack Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Experience:** Frontend/backend architecture, API development, SaaS platforms, web applications
+
+---
+
+### ☁️ **Cloud & DevOps Engineering**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
+![IaC](https://img.shields.io/badge/IaC-000000?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Experience:** Infrastructure as Code, CI/CD pipelines, cloud architecture, observability (logs, SLOs, metrics), production deployments
+
+---
+
+### 🔒 **Cybersecurity & Compliance**
+![NIST 800-53](https://img.shields.io/badge/NIST_800--53-000000?style=for-the-badge&logo=shield&logoColor=white)
+![CIS Benchmarks](https://img.shields.io/badge/CIS_Benchmarks-000000?style=for-the-badge&logo=shield-check&logoColor=white)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-000000?style=for-the-badge&logo=shield&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-000000?style=for-the-badge&logo=key&logoColor=white)
+![Encryption](https://img.shields.io/badge/Encryption-000000?style=for-the-badge&logo=lock&logoColor=white)
+![Tanium](https://img.shields.io/badge/Tanium-000000?style=for-the-badge&logo=shield&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-000000?style=for-the-badge&logo=shield&logoColor=white)
+
+**Experience:** Vulnerability scanning, security policy enforcement, IAM integration, compliance auditing (NIST/CIS), threat detection, security frameworks
+
+---
+
+### 🌐 **Network & Infrastructure**
+![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Network+](https://img.shields.io/badge/Network+-007AB8?style=for-the-badge&logo=network&logoColor=white)
+![24/7 Datacenters](https://img.shields.io/badge/24%2F7_Datacenters-000000?style=for-the-badge&logo=server&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Experience:** Network administration, datacenter operations, CDN management, network security, infrastructure monitoring
+
+---
+
+### 💾 **Data Engineering & IT Operations**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=000000)
-![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-FF0000?style=for-the-badge&logo=oracle&logoColor=FFFFFF)
-![TeamDynamix](https://img.shields.io/badge/TeamDynamix-0066CC?style=for-the-badge&logo=servicenow&logoColor=FFFFFF)
-![PeopleSoft](https://img.shields.io/badge/PeopleSoft-FF6B35?style=for-the-badge&logo=oracle&logoColor=FFFFFF)
+![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![TeamDynamix](https://img.shields.io/badge/TeamDynamix-000000?style=for-the-badge&logo=tools&logoColor=white)
+![PeopleSoft](https://img.shields.io/badge/PeopleSoft-000000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🔌 Embedded Systems & Hardware Design
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=FFFFFF)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-FF0000?style=for-the-badge&logo=raspberry-pi&logoColor=FFFFFF)
-![PCB Design](https://img.shields.io/badge/PCB_Design-FF0000?style=for-the-badge&logo=circuit-board&logoColor=FFFFFF)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=FFFFFF)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=FFFFFF)
+**Experience:** Database management, data processing, business intelligence, IT service management, asset tracking, ticket systems
 
-### 🛠️ Development & Enterprise Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![CDW Legal SOW](https://img.shields.io/badge/CDW_Legal_SOW-0066CC?style=for-the-badge&logo=briefcase&logoColor=FFFFFF)
-![NECA Compliance](https://img.shields.io/badge/NECA_Compliance-FFD700?style=for-the-badge&logo=checkmark-circle&logoColor=000000)
+---
+
+### 🔧 **Embedded Systems & Hardware**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB_Design-000000?style=for-the-badge&logo=circuit-board&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+
+**Experience:** PCB design, sensor systems, embedded programming, hardware-software integration, NASA high-altitude ballooning systems
+
+---
+
+### 🛡️ **Security Operations & Monitoring**
+![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability_Scanning-000000?style=for-the-badge&logo=shield&logoColor=white)
+![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-000000?style=for-the-badge&logo=eye&logoColor=white)
+![Compliance](https://img.shields.io/badge/Compliance-000000?style=for-the-badge&logo=checkmark&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=book&logoColor=white)
+
+**Experience:** Security operations, compliance enforcement, monitoring systems, documentation, incident response preparation
 
 ---
 
 ## 🏆 Certifications
 
-![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-007AB8?style=for-the-badge&logo=comptia&logoColor=FFFFFF)
-![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-007AB8?style=for-the-badge&logo=comptia&logoColor=FFFFFF)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-007AB8?style=for-the-badge&logo=comptia&logoColor=FFFFFF)
-![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=FFFFFF)
-![AWS Partner](https://img.shields.io/badge/AWS_Partner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF)
-![DoD Cyber Awareness](https://img.shields.io/badge/DoD_Cyber_Awareness-FF0000?style=for-the-badge&logo=shield&logoColor=FFFFFF)
-![OSHA 10](https://img.shields.io/badge/OSHA_10-FF0000?style=for-the-badge&logo=shield&logoColor=FFFFFF)
-![Student Pilot License](https://img.shields.io/badge/Student_Pilot-FAA-0000FF?style=for-the-badge&logo=airplane&logoColor=FFFFFF)
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-007AB8?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-007AB8?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-007AB8?style=for-the-badge&logo=comptia&logoColor=white)
+![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![AWS Partner](https://img.shields.io/badge/AWS_Partner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DoD Cyber Awareness](https://img.shields.io/badge/DoD_Cyber_Awareness-000000?style=for-the-badge&logo=shield&logoColor=white)
+![OSHA 10](https://img.shields.io/badge/OSHA_10-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+![Student Pilot License](https://img.shields.io/badge/Student_Pilot-FAA-1E90FF?style=for-the-badge&logo=airplane&logoColor=white)
 ![Indoor Wireman](https://img.shields.io/badge/Indoor_Wireman-IBEW-FFD700?style=for-the-badge&logo=tools&logoColor=000000)
 
 ---
 
-## 💼 Professional Experience Across IT Domains
+## 💼 Current Roles & Experience
 
-### 🚀 NASA | ASCEND Intern | **Embedded Systems & Full-Stack Development**
-*Oct 2025 – Present*
+### 🚀 **NASA | ASCEND Intern** | *Oct 2025 – Present*
+**Hardware & Embedded Systems | Research & Development**
 
-- **Hardware Engineering**: Designed PCB boards, Arduino sensor systems, and communications software for high-altitude ballooning missions under NASA/Arizona Space Grant
-- **Full-Stack Development**: Built the PC NASA ASCEND website and security framework, presented data and refined research findings to academic audiences
-- **Embedded Systems**: Utilized Fusion360, Arduino coding, flight sensors, embedded systems, and data processing
-- **Technologies**: Arduino, C++, Fusion360, AutoCAD, Embedded Systems, Flight Sensors, Data Processing, Web Development, Security Frameworks
+- Designed PCB boards, Arduino sensor systems, and communications software for high-altitude ballooning missions
+- Built the PC NASA ASCEND website and security framework with full-stack architecture
+- Utilized Fusion360, Arduino coding, flight sensors, embedded systems, and data processing
+- Presented research findings to academic audiences, improving program visibility
 
-### 🏢 Furulie LLC | Founder | **Full-Stack Development & DevOps**
-*Oct 2025 – Present*
-
-- **Frontend Architecture**: Architected Next.js/TypeScript frontend with modern UI/UX principles, enhancing operational efficiency of SaaS platform
-- **Backend & APIs**: Built secure API and backend services with robust authentication and authorization
-- **DevOps Engineering**: Implemented DevOps pipelines (CI/CD, IaC), integrated Stripe and identity systems, improving system security and payment processing efficiency
-- **Cybersecurity**: Enforced cybersecurity policies (IAM, rate limiting, secret rotation, encryption)
-- **Observability**: Oversaw observability (logs, SLOs, metrics), reviewed codebase, and approved production releases, ensuring high-quality software delivery and system reliability
-- **Business Operations**: Managed vendor and partner relations
-- **Technologies**: Next.js, TypeScript, AWS, CI/CD, IaC, Stripe, IAM, Observability Tools, Identity Management, Payment Processing
-
-### 🎓 Maricopa Community Colleges | IT Intern | **Cybersecurity & IT Operations**
-*Sep 2025 – Present*
-
-- **Infrastructure Management**: Supported secure infrastructure and 24/7 datacenters for 2M+ user network via Tanium, CrowdStrike, Cloudflare, IAM Integration, and framework development
-- **Security Operations**: Conducted vulnerability scans, integrated IAM, and helped enforce NIST/CIS compliance across departments
-- **Security Tools**: Managed enterprise security via Tanium, CrowdStrike, Cloudflare, and IAM Integration
-- **IT Operations**: Developed internal documentation and monitoring systems to improve ticket response and asset tracking
-- **Data Engineering**: Utilized Power BI, Oracle OCI, and Supabase for data analysis and reporting
-- **Technologies**: Tanium, CrowdStrike, Cloudflare, IAM, NIST 800-53, CIS Benchmarks, Oracle OCI, Power BI, Supabase, TeamDynamix, Vulnerability Scanning, Compliance Frameworks
-
-### ⚡ IBEW, TSMC, JA Solar, CCE, Nestle | Electrician Apprentice | **Infrastructure & Project Management**
-*Jun 2021 – Aug 2024*
-
-- **Infrastructure Installation**: Installed high-voltage systems across semiconductor and industrial sites with rigorous compliance to safety codes
-- **Project Management**: Interpreted blueprints, managed inventory, and coordinated installation schedules with multidisciplinary teams, ensuring efficient project execution and resource allocation
-- **Compliance**: Delivered large-scale infrastructure projects on time, under budget, and with zero safety violations
-- **Technologies**: High-Voltage Systems, Blueprint Reading, Inventory Management, Project Coordination, NECA Compliance, Safety Protocols
+**Technologies:** Embedded Systems, PCB Design, Arduino, Fusion 360, Web Development, Data Processing
 
 ---
 
-## 📊 GitHub Achievements & Stats
+### 🏢 **Furulie LLC | Founder** | *Oct 2025 – Present*
+**Full-Stack Development | DevOps | Cybersecurity | Product Management**
 
-<div align="center">
+- Architected Next.js/TypeScript frontend, secure API, and backend services for SaaS platform
+- Built DevOps pipelines (CI/CD, IaC), integrated Stripe and identity systems
+- Enforced cybersecurity policies (IAM, rate limiting, secret rotation, encryption)
+- Oversaw observability (logs, SLOs, metrics), code reviews, and production releases
+- Managed vendor and partner relations, business operations
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=radical&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&rank_icon=github&include_all_commits=true&count_private=true&rank=S+)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=10)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=PrestonFurulie&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-</div>
+**Technologies:** Next.js, TypeScript, DevOps, CI/CD, AWS, Stripe, Security, Observability
 
 ---
 
-## ☁️ Cloudflare Performance Metrics
+### 🎓 **Maricopa Community Colleges | IT Intern** | *Sep 2025 – Present*
+**IT Operations | Security Operations | Infrastructure | Compliance**
 
-<div align="center">
+- Supported secure infrastructure and 24/7 datacenters for 2M+ user network
+- Managed security tools: Tanium, CrowdStrike, Cloudflare, IAM Integration
+- Conducted vulnerability scans, integrated IAM, enforced NIST/CIS compliance
+- Developed internal documentation and monitoring systems
+- Improved ticket response times and asset tracking
 
-### fllc.net Infrastructure Stats
+**Technologies:** Tanium, CrowdStrike, Cloudflare, IAM, NIST 800-53, CIS Benchmarks, Power BI, Oracle OCI, Supabase, TeamDynamix, PeopleSoft
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF)
+---
 
-**24-Hour Performance Metrics:**
-- **Unique Visitors**: 128
-- **Total Requests**: 68.79k
-- **Percent Cached**: 32.51%
-- **Total Data Served**: 351 MB
-- **Data Cached**: 114 MB
+### 🎖️ **ASU AFROTC DET 025 | Cadet** | *Jan 2023–Aug 2025*
+**Leadership | Team Management | Operational Planning**
 
-**Security & Configuration:**
-- ✅ DNS Setup: Full
-- ✅ SSL/TLS: Active
-- ✅ DDoS Protection: Enabled
-- ✅ WAF: Configured
-- ✅ AI Crawl Control: Managed
+- Trained in foundational military leadership, officer development, and mission readiness
+- Coursework and practical exercises in leadership, team management, operational planning, ethical decision-making
+- Attended Flight School (Dec 2023–Present)
 
-</div>
+---
+
+### ⚡ **Electrician Apprentice** | *IBEW, TSMC, JA Solar, CCE, Nestle* | *Jun 2021–Aug 2024*
+**Project Management | Infrastructure | Safety Compliance**
+
+- Installed high-voltage systems in semiconductor and industrial sites with rigorous safety code compliance
+- Interpreted blueprints, managed inventory, coordinated installation schedules with multidisciplinary teams
+- Delivered large-scale infrastructure projects on time, under budget, with **zero safety violations**
 
 ---
 
 ## 🎓 Education
 
-**Phoenix College** | *B.S. Information Technology (4.0 GPA)* | 2023–2026
+**Phoenix College** | *B.S. Information Technology (4.0 GPA - A+)* | 2023–2026
 - Coursework: Cybersecurity, Data Structures, System Admin, Project Management
 - Adjunctly Enrolled: Arizona State University (Military and Leadership), Glendale Community College, Angel Aviation (Flight School)
 
@@ -188,18 +237,15 @@ Proficient across all IT domains—frontend development to backend architecture,
 
 ---
 
-## 🌟 Key Achievements & IT Domain Expertise
+## 🌟 Key Achievements
 
-### 🎯 Cross-Domain IT Excellence
-- ✅ **Full-Stack Development**: Built production SaaS platforms with Next.js/TypeScript, secure APIs, and modern architecture
-- ✅ **Cybersecurity**: Implemented NIST 800-53 and CIS Benchmarks compliance, threat modeling, IAM, and encryption
-- ✅ **Cloud & DevOps**: Architected AWS infrastructure, CI/CD pipelines, IaC, and observability systems
-- ✅ **IT Operations**: Managed 24/7 datacenters for 2M+ users with enterprise security tools (Tanium, CrowdStrike, Cloudflare)
-- ✅ **Embedded Systems**: Designed PCB boards and Arduino systems for NASA high-altitude missions
-- ✅ **Data Engineering**: Utilized SQL, Supabase, Power BI, and Oracle OCI for data analysis and reporting
-- ✅ **Infrastructure Management**: Delivered large-scale projects on time, under budget, with zero safety violations
-- ✅ **4.0 GPA** in Information Technology program with coursework across all IT domains
+- ✅ **4.0 GPA (A+)** in Information Technology program
+- ✅ **Zero Safety Violations** across all construction projects
+- ✅ **NASA Intern** working on high-altitude ballooning missions
+- ✅ **Founder** of successful SaaS platform with full-stack architecture
 - ✅ **Student Pilot** actively pursuing aviation certification
+- ✅ **Multi-Domain Expertise** across entire IT/Cybersecurity spectrum
+- ✅ **Production Infrastructure** serving 3.12k+ unique visitors with 82% cache efficiency
 
 ---
 
@@ -207,8 +253,8 @@ Proficient across all IT domains—frontend development to backend architecture,
 
 - 🔭 High-altitude ballooning missions with NASA ASCEND
 - 🌱 Advanced cybersecurity practices and cloud architecture
-- 👯 Open to collaboration on embedded systems, full-stack projects, cybersecurity, and cloud infrastructure
-- 💬 Ask me about: NASA projects, embedded systems, cybersecurity, cloud engineering, DevOps, IT operations, or construction project management
+- 👯 Open to collaboration on embedded systems, full-stack projects, and security initiatives
+- 💬 Ask me about: NASA projects, embedded systems, cybersecurity, cloud infrastructure, or construction project management
 - ⚡ Fun fact: I'm a licensed student pilot and former electrician apprentice with zero safety violations!
 
 ---
@@ -219,9 +265,10 @@ Proficient across all IT domains—frontend development to backend architecture,
 
 **📍 Peoria, AZ**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/preston-furulie/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/PrestonFurulie)
-[![Email](https://img.shields.io/badge/Email-pfurulie@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:pfurulie@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preston-furulie/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrestonFurulie)
+[![Email](https://img.shields.io/badge/Email-pfurulie@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfurulie@gmail.com)
+[![Website](https://img.shields.io/badge/Website-fllc.net-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://fllc.net)
 
 </div>
 
