@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Preston+Furulie+%F0%9F%9A%80;FullStack+Developer+%7C+NASA+Intern;Cybersecurity+%7C+IT" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Preston+Furulie+%F0%9F%9A%80;+Developer+%7C+NASA+Intern;Cybersecurity+%7C+IT" />
 
 ### <span style="color: #FF00FF">⚡</span> **Neon Cyberpunk Developer** <span style="color: #00FFFF">⚡</span> | <span style="color: #9D00FF">🌌</span> **Midnight Tokyo Aesthetic** <span style="color: #FF1493">🌌</span>
 
