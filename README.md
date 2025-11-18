@@ -36,9 +36,17 @@
 
 <div align="center">
 
-## <span style="color: #FF00FF">🏆</span> **GITHUB TROPHIES** <span style="color: #00FFFF">🏆</span>
+## <span style="color: #FF00FF">🏆</span> **GITHUB TROPHIES & ACHIEVEMENTS** <span style="color: #00FFFF">🏆</span>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=onedark&no-frame=false&column=8&margin-w=10&margin-h=10&rank=SSS,SS,S,AAA,AA,A,B,C&rank_icon=github)
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+
+### <span style="color: #9D00FF">📈</span> **Trophy Breakdown** <span style="color: #FF1493">📈</span>
+
+**<span style="color: #00FFFF">All Ranks Displayed:</span>** <span style="color: #FF00FF">SSS</span> | <span style="color: #9D00FF">SS</span> | <span style="color: #00D9FF">S</span> | <span style="color: #FF1493">AAA</span> | <span style="color: #00FFFF">AA</span> | <span style="color: #FF00FF">A</span> | <span style="color: #9D00FF">B</span> | <span style="color: #00D9FF">C</span>
 
 </div>
 
