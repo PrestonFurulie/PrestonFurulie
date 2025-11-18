@@ -48,32 +48,19 @@
 
 ## <span style="color: #9D00FF">📊</span> **GITHUB STATS & PERFORMANCE** <span style="color: #FF1493">📊</span>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github&custom_title=Preston%27s%20GitHub%20Stats&include_all_commits=true&border_color=9D00FF)
-
-<div align="center">
-
-### <span style="color: #00FFFF">💻</span> **Programming Languages & Technologies** <span style="color: #FF00FF">💻</span>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&text_color=FFFFFF&hide_progress=false&border_color=9D00FF&langs_count=15&exclude_repo=)
-
-</td>
-<td width="50%" valign="top">
-
-![Top Languages Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&text_color=FFFFFF&hide_progress=false&border_color=9D00FF&card_width=400&langs_count=15)
-
-</td>
-</tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github&custom_title=Preston%27s%20GitHub%20Stats&include_all_commits=true&border_color=9D00FF&include_all_commits=true&count_private=true)
 
 <div align="center" style="margin-top: 20px;">
 
 **<span style="color: #00FFFF">Grade: A+</span>** | **<span style="color: #FF00FF">Multi-Language Developer</span>** | **<span style="color: #9D00FF">Python, JavaScript, TypeScript, C++, HTML, CSS & More</span>**
+
+</div>
+
+<div align="center" style="margin-top: 30px;">
+
+### <span style="color: #FF00FF">🚀</span> **Featured Repository: FurulieLLC** <span style="color: #00FFFF">🚀</span>
+
+[![FurulieLLC](https://github-readme-stats.vercel.app/api/pin/?username=PrestonFurulie&repo=FurulieLLC&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=9D00FF)](https://github.com/PrestonFurulie/FurulieLLC)
 
 </div>
 
