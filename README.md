@@ -48,7 +48,24 @@
 
 ## <span style="color: #9D00FF">📊</span> **GITHUB STATS & PERFORMANCE** <span style="color: #FF1493">📊</span>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github&custom_title=Preston%27s%20GitHub%20Stats&include_all_commits=true&border_color=9D00FF&count_private=true)
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github&custom_title=Preston%27s%20GitHub%20Stats&include_all_commits=true&border_color=9D00FF&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+</td>
+<td width="50%" valign="top">
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=PrestonFurulie&theme=tokyonight&hide_border=true&background=0D0D1A&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=9D00FF)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center" style="margin-top: 20px;">
 
