@@ -97,13 +97,15 @@ Experienced engineering professional with a background in managing large-scale i
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Achievements
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=radical&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&rank_icon=github&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=10&exclude_repo=)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=PrestonFurulie&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
