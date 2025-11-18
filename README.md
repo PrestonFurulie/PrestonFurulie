@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Preston+Furulie+%F0%9F%9A%80;+Developer+%7C+NASA+Intern;Cybersecurity+%7C+IT" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Preston+Furulie+%F0%9F%9A%80;Full-Stack+Developer+%7C+NASA+Intern;Cybersecurity+Specialist+%7C+IT+Generalist" />
 
 ### <span style="color: #FF00FF">⚡</span> **Neon Cyberpunk Developer** <span style="color: #00FFFF">⚡</span> | <span style="color: #9D00FF">🌌</span> **Midnight Tokyo Aesthetic** <span style="color: #FF1493">🌌</span>
 
@@ -36,17 +36,9 @@
 
 <div align="center">
 
-## <span style="color: #FF00FF">🏆</span> **GITHUB TROPHIES & ACHIEVEMENTS** <span style="color: #00FFFF">🏆</span>
+## <span style="color: #FF00FF">🏆</span> **GITHUB TROPHIES** <span style="color: #00FFFF">🏆</span>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=onedark&no-frame=false&column=8&margin-w=10&margin-h=10&rank=SSS,SS,S,AAA,AA,A,B,C&rank_icon=github)
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-
-### <span style="color: #9D00FF">📈</span> **Trophy Breakdown** <span style="color: #FF1493">📈</span>
-
-**<span style="color: #00FFFF">All Ranks Displayed:</span>** <span style="color: #FF00FF">SSS</span> | <span style="color: #9D00FF">SS</span> | <span style="color: #00D9FF">S</span> | <span style="color: #FF1493">AAA</span> | <span style="color: #00FFFF">AA</span> | <span style="color: #FF00FF">A</span> | <span style="color: #9D00FF">B</span> | <span style="color: #00D9FF">C</span>
+![trophy](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -354,6 +346,7 @@
 **<span style="color: #9D00FF">📍 Peoria, AZ</span>**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/preston-furulie/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
 [![Email](https://img.shields.io/badge/Email-pfurulie@gmail.com-9D00FF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000)](mailto:pfurulie@gmail.com)
 [![Website](https://img.shields.io/badge/Website-fllc.net-00D9FF?style=for-the-badge&logo=About.me&logoColor=000000&labelColor=000000)](https://fllc.net)
 
