@@ -38,7 +38,6 @@ SAM Registration for government contracting
 Expertise in systems such as React, Next.js, TypeScript, Python, and general cloud infrastructure
 These skills have contributed to my proven track record of delivering enterprise-grade solutions with 99.9% uptime guarantees.
 Let's collaborate to bring the best out of your company!
----
 
 <div align="center">
 
