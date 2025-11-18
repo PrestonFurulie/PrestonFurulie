@@ -1,12 +1,22 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFFF&center=true&vCenter=true&width=600&height=50&lines=Preston+Furulie+%F0%9F%9A%80;Full-Stack+Developer+%7C+NASA+Intern;Cybersecurity+Specialist+%7C+IT+Generalist" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Preston+Furulie+%F0%9F%9A%80;Full-Stack+Developer+%7C+NASA+Intern;Cybersecurity+Specialist+%7C+IT+Generalist" />
 
 ### <span style="color: #FF00FF">⚡</span> **Neon Cyberpunk Developer** <span style="color: #00FFFF">⚡</span> | <span style="color: #9D00FF">🌌</span> **Midnight Tokyo Aesthetic** <span style="color: #FF1493">🌌</span>
+
+<div align="center" style="margin: 20px 0;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/preston-furulie/)
 [![Email](https://img.shields.io/badge/Email-9D00FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:pfurulie@gmail.com)
 [![Website](https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=About.me&logoColor=000000&labelColor=000000)](https://fllc.net)
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+
+**<span style="color: #00FFFF">📍</span> <span style="color: #FF00FF">Peoria, Arizona</span>** | **<span style="color: #9D00FF">🏢</span> <span style="color: #00D9FF">Furulie LLC</span>** | **<span style="color: #FF1493">🎓</span> <span style="color: #00FFFF">4.0 GPA (A+)</span>**
+
+</div>
 
 </div>
 
@@ -40,7 +50,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github&custom_title=Preston%27s%20GitHub%20Stats&include_all_commits=true&border_color=9D00FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&text_color=FFFFFF&langs_count=10&border_color=9D00FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrestonFurulie&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&text_color=FFFFFF&hide_progress=false&border_color=9D00FF&card_width=600)
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=PrestonFurulie&theme=tokyonight&hide_border=true&background=0D0D1A&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=9D00FF)
 
