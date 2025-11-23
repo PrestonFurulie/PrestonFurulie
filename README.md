@@ -105,6 +105,35 @@ Let's collaborate to bring the best out of your company!
 
 <div align="center">
 
+## <span style="color: #00FFFF">🏢</span> **FURULIELLC REPOSITORY STATISTICS** <span style="color: #FF00FF">🏢</span>
+
+### <span style="color: #00FFFF">Enterprise SaaS Platform Repository</span>
+
+<div align="center">
+
+[![FurulieLLC](https://github-readme-stats.vercel.app/api/pin/?username=PrestonFurulie&repo=FurulieLLC&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=9D00FF)](https://github.com/PrestonFurulie/FurulieLLC)
+
+</div>
+
+### <span style="color: #FF00FF">📊</span> **Repository Metrics**
+
+| <span style="color: #FF00FF">Metric</span> | <span style="color: #00FFFF">Value</span> | <span style="color: #9D00FF">Status</span> |
+|--------|-------|--------|
+| **Total Commits** | [Auto-updated] | <span style="color: #00FFFF">🟢 Active</span> |
+| **Lines of Code** | [Auto-updated] | <span style="color: #00FFFF">🟢 Growing</span> |
+| **Pull Requests** | [Auto-updated] | <span style="color: #00FFFF">🟢 Maintained</span> |
+| **Issues Resolved** | [Auto-updated] | <span style="color: #00FFFF">🟢 Tracked</span> |
+| **Contributors** | 1+ | <span style="color: #00FFFF">🟢 Active</span> |
+| **Repository Activity** | Continuous | <span style="color: #00FFFF">🟢 Active Development</span> |
+
+*<span style="color: #FF00FF">Production repository metrics from FurulieLLC platform</span>*
+
+</div>
+
+---
+
+<div align="center">
+
 ## <span style="color: #00D9FF">🌐</span> **CLOUDFLARE PERFORMANCE METRICS** <span style="color: #FF1493">🌐</span>
 
 ### <span style="color: #00FFFF">Production Infrastructure Performance</span>
