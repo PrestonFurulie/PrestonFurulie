@@ -648,9 +648,30 @@ if __name__ == '__main__':
 - Integrated CrowdStrike Falcon API for real-time threat detection and automated containment workflows
 - Integrated Tanium API for endpoint compliance monitoring with automated remediation
 - **Designed and implemented unified reporting dashboard** - Created comprehensive dashboard UI with interactive navigation, real-time data visualization, and multi-platform data aggregation. Built intuitive filtering and drill-down capabilities for security analysts to navigate through thousands of endpoints efficiently
+
+<div align="center">
+
+#### <span style="color: #FF00FF">📊</span> **Unified Security Operations Dashboard**
+
+![Unified Security Dashboard](https://via.placeholder.com/900x500/0D0D1A/00FFFF?text=Unified+Security+Operations+Dashboard)
+
+*<span style="color: #9D00FF">Example: Custom-built unified dashboard aggregating data from CrowdStrike, Tanium, and Azure Sentinel with cross-platform threat correlation, endpoint compliance status, and real-time alerting</span>*
+
+</div>
+
 - Implemented scheduled automation jobs with error handling and retry logic
 - Built notification system for critical security events with escalation workflows
 - **Dashboard UI Navigation Expertise:** Expert-level proficiency in security operations dashboard navigation, including CrowdStrike Falcon console, Tanium Comply dashboard, and custom-built unified dashboards with cross-platform correlation views
+
+<div align="center">
+
+#### <span style="color: #00D9FF">🔍</span> **Dashboard Navigation Workflow**
+
+![Dashboard Navigation](https://via.placeholder.com/700x400/0D0D1A/FF00FF?text=Dashboard+Navigation+Workflow)
+
+*<span style="color: #FF1493">Example workflow: Starting from unified overview → Filtering by severity → Drilling into endpoint details → Viewing threat timeline → Executing containment actions</span>*
+
+</div>
 
 **Results:**
 - ✅ Automated security scanning reduced manual effort by 80% (from 25 hrs/week to 5 hrs/week)

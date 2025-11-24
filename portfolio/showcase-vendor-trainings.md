@@ -27,6 +27,16 @@ This showcase demonstrates practical implementations and training scenarios from
 
 **Scenario:** A security operations team receives an alert indicating suspicious process execution patterns across multiple endpoints. The detection shows PowerShell scripts executing with encoded commands, which is a common indicator of malicious activity.
 
+<div align="center">
+
+#### <span style="color: #FF00FF">🛡️</span> **CrowdStrike Falcon Dashboard - Threat Detection View**
+
+![CrowdStrike Falcon Dashboard](https://www.crowdstrike.com/wp-content/uploads/2023/01/falcon-dashboard-overview.png)
+
+*<span style="color: #00FFFF">Example: CrowdStrike Falcon console showing threat detection dashboard with endpoint status, detection timeline, and severity indicators</span>*
+
+</div>
+
 **Training Objective:** Configure automated threat detection workflows and implement containment procedures using CrowdStrike Falcon's API and console.
 
 **Implementation Approach:**
@@ -120,6 +130,16 @@ class CrowdStrikeIncidentResponse:
 ### Real-World Training Scenario: Patch Management Deployment
 
 **Scenario:** A critical security patch has been released for a widely deployed application. The IT team needs to deploy this patch across 5,000+ endpoints within 48 hours while ensuring minimal business disruption and maintaining compliance requirements.
+
+<div align="center">
+
+#### <span style="color: #9D00FF">⚙️</span> **Tanium Console - Patch Deployment Dashboard**
+
+![Tanium Patch Management Dashboard](https://www.tanium.com/wp-content/uploads/2023/02/tanium-patch-management-dashboard.png)
+
+*<span style="color: #FF00FF">Example: Tanium Comply dashboard showing patch deployment status, endpoint compliance, and deployment progress across multiple phases</span>*
+
+</div>
 
 **Training Objective:** Design and execute a phased patch deployment strategy using Tanium's endpoint management capabilities.
 

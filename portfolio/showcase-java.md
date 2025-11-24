@@ -179,6 +179,20 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
 
 ## <span style="color: #9D00FF">🌐</span> **Network Monitoring Service**
 
+### Dashboard UI & Navigation
+
+**Network Operations Dashboard Proficiency:** Expert-level experience in network monitoring dashboard design and navigation. Built comprehensive dashboards for real-time device status, traffic analysis, and alert management with intuitive navigation patterns.
+
+<div align="center">
+
+#### <span style="color: #00FFFF">🌐</span> **Network Operations Center Dashboard**
+
+![Network Operations Dashboard](https://via.placeholder.com/900x500/0D0D1A/00FFFF?text=Network+Operations+Center+Dashboard)
+
+*<span style="color: #FF00FF">Example: Network monitoring dashboard showing device status grid, real-time traffic graphs, alert summary panel, and interactive device management table with status filtering and drill-down capabilities</span>*
+
+</div>
+
 ### Network Monitoring Service Implementation
 
 ```java

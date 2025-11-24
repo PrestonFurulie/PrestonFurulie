@@ -394,12 +394,32 @@ export default {
 
 **Cloudflare Dashboard Navigation Proficiency:** Advanced expertise in navigating Cloudflare's analytics dashboard, including Web Analytics, Security Events dashboard, and Performance Insights. Experience with custom dashboard creation, metric correlation, and real-time monitoring interfaces.
 
+<div align="center">
+
+#### <span style="color: #00FFFF">🌐</span> **Cloudflare Analytics Dashboard**
+
+![Cloudflare Analytics Dashboard](https://www.cloudflare.com/img/learning/security/glossary/web-application-firewall-waf/cloudflare-dashboard-analytics.png)
+
+*<span style="color: #FF00FF">Example: Cloudflare Analytics dashboard showing request metrics, bandwidth usage, cache hit ratios, and security event summaries with interactive time-range selection</span>*
+
+</div>
+
 **Key Dashboard Navigation Skills:**
 - **Web Analytics Dashboard:** Navigated traffic patterns, visitor analytics, and performance metrics with time-range filtering
 - **Security Events Dashboard:** Monitored threat detection, WAF events, and DDoS attacks with drill-down investigation capabilities
 - **Performance Insights:** Analyzed Core Web Vitals, cache performance, and edge network metrics
 - **Custom Dashboard Creation:** Built custom dashboards combining multiple data sources for executive reporting
 - **Real-Time Monitoring:** Utilized real-time analytics for immediate incident response and traffic analysis
+
+<div align="center">
+
+#### <span style="color: #9D00FF">🛡️</span> **Security Events Dashboard View**
+
+![Cloudflare Security Dashboard](https://www.cloudflare.com/img/learning/security/glossary/web-application-firewall-waf/cloudflare-waf-dashboard.png)
+
+*<span style="color: #00D9FF">Example: Cloudflare Security Events dashboard displaying WAF rule matches, threat intelligence, and DDoS mitigation statistics with drill-down to individual event details</span>*
+
+</div>
 
 ### Real-Time Analytics Configuration
 

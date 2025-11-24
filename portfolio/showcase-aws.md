@@ -303,12 +303,34 @@ resource "aws_s3_bucket_policy" "enterprise_data" {
 
 **Dashboard Navigation Proficiency:** Expert-level proficiency in AWS CloudWatch dashboard design, including custom widget configuration, metric visualization, and intuitive navigation patterns. Experience creating multi-panel dashboards with drill-down capabilities, time-range selectors, and cross-service correlation views.
 
+<div align="center">
+
+#### <span style="color: #00FFFF">📊</span> **CloudWatch Dashboard Example**
+
+![AWS CloudWatch Dashboard](https://docs.aws.amazon.com/images/cloudwatch/latest/monitoring/images/dashboard-example.png)
+
+*<span style="color: #FF00FF">Example: Multi-service CloudWatch dashboard showing EC2, RDS, and application metrics with time-series visualization and alarm indicators</span>*
+
+</div>
+
 **Key Dashboard Features Implemented:**
 - **Custom Widget Layouts:** Designed responsive dashboard layouts with configurable widget positioning and sizing
 - **Interactive Navigation:** Implemented drill-down capabilities from high-level metrics to detailed service-level views
 - **Time-Series Visualization:** Created comprehensive time-series charts with multiple metric overlays for trend analysis
 - **Alert Integration:** Integrated CloudWatch alarms with visual indicators and notification workflows
 - **Cross-Service Correlation:** Built dashboards correlating metrics across EC2, RDS, S3, and Lambda services
+
+<div align="center">
+
+#### <span style="color: #9D00FF">🎯</span> **Dashboard Navigation Patterns**
+
+| <span style="color: #00FFFF">Feature</span> | <span style="color: #FF00FF">Implementation</span> | <span style="color: #9D00FF">Visual Example</span> |
+|----------|----------------|----------------|
+| **Hierarchical Navigation** | Top-level overview → Service-specific views | ![Navigation Flow](https://via.placeholder.com/400x200/0D0D1A/00FFFF?text=Dashboard+Navigation+Flow) |
+| **Time-Range Selection** | Quick selectors (1h, 6h, 24h, 7d, 30d) | ![Time Selector](https://via.placeholder.com/300x150/0D0D1A/FF00FF?text=Time+Range+Selector) |
+| **Metric Correlation** | Cross-service metric overlays | ![Metric Correlation](https://via.placeholder.com/400x200/0D0D1A/9D00FF?text=Metric+Correlation+View) |
+
+</div>
 
 ```terraform
 # CloudWatch Log Group with Retention

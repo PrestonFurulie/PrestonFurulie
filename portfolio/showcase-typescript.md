@@ -452,12 +452,51 @@ export class NetworkConfigurationService {
 
 **UI/UX Proficiency:** Advanced expertise in designing and implementing intuitive dashboard interfaces with seamless navigation patterns. Experience creating responsive dashboard layouts with real-time data updates, interactive filtering, and drill-down capabilities.
 
+<div align="center">
+
+#### <span style="color: #00FFFF">📊</span> **Network Monitoring Dashboard UI**
+
+![Network Monitoring Dashboard](https://via.placeholder.com/800x450/0D0D1A/00FFFF?text=Network+Monitoring+Dashboard+UI)
+
+*<span style="color: #FF00FF">Example: Real-time network monitoring dashboard with device status cards, traffic metrics, security alerts, and interactive device table with filtering and sorting capabilities</span>*
+
+</div>
+
 **Key Dashboard Navigation Features:**
 - **Responsive Grid Layouts:** Adaptive dashboard layouts that reorganize widgets based on screen size
 - **Interactive Data Visualization:** Click-to-drill-down functionality from summary metrics to detailed views
 - **Real-Time Updates:** WebSocket integration for live metric updates without page refresh
 - **Custom Filtering:** Multi-criteria filtering with saved filter presets for common queries
 - **Dashboard Customization:** User-configurable widget positioning and visibility preferences
+
+<div align="center">
+
+#### <span style="color: #9D00FF">🎨</span> **Dashboard UI Components**
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**Metric Cards with Drill-Down**
+
+![Metric Card](https://via.placeholder.com/300x200/0D0D1A/FF00FF?text=Interactive+Metric+Card)
+
+*Clickable cards navigate to detailed views*
+
+</td>
+<td width="50%" align="center">
+
+**Interactive Data Table**
+
+![Data Table](https://via.placeholder.com/300x200/0D0D1A/00FFFF?text=Sortable+Filterable+Table)
+
+*Sortable columns and real-time filtering*
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ### Real-Time Monitoring Dashboard Component
 
