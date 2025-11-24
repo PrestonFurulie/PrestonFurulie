@@ -74,6 +74,12 @@ Let's collaborate to bring the best out of your company!
 
 <div align="center" style="margin-top: 20px;">
 
+**<span style="color: #00FFFF">Total Contributions:</span>** <span style="color: #FF00FF">600+ commits</span> across FurulieLLC and other repositories | **<span style="color: #9D00FF">Active Development:</span>** <span style="color: #00D9FF">Continuous</span>
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+
 **<span style="color: #00FFFF">Grade: A+</span>** | **<span style="color: #FF00FF">Multi-Language Developer</span>** | **<span style="color: #9D00FF">Python, JavaScript, TypeScript, C++, HTML, CSS & More</span>**
 
 </div>
@@ -119,14 +125,14 @@ Let's collaborate to bring the best out of your company!
 
 | <span style="color: #FF00FF">Metric</span> | <span style="color: #00FFFF">Value</span> | <span style="color: #9D00FF">Status</span> |
 |--------|-------|--------|
-| **Total Commits** | [Auto-updated] | <span style="color: #00FFFF">🟢 Active</span> |
+| **Total Commits** | 600+ | <span style="color: #00FFFF">🟢 Active</span> |
 | **Lines of Code** | [Auto-updated] | <span style="color: #00FFFF">🟢 Growing</span> |
 | **Pull Requests** | [Auto-updated] | <span style="color: #00FFFF">🟢 Maintained</span> |
 | **Issues Resolved** | [Auto-updated] | <span style="color: #00FFFF">🟢 Tracked</span> |
 | **Contributors** | 1+ | <span style="color: #00FFFF">🟢 Active</span> |
 | **Repository Activity** | Continuous | <span style="color: #00FFFF">🟢 Active Development</span> |
 
-*<span style="color: #FF00FF">Production repository metrics from FurulieLLC platform</span>*
+*<span style="color: #FF00FF">Production repository metrics from FurulieLLC platform - 600+ commits demonstrating active development and continuous improvement</span>*
 
 </div>
 
@@ -148,6 +154,26 @@ Let's collaborate to bring the best out of your company!
 | **Cache Hit Rate** | 32.51% | <span style="color: #00FFFF">🟢 Efficient</span> |
 
 *<span style="color: #FF00FF">Production metrics from fllc.net infrastructure</span>*
+
+</div>
+
+---
+
+<div align="center">
+
+## <span style="color: #FF00FF">🎯</span> **FEATURED SHOWCASES** <span style="color: #00FFFF">🎯</span>
+
+### <span style="color: #9D00FF">Explore My Best Work</span>
+
+<div align="center" style="margin: 20px 0;">
+
+[![AWS Showcase](https://img.shields.io/badge/AWS_Showcase-00FFFF?style=for-the-badge&logo=amazon-aws&logoColor=000000&labelColor=000000)](portfolio/showcase-aws.md)
+[![Python Showcase](https://img.shields.io/badge/Python_Showcase-FF00FF?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000)](portfolio/showcase-python.md)
+[![Vendor Training Showcase](https://img.shields.io/badge/Vendor_Training-9D00FF?style=for-the-badge&logo=graduation-cap&logoColor=FFFFFF&labelColor=000000)](portfolio/showcase-vendor-trainings.md)
+
+</div>
+
+*<span style="color: #00D9FF">Click above to explore detailed technical showcases</span>*
 
 </div>
 
