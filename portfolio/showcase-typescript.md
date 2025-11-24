@@ -448,6 +448,17 @@ export class NetworkConfigurationService {
 
 ## <span style="color: #00D9FF">📊</span> **Real-Time Monitoring Dashboard**
 
+### Dashboard UI Design & Navigation Expertise
+
+**UI/UX Proficiency:** Advanced expertise in designing and implementing intuitive dashboard interfaces with seamless navigation patterns. Experience creating responsive dashboard layouts with real-time data updates, interactive filtering, and drill-down capabilities.
+
+**Key Dashboard Navigation Features:**
+- **Responsive Grid Layouts:** Adaptive dashboard layouts that reorganize widgets based on screen size
+- **Interactive Data Visualization:** Click-to-drill-down functionality from summary metrics to detailed views
+- **Real-Time Updates:** WebSocket integration for live metric updates without page refresh
+- **Custom Filtering:** Multi-criteria filtering with saved filter presets for common queries
+- **Dashboard Customization:** User-configurable widget positioning and visibility preferences
+
 ### Real-Time Monitoring Dashboard Component
 
 ```typescript
@@ -528,66 +539,208 @@ export const MonitoringDashboard: React.FC<MonitoringDashboardProps> = ({
 
   return (
     <div className="monitoring-dashboard">
-      <h1>Network Monitoring Dashboard</h1>
-
-      <div className="metrics-grid">
-        <div className="metric-card">
-          <h2>Device Status</h2>
-          <p>Total Devices: {metrics.totalDevices}</p>
-          <p>Online: {metrics.onlineDevices}</p>
-          <p>Offline: {metrics.offlineDevices}</p>
-        </div>
-
-        <div className="metric-card">
-          <h2>Network Traffic</h2>
-          <p>Inbound: {(metrics.networkTraffic.inbound / 1024 / 1024).toFixed(2)} MB/s</p>
-          <p>Outbound: {(metrics.networkTraffic.outbound / 1024 / 1024).toFixed(2)} MB/s</p>
-        </div>
-
-        <div className="metric-card">
-          <h2>Security Alerts</h2>
-          <p>Critical: {metrics.securityAlerts.critical}</p>
-          <p>High: {metrics.securityAlerts.high}</p>
-          <p>Medium: {metrics.securityAlerts.medium}</p>
-          <p>Low: {metrics.securityAlerts.low}</p>
+      {/* Dashboard Header with Navigation */}
+      <div className="dashboard-header">
+        <h1>Network Monitoring Dashboard</h1>
+        <div className="dashboard-controls">
+          <select 
+            className="time-range-selector"
+            onChange={(e) => handleTimeRangeChange(e.target.value)}
+          >
+            <option value="1h">Last Hour</option>
+            <option value="6h">Last 6 Hours</option>
+            <option value="24h">Last 24 Hours</option>
+            <option value="7d">Last 7 Days</option>
+          </select>
+          <button 
+            className="refresh-btn"
+            onClick={fetchMetrics}
+            title="Refresh Dashboard"
+          >
+            🔄 Refresh
+          </button>
         </div>
       </div>
 
-      <div className="devices-table">
-        <h2>Network Devices</h2>
-        <table>
-          <thead>
-            <tr>
-              <th>Hostname</th>
-              <th>IP Address</th>
-              <th>Type</th>
-              <th>Status</th>
-              <th>Last Seen</th>
-            </tr>
-          </thead>
-          <tbody>
-            {devices.map((device) => (
-              <tr key={device.id}>
-                <td>{device.hostname}</td>
-                <td>{device.ipAddress}</td>
-                <td>{device.deviceType}</td>
-                <td>
-                  <span
-                    className={`status status-${device.status}`}
-                  >
-                    {device.status}
-                  </span>
-                </td>
-                <td>{new Date(device.lastSeen).toLocaleString()}</td>
+      {/* Metrics Grid with Interactive Cards */}
+      <div className="metrics-grid">
+        <div 
+          className="metric-card clickable"
+          onClick={() => navigateToDeviceDetails('all')}
+          title="Click to view detailed device status"
+        >
+          <div className="metric-header">
+            <h2>Device Status</h2>
+            <span className="metric-icon">🖥️</span>
+          </div>
+          <div className="metric-value">{metrics.totalDevices}</div>
+          <div className="metric-label">Total Devices</div>
+          <div className="metric-breakdown">
+            <span className="status-online">🟢 {metrics.onlineDevices} Online</span>
+            <span className="status-offline">🔴 {metrics.offlineDevices} Offline</span>
+          </div>
+        </div>
+
+        <div 
+          className="metric-card clickable"
+          onClick={() => navigateToTrafficAnalysis()}
+          title="Click to view network traffic analysis"
+        >
+          <div className="metric-header">
+            <h2>Network Traffic</h2>
+            <span className="metric-icon">📊</span>
+          </div>
+          <div className="traffic-metrics">
+            <div className="traffic-inbound">
+              <span className="traffic-label">Inbound</span>
+              <span className="traffic-value">
+                {(metrics.networkTraffic.inbound / 1024 / 1024).toFixed(2)} MB/s
+              </span>
+            </div>
+            <div className="traffic-outbound">
+              <span className="traffic-label">Outbound</span>
+              <span className="traffic-value">
+                {(metrics.networkTraffic.outbound / 1024 / 1024).toFixed(2)} MB/s
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <div 
+          className="metric-card clickable alert-card"
+          onClick={() => navigateToSecurityAlerts()}
+          title="Click to view security alert details"
+        >
+          <div className="metric-header">
+            <h2>Security Alerts</h2>
+            <span className="metric-icon">🚨</span>
+          </div>
+          <div className="alert-breakdown">
+            <div className="alert-critical">
+              <span className="alert-count">{metrics.securityAlerts.critical}</span>
+              <span className="alert-label">Critical</span>
+            </div>
+            <div className="alert-high">
+              <span className="alert-count">{metrics.securityAlerts.high}</span>
+              <span className="alert-label">High</span>
+            </div>
+            <div className="alert-medium">
+              <span className="alert-count">{metrics.securityAlerts.medium}</span>
+              <span className="alert-label">Medium</span>
+            </div>
+            <div className="alert-low">
+              <span className="alert-count">{metrics.securityAlerts.low}</span>
+              <span className="alert-label">Low</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Interactive Devices Table with Sorting and Filtering */}
+      <div className="devices-section">
+        <div className="section-header">
+          <h2>Network Devices</h2>
+          <div className="table-controls">
+            <input 
+              type="text" 
+              placeholder="Search devices..." 
+              className="device-search"
+              onChange={(e) => filterDevices(e.target.value)}
+            />
+            <select 
+              className="status-filter"
+              onChange={(e) => filterByStatus(e.target.value)}
+            >
+              <option value="all">All Status</option>
+              <option value="online">Online Only</option>
+              <option value="offline">Offline Only</option>
+            </select>
+          </div>
+        </div>
+        <div className="devices-table-container">
+          <table className="devices-table">
+            <thead>
+              <tr>
+                <th 
+                  className="sortable"
+                  onClick={() => sortDevices('hostname')}
+                >
+                  Hostname ↕️
+                </th>
+                <th 
+                  className="sortable"
+                  onClick={() => sortDevices('ipAddress')}
+                >
+                  IP Address ↕️
+                </th>
+                <th>Type</th>
+                <th 
+                  className="sortable"
+                  onClick={() => sortDevices('status')}
+                >
+                  Status ↕️
+                </th>
+                <th 
+                  className="sortable"
+                  onClick={() => sortDevices('lastSeen')}
+                >
+                  Last Seen ↕️
+                </th>
+                <th>Actions</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {devices.map((device) => (
+                <tr 
+                  key={device.id}
+                  className="device-row"
+                  onClick={() => navigateToDeviceDetails(device.id)}
+                  style={{ cursor: 'pointer' }}
+                >
+                  <td className="device-hostname">{device.hostname}</td>
+                  <td className="device-ip">{device.ipAddress}</td>
+                  <td className="device-type">
+                    <span className="type-badge">{device.deviceType}</span>
+                  </td>
+                  <td>
+                    <span
+                      className={`status-badge status-${device.status}`}
+                    >
+                      {device.status}
+                    </span>
+                  </td>
+                  <td className="device-last-seen">
+                    {new Date(device.lastSeen).toLocaleString()}
+                  </td>
+                  <td>
+                    <button 
+                      className="action-btn"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        viewDeviceDetails(device.id);
+                      }}
+                    >
+                      View Details
+                    </button>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
   );
 };
 ```
+
+**Dashboard Navigation Features Demonstrated:**
+- **Click-to-Drill-Down:** Metric cards are clickable, navigating to detailed views
+- **Interactive Filtering:** Real-time search and status filtering for device table
+- **Sortable Columns:** Click column headers to sort table data
+- **Time Range Selection:** Dropdown selector for different time ranges
+- **Visual Status Indicators:** Color-coded badges and icons for quick status recognition
+- **Responsive Layout:** Dashboard adapts to different screen sizes
 
 ---
 

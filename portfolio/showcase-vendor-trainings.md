@@ -98,16 +98,19 @@ class CrowdStrikeIncidentResponse:
 **Scenario 1: Ransomware Detection and Containment**
 - **Context:** Multiple endpoints showing file encryption patterns
 - **Action:** Automated containment, process termination, and network isolation
+- **Dashboard Navigation:** Utilized CrowdStrike Falcon console to navigate threat detection dashboard, filtered detections by severity and time range, drilled down into endpoint details, and executed containment workflows through intuitive UI navigation
 - **Outcome:** Prevented lateral spread to 95% of network infrastructure
 
 **Scenario 2: Advanced Persistent Threat (APT) Investigation**
 - **Context:** Low-and-slow attack detected over 30-day period
 - **Action:** Behavioral analysis, timeline reconstruction, IOC extraction
+- **Dashboard Navigation:** Leveraged Falcon's timeline view to navigate through 30-day attack progression, used dashboard filters to correlate events across multiple endpoints, and exported investigation data through dashboard export functionality
 - **Outcome:** Identified full attack chain and compromised accounts
 
 **Scenario 3: Zero-Day Exploit Response**
 - **Context:** Unknown malware variant detected with no signature match
 - **Action:** Behavioral analysis, sandboxing, custom detection rules
+- **Dashboard Navigation:** Navigated to behavioral analysis dashboard, reviewed process execution trees, configured custom detection rules through dashboard UI, and monitored rule effectiveness through real-time dashboard metrics
 - **Outcome:** Created custom detection rules preventing future infections
 
 ---

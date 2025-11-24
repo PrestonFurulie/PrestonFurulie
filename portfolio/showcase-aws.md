@@ -299,6 +299,17 @@ resource "aws_s3_bucket_policy" "enterprise_data" {
 
 ## <span style="color: #00D9FF">📊</span> **CloudWatch Monitoring & Observability**
 
+### Dashboard UI Design & Navigation
+
+**Dashboard Navigation Proficiency:** Expert-level proficiency in AWS CloudWatch dashboard design, including custom widget configuration, metric visualization, and intuitive navigation patterns. Experience creating multi-panel dashboards with drill-down capabilities, time-range selectors, and cross-service correlation views.
+
+**Key Dashboard Features Implemented:**
+- **Custom Widget Layouts:** Designed responsive dashboard layouts with configurable widget positioning and sizing
+- **Interactive Navigation:** Implemented drill-down capabilities from high-level metrics to detailed service-level views
+- **Time-Series Visualization:** Created comprehensive time-series charts with multiple metric overlays for trend analysis
+- **Alert Integration:** Integrated CloudWatch alarms with visual indicators and notification workflows
+- **Cross-Service Correlation:** Built dashboards correlating metrics across EC2, RDS, S3, and Lambda services
+
 ```terraform
 # CloudWatch Log Group with Retention
 resource "aws_cloudwatch_log_group" "app_logs" {
@@ -332,7 +343,7 @@ resource "aws_cloudwatch_metric_alarm" "high_cpu" {
   }
 }
 
-# CloudWatch Dashboard
+# CloudWatch Dashboard - Production Dashboard with Custom Layout
 resource "aws_cloudwatch_dashboard" "main" {
   dashboard_name = "enterprise-production-dashboard"
 
@@ -355,12 +366,56 @@ resource "aws_cloudwatch_dashboard" "main" {
           stat   = "Average"
           region = "us-east-1"
           title  = "EC2 Instance Metrics"
+          view   = "timeSeries"
+          stacked = false
+        }
+      },
+      {
+        type   = "metric"
+        x      = 12
+        y      = 0
+        width  = 12
+        height = 6
+
+        properties = {
+          metrics = [
+            ["AWS/RDS", "CPUUtilization", "DBInstanceIdentifier", "production-db"],
+            [".", "DatabaseConnections", ".", "."],
+            [".", "FreeableMemory", ".", "."]
+          ]
+          period = 300
+          stat   = "Average"
+          region = "us-east-1"
+          title  = "RDS Database Metrics"
+          view   = "timeSeries"
+        }
+      },
+      {
+        type   = "log"
+        x      = 0
+        y      = 6
+        width  = 24
+        height = 6
+
+        properties = {
+          query = "SOURCE '/aws/ec2/enterprise-app' | fields @timestamp, @message\n| filter @message like /ERROR/\n| sort @timestamp desc\n| limit 100"
+          region = "us-east-1"
+          title  = "Error Logs"
         }
       }
     ]
   })
 }
 ```
+
+### Dashboard UI Navigation Best Practices
+
+**Navigation Patterns Implemented:**
+- **Hierarchical Navigation:** Top-level overview dashboards with drill-down to service-specific views
+- **Tab-Based Organization:** Logical grouping of related metrics (Infrastructure, Application, Security, Cost)
+- **Quick Filters:** Time-range selectors (1h, 6h, 24h, 7d, 30d) with custom range option
+- **Metric Search:** Quick search functionality to locate specific metrics across services
+- **Dashboard Templates:** Reusable dashboard templates for different environments (dev, staging, prod)
 
 ---
 
@@ -484,7 +539,8 @@ resource "aws_autoscaling_policy" "scale_down" {
 - Designed multi-AZ VPC architecture with isolated private subnets for sensitive financial data
 - Deployed RDS PostgreSQL with encryption at rest and automated point-in-time recovery
 - Configured AWS WAF and Shield Advanced for DDoS protection and threat mitigation
-- Implemented comprehensive CloudWatch dashboards and CloudTrail logging for audit compliance
+- **Built comprehensive CloudWatch dashboards with custom UI layouts** - Created intuitive navigation with drill-down capabilities, real-time metric visualization, and cross-service correlation views. Designed dashboard templates for different stakeholder views (executive summary, operations team, security team)
+- Implemented CloudTrail logging with dashboard integration for audit compliance
 - Established IAM roles following least privilege principles with automated access reviews
 - Created blue-green deployment pipelines for zero-downtime migrations
 

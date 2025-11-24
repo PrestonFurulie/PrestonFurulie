@@ -390,6 +390,17 @@ export default {
 
 ## <span style="color: #00FFFF">📊</span> **Analytics & Performance Monitoring**
 
+### Dashboard UI Design & Navigation
+
+**Cloudflare Dashboard Navigation Proficiency:** Advanced expertise in navigating Cloudflare's analytics dashboard, including Web Analytics, Security Events dashboard, and Performance Insights. Experience with custom dashboard creation, metric correlation, and real-time monitoring interfaces.
+
+**Key Dashboard Navigation Skills:**
+- **Web Analytics Dashboard:** Navigated traffic patterns, visitor analytics, and performance metrics with time-range filtering
+- **Security Events Dashboard:** Monitored threat detection, WAF events, and DDoS attacks with drill-down investigation capabilities
+- **Performance Insights:** Analyzed Core Web Vitals, cache performance, and edge network metrics
+- **Custom Dashboard Creation:** Built custom dashboards combining multiple data sources for executive reporting
+- **Real-Time Monitoring:** Utilized real-time analytics for immediate incident response and traffic analysis
+
 ### Real-Time Analytics Configuration
 
 ```javascript
