@@ -305,11 +305,33 @@ resource "aws_s3_bucket_policy" "enterprise_data" {
 
 <div align="center">
 
-#### <span style="color: #00FFFF">📊</span> **CloudWatch Dashboard Example**
+#### <span style="color: #00FFFF">📊</span> **CloudWatch Dashboard Layout Example**
 
-![AWS CloudWatch Dashboard](https://docs.aws.amazon.com/images/cloudwatch/latest/monitoring/images/dashboard-example.png)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  CloudWatch Production Dashboard                    [1h] [6h] [24h]│
+├─────────────────────────────────────────────────────────────────┤
+│  ┌──────────────────────┐  ┌──────────────────────┐            │
+│  │ EC2 Metrics          │  │ RDS Metrics          │            │
+│  │ CPU: ████████░░ 80%  │  │ CPU: ██████░░░░ 60%  │            │
+│  │ Network: ████░░░░░░   │  │ Connections: 245/500  │            │
+│  │ ──────────────────── │  │ ──────────────────── │            │
+│  │ [Chart: Time Series]  │  │ [Chart: Time Series]  │            │
+│  └──────────────────────┘  └──────────────────────┘            │
+│                                                                  │
+│  ┌──────────────────────────────────────────────────────────┐  │
+│  │ Application Logs (Last 100 Errors)                         │  │
+│  │ ┌──────────────────────────────────────────────────────┐ │  │
+│  │ │ 2025-11-24 10:23:15 ERROR: Database connection failed│ │  │
+│  │ │ 2025-11-24 10:22:45 ERROR: Timeout on API request    │ │  │
+│  │ └──────────────────────────────────────────────────────┘ │  │
+│  └──────────────────────────────────────────────────────────┘  │
+│                                                                  │
+│  Alarms: 🟢 2 Active  |  🟡 5 Warning  |  🔴 0 Critical         │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-*<span style="color: #FF00FF">Example: Multi-service CloudWatch dashboard showing EC2, RDS, and application metrics with time-series visualization and alarm indicators</span>*
+*<span style="color: #FF00FF">Example Layout: Multi-service CloudWatch dashboard showing EC2, RDS metrics with time-series charts, log viewer, and alarm status indicators</span>*
 
 </div>
 
@@ -326,9 +348,9 @@ resource "aws_s3_bucket_policy" "enterprise_data" {
 
 | <span style="color: #00FFFF">Feature</span> | <span style="color: #FF00FF">Implementation</span> | <span style="color: #9D00FF">Visual Example</span> |
 |----------|----------------|----------------|
-| **Hierarchical Navigation** | Top-level overview → Service-specific views | ![Navigation Flow](https://via.placeholder.com/400x200/0D0D1A/00FFFF?text=Dashboard+Navigation+Flow) |
-| **Time-Range Selection** | Quick selectors (1h, 6h, 24h, 7d, 30d) | ![Time Selector](https://via.placeholder.com/300x150/0D0D1A/FF00FF?text=Time+Range+Selector) |
-| **Metric Correlation** | Cross-service metric overlays | ![Metric Correlation](https://via.placeholder.com/400x200/0D0D1A/9D00FF?text=Metric+Correlation+View) |
+| **Hierarchical Navigation** | Top-level overview → Service-specific views | <pre>Overview → EC2 → Instance Details</pre> |
+| **Time-Range Selection** | Quick selectors (1h, 6h, 24h, 7d, 30d) | <pre>[1h] [6h] [24h] [7d] [30d]</pre> |
+| **Metric Correlation** | Cross-service metric overlays | <pre>EC2 CPU ↔ RDS Connections</pre> |
 
 </div>
 
