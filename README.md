@@ -43,7 +43,17 @@ Let's collaborate to bring the best out of your company!
 
 ## <span style="color: #FF00FF">🏆</span> **GITHUB TROPHIES** <span style="color: #00FFFF">🏆</span>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C&title=Commits,PullRequest,Issues,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center" style="margin-top: 10px;">
+
+**<span style="color: #00FFFF">🏅 Achievement Unlocked:</span>** <span style="color: #FF00FF">600+ Commits</span> | <span style="color: #9D00FF">Multi-Repository Contributor</span> | <span style="color: #00D9FF">Active Developer</span>
+
+</div>
 
 </div>
 
@@ -167,13 +177,17 @@ Let's collaborate to bring the best out of your company!
 
 <div align="center" style="margin: 20px 0;">
 
-[![AWS Showcase](https://img.shields.io/badge/AWS_Showcase-00FFFF?style=for-the-badge&logo=amazon-aws&logoColor=000000&labelColor=000000)](portfolio/showcase-aws.md)
-[![Python Showcase](https://img.shields.io/badge/Python_Showcase-FF00FF?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000)](portfolio/showcase-python.md)
-[![Vendor Training Showcase](https://img.shields.io/badge/Vendor_Training-9D00FF?style=for-the-badge&logo=graduation-cap&logoColor=FFFFFF&labelColor=000000)](portfolio/showcase-vendor-trainings.md)
+[![AWS Showcase](https://img.shields.io/badge/AWS_Showcase-00FFFF?style=for-the-badge&logo=amazon-aws&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-aws.md)
+[![Python Showcase](https://img.shields.io/badge/Python_Showcase-FF00FF?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-python.md)
+[![Vendor Training Showcase](https://img.shields.io/badge/Vendor_Training-9D00FF?style=for-the-badge&logo=graduation-cap&logoColor=FFFFFF&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-vendor-trainings.md)
 
 </div>
 
-*<span style="color: #00D9FF">Click above to explore detailed technical showcases</span>*
+<div align="center" style="margin-top: 10px;">
+
+*<span style="color: #00D9FF">Click above to explore detailed technical showcases with real-world scenarios and implementations</span>*
+
+</div>
 
 </div>
 
