@@ -65,16 +65,136 @@ Let's collaborate to bring the best out of your company!
 
 <div align="center">
 
+### <span style="color: #00FFFF">⚡</span> **Development Activity Overview** <span style="color: #FF00FF">⚡</span>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+#### <span style="color: #00FFFF">📝</span> **Contributions**
+
+<div style="background: linear-gradient(135deg, #0D0D1A 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #9D00FF;">
+
+**<span style="color: #FF00FF; font-size: 32px;">600+</span>**  
+<span style="color: #00FFFF;">Total Commits</span>
+
+**<span style="color: #FF00FF; font-size: 24px;">8+</span>**  
+<span style="color: #00FFFF;">Repositories</span>
+
+**<span style="color: #FF00FF; font-size: 24px;">Active</span>**  
+<span style="color: #00FFFF;">Development Status</span>
+
+</div>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+#### <span style="color: #FF00FF">🔥</span> **Activity Streak**
+
+<div style="background: linear-gradient(135deg, #0D0D1A 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #00FFFF;">
+
+**<span style="color: #FF1493; font-size: 32px;">Continuous</span>**  
+<span style="color: #00D9FF;">Active Development</span>
+
+**<span style="color: #FF1493; font-size: 24px;">Daily</span>**  
+<span style="color: #00D9FF;">Code Contributions</span>
+
+**<span style="color: #FF1493; font-size: 24px;">🚀</span>**  
+<span style="color: #00D9FF;">Growing Momentum</span>
+
+</div>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+#### <span style="color: #9D00FF">💻</span> **Code Quality**
+
+<div style="background: linear-gradient(135deg, #0D0D1A 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #FF00FF;">
+
+**<span style="color: #00FFFF; font-size: 32px;">A+</span>**  
+<span style="color: #FF00FF;">Grade Rating</span>
+
+**<span style="color: #00FFFF; font-size: 24px;">Multi-Lang</span>**  
+<span style="color: #FF00FF;">Developer</span>
+
+**<span style="color: #00FFFF; font-size: 24px;">⭐</span>**  
+<span style="color: #FF00FF;">Production Ready</span>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center" style="margin-top: 30px;">
+
+### <span style="color: #00D9FF">🌐</span> **Technology Stack & Languages** <span style="color: #FF1493">🌐</span>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrestonFurulie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github&custom_title=Preston%27s%20GitHub%20Stats&include_all_commits=true&border_color=9D00FF&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+#### <span style="color: #00FFFF">Primary Languages</span>
+
+| <span style="color: #FF00FF">Language</span> | <span style="color: #00FFFF">Usage</span> | <span style="color: #9D00FF">Level</span> |
+|----------|--------|--------|
+| **Python** | High | <span style="color: #00FFFF">Expert</span> |
+| **TypeScript** | High | <span style="color: #00FFFF">Expert</span> |
+| **JavaScript** | High | <span style="color: #00FFFF">Expert</span> |
+| **C++** | Medium | <span style="color: #00D9FF">Advanced</span> |
+| **Java** | Medium | <span style="color: #00D9FF">Advanced</span> |
+| **HTML/CSS** | High | <span style="color: #00FFFF">Expert</span> |
 
 </td>
 <td width="50%" valign="top">
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=PrestonFurulie&theme=tokyonight&hide_border=true&background=0D0D1A&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=9D00FF)
+#### <span style="color: #FF00FF">Technologies & Tools</span>
+
+| <span style="color: #00FFFF">Category</span> | <span style="color: #FF00FF">Technologies</span> |
+|----------|------------|
+| **Cloud** | AWS, Cloudflare, Vercel |
+| **Frontend** | React, Next.js, TypeScript |
+| **Backend** | Python, Node.js, Java |
+| **DevOps** | Docker, CI/CD, Terraform |
+| **Security** | CrowdStrike, Tanium, IAM |
+| **Database** | PostgreSQL, Supabase |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center" style="margin-top: 30px;">
+
+### <span style="color: #9D00FF">📈</span> **Key Metrics & Achievements** <span style="color: #00FFFF">📈</span>
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center">
+
+**<span style="color: #FF00FF; font-size: 28px;">600+</span>**  
+<span style="color: #00FFFF;">Commits</span>
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**<span style="color: #FF00FF; font-size: 28px;">8+</span>**  
+<span style="color: #00FFFF;">Repositories</span>
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**<span style="color: #FF00FF; font-size: 28px;">100%</span>**  
+<span style="color: #00FFFF;">Active</span>
+
+</td>
+<td width="25%" valign="top" align="center">
+
+**<span style="color: #FF00FF; font-size: 28px;">A+</span>**  
+<span style="color: #00FFFF;">Grade</span>
 
 </td>
 </tr>
@@ -84,13 +204,7 @@ Let's collaborate to bring the best out of your company!
 
 <div align="center" style="margin-top: 20px;">
 
-**<span style="color: #00FFFF">Total Contributions:</span>** <span style="color: #FF00FF">600+ commits</span> across FurulieLLC and other repositories | **<span style="color: #9D00FF">Active Development:</span>** <span style="color: #00D9FF">Continuous</span>
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-
-**<span style="color: #00FFFF">Grade: A+</span>** | **<span style="color: #FF00FF">Multi-Language Developer</span>** | **<span style="color: #9D00FF">Python, JavaScript, TypeScript, C++, HTML, CSS & More</span>**
+**<span style="color: #00FFFF">🎯 Focus Areas:</span>** <span style="color: #FF00FF">Cloud Infrastructure</span> | <span style="color: #9D00FF">Cybersecurity</span> | <span style="color: #00D9FF">Full-Stack Development</span> | <span style="color: #FF1493">DevOps & Automation</span>
 
 </div>
 
