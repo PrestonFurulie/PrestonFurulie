@@ -303,15 +303,15 @@ I focus on building scalable, secure systems that solve real business problems.
 - ✅ **CCT2019 CTF** - Completed multiple challenges demonstrating coding and security skills
   - *Task 3 (for1) - Reverse engineering and code analysis*
   - *re3 Challenge - Binary analysis and exploitation*
-  - *Documented the full CTF with my approach*
+  - *Documented full CTF writeup with methodology*
 
 #### <span style="color: #00FFFF">🛡️</span> **Security Operations & Incident Response**
 
-- ✅ **Incident Response Process** - Applied structured methods for security incidents
-  - *Built analysis scripts, automated log parsing, created response playbooks*
+- ✅ **Incident Response Process** - Applied structured methodology to security incidents
+  - *Developed analysis scripts, automated log parsing, created response playbooks*
 
 - ✅ **Windows Threat Detection** - Threat hunting and detection techniques
-  - *Wrote detection queries, analyzed malicious code, automated threat detection*
+  - *Detection query development, malicious code analysis, automated threat identification*
 
 #### <span style="color: #00FFFF">🎯</span> **Core Security Fundamentals**
 
@@ -337,7 +337,7 @@ I focus on building scalable, secure systems that solve real business problems.
 | **Security Testing** | Penetration testing, vulnerability assessment | Multiple pentesting rooms |
 | **Problem Solving** | CTF challenges, complex security scenarios | CCT2019 full writeup |
 
-*<span style="color: #FF00FF">These challenges demonstrate practical coding skills, security knowledge, and problem-solving through hands-on work.</span>*
+*<span style="color: #FF00FF">These challenges demonstrate practical coding skills, security knowledge, and technical problem-solving through hands-on practice.</span>*
 
 **<span style="color: #00FFFF">🔗</span> [View Full Profile](https://tryhackme.com/p/Prestonf) <span style="color: #FF00FF">🔗</span>**
 
@@ -460,7 +460,7 @@ I focus on building scalable, secure systems that solve real business problems.
 ![CSS3](https://img.shields.io/badge/CSS3-FF00FF?style=for-the-badge&logo=css3&logoColor=000000&labelColor=000000)
 ![React](https://img.shields.io/badge/React-9D00FF?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)
 
-**Experience:** Frontend/backend work, API development, SaaS platforms, web apps
+**Experience:** Frontend/backend architecture, API development, SaaS platforms, web applications
 
 ---
 
