@@ -27,23 +27,23 @@
 <span style="color: #00FFFF">👨‍💻</span> **ABOUT ME** <span style="color: #FF00FF">👨‍💻</span>
 
 </div> 
-I'm **Preston Furulie**, CEO and full-stack developer at **Furulie LLC**. I build enterprise software, handle cybersecurity, and work on government contracts.
+I'm **Preston Furulie**, CEO and Full-Stack Developer at **Furulie LLC**. I specialize in enterprise IT solutions, cybersecurity, and government contracting.
 
-I built a SaaS platform that's been running at **99.98% uptime** with over **2.5 million requests** processed. It runs on AWS, Vercel, and Cloudflare with monitoring and security built in.
+I developed and deployed a SaaS platform that processes over **2.5 million requests** with **99.98% uptime**. The infrastructure uses AWS, Vercel, and Cloudflare with automated monitoring and security controls.
 
-I'm **SAM registered** and have **DoD Cyber Aware certification**, so I can work on government projects. The platform follows NIST and CIS security standards and keeps proper audit trails.
+I'm **SAM registered** and hold **DoD Cyber Aware certification**, enabling work on government contracts. The platform implements NIST Framework controls and CIS security standards with comprehensive audit trails.
 
-I work across the full stack—from Arduino and PCB design at **NASA ASCEND** to cloud infrastructure. I also worked on big projects at **TSMC** where everything had to stay online 24/7.
+My experience spans the full technology stack—from embedded systems and PCB design at **NASA ASCEND** to enterprise cloud architecture. I've worked on large-scale infrastructure projects at **TSMC** where systems required zero-downtime operations.
 
-Here's what I've done:
-- ✅ **99.98% uptime** (better than the usual 99.9%)
-- ✅ **450+ deployments** with 98.9% success rate
+Platform metrics:
+- ✅ **99.98% uptime SLA** (exceeds industry standard 99.9%)
+- ✅ **450+ successful deployments** with 98.9% success rate
 - ✅ **12,500+ security threats blocked** automatically
-- ✅ **16 database tables** with security policies
+- ✅ **16 database tables** with Row-Level Security policies
 - ✅ **50+ API integrations** with error handling
 - ✅ **Zero security incidents** in production
 
-I like building systems that actually work and stay secure. That's what I do.
+I focus on building scalable, secure systems that solve real business problems.
 
 <div align="center">
 
@@ -57,7 +57,7 @@ I like building systems that actually work and stay secure. That's what I do.
 
 <div align="center" style="margin-top: 10px;">
 
-**<span style="color: #00FFFF">🏅 Achievement Unlocked:</span>** <span style="color: #FF00FF">600+ Commits</span> | <span style="color: #9D00FF">Multi-Repository Contributor</span> | <span style="color: #00D9FF">Active Developer</span>
+**<span style="color: #00FFFF">Stats:</span>** <span style="color: #FF00FF">600+ Commits</span> | <span style="color: #9D00FF">8+ Repositories</span> | <span style="color: #00D9FF">Active Development</span>
 
 </div>
 
@@ -99,14 +99,14 @@ I like building systems that actually work and stay secure. That's what I do.
 
 <div style="background: linear-gradient(135deg, #0D0D1A 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #00FFFF;">
 
-**<span style="color: #FF1493; font-size: 32px;">Continuous</span>**  
-<span style="color: #00D9FF;">Active Development</span>
+**<span style="color: #FF1493; font-size: 32px;">Active</span>**  
+<span style="color: #00D9FF;">Development</span>
 
-**<span style="color: #FF1493; font-size: 24px;">Daily</span>**  
-<span style="color: #00D9FF;">Code Contributions</span>
+**<span style="color: #FF1493; font-size: 24px;">Regular</span>**  
+<span style="color: #00D9FF;">Contributions</span>
 
-**<span style="color: #FF1493; font-size: 24px;">🚀</span>**  
-<span style="color: #00D9FF;">Growing Momentum</span>
+**<span style="color: #FF1493; font-size: 24px;">Ongoing</span>**  
+<span style="color: #00D9FF;">Projects</span>
 
 </div>
 
@@ -120,11 +120,11 @@ I like building systems that actually work and stay secure. That's what I do.
 **<span style="color: #00FFFF; font-size: 32px;">A+</span>**  
 <span style="color: #FF00FF;">Grade Rating</span>
 
-**<span style="color: #00FFFF; font-size: 24px;">Multi-Lang</span>**  
+**<span style="color: #00FFFF; font-size: 24px;">Multi-Language</span>**  
 <span style="color: #FF00FF;">Developer</span>
 
-**<span style="color: #00FFFF; font-size: 24px;">⭐</span>**  
-<span style="color: #FF00FF;">Production Ready</span>
+**<span style="color: #00FFFF; font-size: 24px;">Production</span>**  
+<span style="color: #FF00FF;">Ready</span>
 
 </div>
 
@@ -210,7 +210,7 @@ I like building systems that actually work and stay secure. That's what I do.
 
 <div align="center" style="margin-top: 20px;">
 
-**<span style="color: #00FFFF">🎯 Focus Areas:</span>** <span style="color: #FF00FF">Cloud Infrastructure</span> | <span style="color: #9D00FF">Cybersecurity</span> | <span style="color: #00D9FF">Full-Stack Development</span> | <span style="color: #FF1493">DevOps & Automation</span>
+**<span style="color: #00FFFF">Focus Areas:</span>** <span style="color: #FF00FF">Cloud Infrastructure</span> | <span style="color: #9D00FF">Cybersecurity</span> | <span style="color: #00D9FF">Full-Stack Development</span> | <span style="color: #FF1493">DevOps & Automation</span>
 
 </div>
 
@@ -291,24 +291,24 @@ I like building systems that actually work and stay secure. That's what I do.
 
 #### <span style="color: #00FFFF">🔐</span> **Web Application Security & SQL Injection**
 
-- ✅ **SQL Injection** - Learned SQL injection techniques, building payloads, and database exploitation
-  - *Worked with: SQL query manipulation, UNION-based attacks, time-based blind SQLi, error-based SQLi*
-  - *Built custom SQL payloads, analyzed app logic, bypassed security filters*
+- ✅ **SQL Injection** - Completed SQL injection training covering payload construction and database exploitation
+  - *Covered: SQL query manipulation, UNION-based attacks, time-based blind SQLi, error-based SQLi*
+  - *Built SQL payloads, analyzed application logic, bypassed security filters*
   
 - ✅ **HTTP/2 Request Smuggling** - Web protocol exploitation and request manipulation
-  - *Built custom HTTP/2 requests, found protocol-level vulnerabilities, implemented smuggling techniques*
+  - *Built HTTP/2 requests, identified protocol-level vulnerabilities, implemented smuggling techniques*
 
 #### <span style="color: #00FFFF">🏆</span> **Capture The Flag (CTF) Competitions**
 
-- ✅ **CCT2019 CTF** - Finished multiple challenges showing coding and security skills
+- ✅ **CCT2019 CTF** - Completed multiple challenges demonstrating coding and security skills
   - *Task 3 (for1) - Reverse engineering and code analysis*
   - *re3 Challenge - Binary analysis and exploitation*
-  - *Wrote up the full CTF with my approach*
+  - *Documented the full CTF with my approach*
 
 #### <span style="color: #00FFFF">🛡️</span> **Security Operations & Incident Response**
 
-- ✅ **Incident Response Process** - Used structured methods for security incidents
-  - *Built analysis scripts, automated log parsing, made response playbooks*
+- ✅ **Incident Response Process** - Applied structured methods for security incidents
+  - *Built analysis scripts, automated log parsing, created response playbooks*
 
 - ✅ **Windows Threat Detection** - Threat hunting and detection techniques
   - *Wrote detection queries, analyzed malicious code, automated threat detection*
@@ -337,7 +337,7 @@ I like building systems that actually work and stay secure. That's what I do.
 | **Security Testing** | Penetration testing, vulnerability assessment | Multiple pentesting rooms |
 | **Problem Solving** | CTF challenges, complex security scenarios | CCT2019 full writeup |
 
-*<span style="color: #FF00FF">These challenges show practical coding skills, security knowledge, and solving technical problems through hands-on work.</span>*
+*<span style="color: #FF00FF">These challenges demonstrate practical coding skills, security knowledge, and problem-solving through hands-on work.</span>*
 
 **<span style="color: #00FFFF">🔗</span> [View Full Profile](https://tryhackme.com/p/Prestonf) <span style="color: #FF00FF">🔗</span>**
 
@@ -571,9 +571,9 @@ I like building systems that actually work and stay secure. That's what I do.
 **<span style="color: #00FFFF">Role:</span>** Hardware & Embedded Systems Engineer | Research & Development
 
 **<span style="color: #00FFFF">Key Achievements:</span>**
-- ✨ Designed PCB boards, Arduino sensor systems, and comms software for high-altitude ballooning missions
-- ✨ Built the NASA ASCEND website and security framework
-- ✨ Used Fusion360, Arduino coding, flight sensors, embedded systems, and data processing
+- ✨ Designed PCB boards, Arduino sensor systems, and communications software for high-altitude ballooning missions
+- ✨ Developed the NASA ASCEND website and security framework
+- ✨ Utilized Fusion360, Arduino programming, flight sensors, embedded systems, and data processing
 - ✨ Presented research findings to academic audiences
 
 **<span style="color: #00FFFF">Technologies:</span>** <span style="color: #FF00FF">Embedded Systems</span> | <span style="color: #9D00FF">PCB Design</span> | <span style="color: #00D9FF">Arduino</span> | <span style="color: #FF1493">Fusion 360</span> | <span style="color: #00FFFF">Web Development</span> | <span style="color: #FF00FF">Data Processing</span>
@@ -585,16 +585,16 @@ I like building systems that actually work and stay secure. That's what I do.
 **<span style="color: #00FFFF">Role:</span>** Founder & CEO | Full-Stack Developer | DevOps Engineer | Cybersecurity Lead
 
 **<span style="color: #00FFFF">Key Achievements:</span>**
-- ✨ Built Next.js/TypeScript SaaS platform handling **2.5M+ requests** with **99.98% uptime**
-- ✨ Set up DevOps pipelines (CI/CD, Infrastructure as Code) with **450+ deployments** (98.9% success rate)
-- ✨ Integrated Stripe payments with PCI DSS Level 1 compliance and subscription management
-- ✨ Built identity systems with multi-factor authentication and role-based access control
-- ✨ Set up security policies: IAM integration, rate limiting, secret rotation, encryption
-- ✨ Built monitoring with **200+ metrics**, real-time alerts, SLO tracking, and automated incident response
-- ✨ Got **DoD Cyber Aware certification** and **SAM registration** for government contracting
-- ✨ Set up multi-cloud infrastructure (AWS, Vercel, Cloudflare) with failover and global edge distribution
+- ✨ Developed Next.js/TypeScript SaaS platform processing **2.5M+ requests** with **99.98% uptime**
+- ✨ Implemented DevOps pipelines (CI/CD, Infrastructure as Code) with **450+ deployments** (98.9% success rate)
+- ✨ Integrated Stripe payment processing with PCI DSS Level 1 compliance and subscription management
+- ✨ Implemented identity systems with multi-factor authentication and role-based access control
+- ✨ Enforced security policies: IAM integration, rate limiting, secret rotation, encryption
+- ✨ Established monitoring with **200+ metrics**, real-time alerting, SLO monitoring, and automated incident response
+- ✨ Achieved **DoD Cyber Aware certification** and **SAM registration** for government contracting eligibility
+- ✨ Architected multi-cloud infrastructure (AWS, Vercel, Cloudflare) with automatic failover and global edge distribution
 - ✨ **12,500+ security threats blocked** automatically
-- ✨ Managed 16 database tables with Row-Level Security and 50+ API integrations
+- ✨ Managed 16 database tables with Row-Level Security policies and 50+ API integrations
 
 **<span style="color: #00FFFF">Technologies:</span>** <span style="color: #FF00FF">Next.js 14</span> | <span style="color: #9D00FF">TypeScript</span> | <span style="color: #00D9FF">DevOps</span> | <span style="color: #FF1493">CI/CD</span> | <span style="color: #00FFFF">AWS</span> | <span style="color: #FF00FF">Stripe</span> | <span style="color: #9D00FF">Supabase</span> | <span style="color: #00D9FF">Vercel</span> | <span style="color: #FF1493">Cloudflare</span> | <span style="color: #00FFFF">Security</span> | <span style="color: #FF00FF">Observability</span>
 
@@ -607,10 +607,10 @@ I like building systems that actually work and stay secure. That's what I do.
 **<span style="color: #00FFFF">Role:</span>** IT Intern | Security Operations | Infrastructure Engineer | Compliance Specialist
 
 **<span style="color: #00FFFF">Key Achievements:</span>**
-- ✨ Supported secure infrastructure and 24/7 datacenters for 2M+ user network
-- ✨ Managed security tools: Tanium, CrowdStrike, Cloudflare, IAM
-- ✨ Ran vulnerability scans, integrated IAM, enforced NIST/CIS compliance
-- ✨ Built internal documentation and monitoring systems
+- ✨ Supported secure infrastructure and 24/7 datacenter operations for 2M+ user network
+- ✨ Managed security tools: Tanium, CrowdStrike, Cloudflare, IAM integration
+- ✨ Conducted vulnerability scans, integrated IAM, enforced NIST/CIS compliance
+- ✨ Developed internal documentation and monitoring systems
 - ✨ Improved ticket response times and asset tracking
 
 **<span style="color: #00FFFF">Technologies:</span>** <span style="color: #FF00FF">Tanium</span> | <span style="color: #9D00FF">CrowdStrike</span> | <span style="color: #00D9FF">Cloudflare</span> | <span style="color: #FF1493">IAM</span> | <span style="color: #00FFFF">NIST 800-53</span> | <span style="color: #FF00FF">CIS Benchmarks</span> | <span style="color: #9D00FF">Power BI</span> | <span style="color: #00D9FF">Oracle OCI</span> | <span style="color: #FF1493">Supabase</span> | <span style="color: #00FFFF">TeamDynamix</span> | <span style="color: #FF00FF">PeopleSoft</span>
@@ -622,8 +622,8 @@ I like building systems that actually work and stay secure. That's what I do.
 **<span style="color: #00FFFF">Role:</span>** Cadet | Leadership Development | Team Management
 
 **<span style="color: #00FFFF">Key Achievements:</span>**
-- ✨ Trained in military leadership, officer development, and mission readiness
-- ✨ Coursework and exercises in leadership, team management, operational planning, ethical decision-making
+- ✨ Trained in foundational military leadership, officer development, and mission readiness
+- ✨ Coursework and practical exercises in leadership, team management, operational planning, ethical decision-making
 - ✨ Attended Flight School (Dec 2023–Present)
 
 ---
@@ -633,9 +633,9 @@ I like building systems that actually work and stay secure. That's what I do.
 **<span style="color: #00FFFF">Role:</span>** Electrician Apprentice | Project Management | Infrastructure Specialist
 
 **<span style="color: #00FFFF">Key Achievements:</span>**
-- ✨ Installed high-voltage systems in semiconductor and industrial sites with safety code compliance
-- ✨ Read blueprints, managed inventory, coordinated installation schedules with teams
-- ✨ Finished large-scale infrastructure projects on time, under budget, with **<span style="color: #00FFFF">ZERO SAFETY VIOLATIONS</span>**
+- ✨ Installed high-voltage systems in semiconductor and industrial sites with rigorous safety code compliance
+- ✨ Interpreted blueprints, managed inventory, coordinated installation schedules with multidisciplinary teams
+- ✨ Delivered large-scale infrastructure projects on time, under budget, with **<span style="color: #00FFFF">ZERO SAFETY VIOLATIONS</span>**
 
 ---
 
@@ -680,11 +680,11 @@ I like building systems that actually work and stay secure. That's what I do.
 
 </div>
 
-- 🔭 **<span style="color: #00FFFF">High-altitude ballooning missions</span>** with NASA ASCEND
-- 🌱 **<span style="color: #FF00FF">Advanced cybersecurity practices</span>** and cloud architecture
-- 👯 **<span style="color: #9D00FF">Open to collaboration</span>** on embedded systems, full-stack projects, and security initiatives
-- 💬 **<span style="color: #00D9FF">Ask me about:</span>** NASA projects, embedded systems, cybersecurity, cloud infrastructure, or construction project management
-- ⚡ **<span style="color: #FF1493">Fun fact:</span>** I'm a licensed student pilot and former electrician apprentice with zero safety violations!
+- 🔭 Working on **<span style="color: #00FFFF">high-altitude ballooning missions</span>** with NASA ASCEND
+- 🌱 Learning **<span style="color: #FF00FF">cybersecurity practices</span>** and cloud architecture
+- 👯 **<span style="color: #9D00FF">Open to collaboration</span>** on embedded systems, full-stack projects, and security work
+- 💬 **<span style="color: #00D9FF">Ask me about:</span>** NASA projects, embedded systems, cybersecurity, cloud infrastructure, or project management
+- ⚡ **<span style="color: #FF1493">Note:</span>** I'm a licensed student pilot and former electrician apprentice with zero safety violations
 
 ---
 
@@ -706,7 +706,7 @@ I like building systems that actually work and stay secure. That's what I do.
 
 <div align="center">
 
-**<span style="color: #00FFFF">⭐</span> <span style="color: #FF00FF">Star this repo if you find it interesting!</span> <span style="color: #9D00FF">⭐</span>**
+**<span style="color: #00FFFF">⭐</span> <span style="color: #FF00FF">Star this repo if you find it useful!</span> <span style="color: #9D00FF">⭐</span>**
 
 *<span style="color: #00D9FF">Last Updated: November 2025</span>*
 
