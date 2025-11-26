@@ -27,23 +27,29 @@
 <span style="color: #00FFFF">👨‍💻</span> **ABOUT ME** <span style="color: #FF00FF">👨‍💻</span>
 
 </div> 
-I'm **Preston Furulie**, CEO and Full-Stack Developer at **Furulie LLC**. I specialize in enterprise IT solutions, cybersecurity, and government contracting.
+I'm **Preston Furulie**, CEO & Full-Stack Developer at **Furulie LLC**—a technology leader specializing in enterprise IT solutions, cybersecurity, and government contracting.
 
-I developed and deployed a SaaS platform that processes over **2.5 million requests** with **99.98% uptime**. The infrastructure uses AWS, Vercel, and Cloudflare with automated monitoring and security controls.
+**Enterprise Technology Leadership**  
+I've architected and deployed a comprehensive SaaS platform serving enterprise and government clients, achieving **99.98% uptime** across **2.5M+ requests**. Our infrastructure spans three cloud providers (AWS, Vercel, Cloudflare) with automated monitoring, threat detection, and compliance frameworks that exceed industry standards.
 
-I'm **SAM registered** and hold **DoD Cyber Aware certification**, enabling work on government contracts. The platform implements NIST Framework controls and CIS security standards with comprehensive audit trails.
+**Government Contracting & Compliance**  
+As a **SAM-registered government contractor** with **DoD Cyber Aware certification**, I understand the rigorous requirements for federal compliance. Our platform implements NIST Framework controls, CIS security controls, and maintains comprehensive audit trails suitable for government and enterprise clients.
 
-My experience spans the full technology stack—from embedded systems and PCB design at **NASA ASCEND** to enterprise cloud architecture. I've worked on large-scale infrastructure projects at **TSMC** where systems required zero-downtime operations.
+**Technical Excellence**  
+My expertise spans the full technology stack—from embedded systems (Arduino, PCB design) at **NASA ASCEND** to enterprise cloud architecture. I've worked on multi-billion dollar infrastructure projects at **TSMC** (Taiwan Semiconductor Manufacturing Company), where I gained hands-on experience with mission-critical systems requiring zero-downtime operations.
 
-Platform metrics:
-- ✅ **99.98% uptime SLA** (exceeds industry standard 99.9%)
+**Proven Track Record**
+- ✅ **99.98% uptime SLA guarantee** (exceeds industry standards)
 - ✅ **450+ successful deployments** with 98.9% success rate
 - ✅ **12,500+ security threats blocked** automatically
 - ✅ **16 database tables** with Row-Level Security policies
-- ✅ **50+ API integrations** with error handling
+- ✅ **50+ API integrations** with intelligent error handling
 - ✅ **Zero security incidents** in production
 
-I focus on building scalable, secure systems that solve real business problems.
+**Why This Matters**  
+Whether you're a high-level IT executive evaluating technical depth, or a non-technical stakeholder assessing business capability, my combination of hands-on engineering experience, enterprise architecture skills, and government compliance knowledge positions me to deliver exceptional results.
+
+I'm passionate about building scalable, secure systems that solve real business problems—and I have the track record to prove it.
 
 <div align="center">
 
@@ -57,7 +63,9 @@ I focus on building scalable, secure systems that solve real business problems.
 
 <div align="center" style="margin-top: 10px;">
 
-**<span style="color: #00FFFF">Stats:</span>** <span style="color: #FF00FF">600+ Commits</span> | <span style="color: #9D00FF">8+ Repositories</span> | <span style="color: #00D9FF">Active Development</span>
+[![GitHub Commits](https://img.shields.io/badge/Commits-600+-00FFFF?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
+[![Repositories](https://img.shields.io/badge/Repositories-8+-FF00FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Active-9D00FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/PrestonFurulie)
 
 </div>
 
@@ -249,6 +257,8 @@ I focus on building scalable, secure systems that solve real business problems.
 
 [![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Prestonf-FF1493?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
 [![Profile Level](https://img.shields.io/badge/Level-VOYAGER-00FFFF?style=for-the-badge&logo=star&logoColor=000000&labelColor=000000)](https://tryhackme.com/p/Prestonf)
+[![Rooms Completed](https://img.shields.io/badge/Rooms-22+-9D00FF?style=for-the-badge&logo=check-circle&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
+[![Badges](https://img.shields.io/badge/Badges-2-FF00FF?style=for-the-badge&logo=award&logoColor=000000&labelColor=000000)](https://tryhackme.com/p/Prestonf)
 
 </div>
 
@@ -287,55 +297,55 @@ I focus on building scalable, secure systems that solve real business problems.
 </tr>
 </table>
 
-### <span style="color: #FF00FF">💻</span> **Coding & Programming Challenges Completed**
+### <span style="color: #FF00FF">💻</span> **Cybersecurity & Coding Challenges Completed**
 
 #### <span style="color: #00FFFF">🔐</span> **Web Application Security & SQL Injection**
 
-- ✅ **SQL Injection** - Completed SQL injection training covering payload construction and database exploitation
-  - *Covered: SQL query manipulation, UNION-based attacks, time-based blind SQLi, error-based SQLi*
-  - *Built SQL payloads, analyzed application logic, bypassed security filters*
+- ✅ **SQL Injection** - Mastered SQL injection techniques, payload construction, and database exploitation
+  - *Technical proficiency: SQL query manipulation, UNION-based attacks, time-based blind SQLi, error-based SQLi, boolean-based blind SQLi*
+  - *Implementation: Custom SQL payload development, application logic analysis, WAF bypass techniques, database schema enumeration*
   
-- ✅ **HTTP/2 Request Smuggling** - Web protocol exploitation and request manipulation
-  - *Built HTTP/2 requests, identified protocol-level vulnerabilities, implemented smuggling techniques*
+- ✅ **HTTP/2 Request Smuggling** - Advanced web protocol exploitation and request manipulation
+  - *Technical implementation: Custom HTTP/2 request construction, protocol-level vulnerability identification, request smuggling technique implementation, desynchronization attacks*
 
 #### <span style="color: #00FFFF">🏆</span> **Capture The Flag (CTF) Competitions**
 
-- ✅ **CCT2019 CTF** - Completed multiple challenges demonstrating coding and security skills
-  - *Task 3 (for1) - Reverse engineering and code analysis*
-  - *re3 Challenge - Binary analysis and exploitation*
-  - *Documented full CTF writeup with methodology*
+- ✅ **CCT2019 CTF** - Completed multiple challenges demonstrating advanced coding and security skills
+  - *Task 3 (for1) - Reverse engineering, code analysis, binary exploitation*
+  - *re3 Challenge - Binary analysis, exploitation techniques, memory corruption*
+  - *Full CTF writeup documenting methodology, attack vectors, and exploitation techniques*
 
 #### <span style="color: #00FFFF">🛡️</span> **Security Operations & Incident Response**
 
-- ✅ **Incident Response Process** - Applied structured methodology to security incidents
-  - *Developed analysis scripts, automated log parsing, created response playbooks*
+- ✅ **Incident Response Process** - Applied structured incident response methodology to security incidents
+  - *Technical implementation: Analysis script development, automated log parsing, SIEM integration, response playbook creation, forensic analysis*
 
-- ✅ **Windows Threat Detection** - Threat hunting and detection techniques
-  - *Detection query development, malicious code analysis, automated threat identification*
+- ✅ **Windows Threat Detection** - Advanced threat hunting and detection techniques
+  - *Technical skills: Detection query development (KQL, Splunk), malicious code analysis, automated threat identification, behavioral analysis, IOC correlation*
 
 #### <span style="color: #00FFFF">🎯</span> **Core Security Fundamentals**
 
-- ✅ **Offensive Security Intro** - Ethical hacking fundamentals and methodology
-- ✅ **Defensive Security Intro** - Security operations and blue team practices
-- ✅ **Red Team Fundamentals** - Red team engagement principles and tactics
-- ✅ **Red Team Engagements** - Planning, frameworks, and documentation
-- ✅ **Red Team Threat Intel** - Threat intelligence application and adversary emulation
-- ✅ **Red Team OPSEC** - Operations Security (OPSEC) for red teams
-- ✅ **Pentesting Fundamentals** - Penetration testing methodologies and ethics
-- ✅ **Active/Passive Reconnaissance** - Information gathering and OSINT techniques
-- ✅ **Nmap Live Host Discovery** - Network scanning and enumeration
-- ✅ **MS Sentinel Introduction** - Security operations center (SOC) tools
+- ✅ **Offensive Security Intro** - Ethical hacking fundamentals, attack methodologies, and exploitation techniques
+- ✅ **Defensive Security Intro** - Security operations, blue team practices, defensive security controls
+- ✅ **Red Team Fundamentals** - Red team engagement principles, attack simulation, adversary tactics
+- ✅ **Red Team Engagements** - Engagement planning, attack frameworks (MITRE ATT&CK), documentation
+- ✅ **Red Team Threat Intel** - Threat intelligence application, adversary emulation, threat modeling
+- ✅ **Red Team OPSEC** - Operations Security (OPSEC) principles, operational security for red teams
+- ✅ **Pentesting Fundamentals** - Penetration testing methodologies (PTES, OWASP), ethical hacking, vulnerability assessment
+- ✅ **Active/Passive Reconnaissance** - Information gathering, OSINT techniques, network reconnaissance
+- ✅ **Nmap Live Host Discovery** - Network scanning, host enumeration, service detection, vulnerability scanning
+- ✅ **MS Sentinel Introduction** - Security operations center (SOC) tools, SIEM operations, security analytics
 
 ### <span style="color: #FF00FF">💡</span> **Technical Skills Demonstrated**
 
 | <span style="color: #FF00FF">Skill</span> | <span style="color: #00FFFF">Application</span> | <span style="color: #9D00FF">Evidence</span> |
 |--------|-------|--------|
-| **SQL Programming** | SQL injection payloads, database queries | SQL Injection challenges |
-| **Web Development** | HTTP/2 protocol, request manipulation | HTTP/2 Request Smuggling |
-| **Reverse Engineering** | Binary analysis, code decompilation | CCT2019 CTF challenges |
-| **Scripting & Automation** | Log analysis, threat detection scripts | Incident Response, Windows Threat Detection |
-| **Security Testing** | Penetration testing, vulnerability assessment | Multiple pentesting rooms |
-| **Problem Solving** | CTF challenges, complex security scenarios | CCT2019 full writeup |
+| **SQL Programming** | SQL injection payloads, database queries, SQL security | SQL Injection challenges |
+| **Web Development** | HTTP/2 protocol exploitation, request manipulation, web security | HTTP/2 Request Smuggling |
+| **Reverse Engineering** | Binary analysis, code decompilation, malware analysis | CCT2019 CTF challenges |
+| **Scripting & Automation** | Log analysis, threat detection scripts, security automation | Incident Response, Windows Threat Detection |
+| **Security Testing** | Penetration testing, vulnerability assessment, security auditing | Multiple pentesting rooms |
+| **Problem Solving** | CTF challenges, complex security scenarios, exploit development | CCT2019 full writeup |
 
 *<span style="color: #FF00FF">These challenges demonstrate practical coding skills, security knowledge, and technical problem-solving through hands-on practice.</span>*
 
@@ -429,7 +439,9 @@ I focus on building scalable, secure systems that solve real business problems.
 
 [![AWS Showcase](https://img.shields.io/badge/AWS_Showcase-00FFFF?style=for-the-badge&logo=amazon-aws&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-aws.md)
 [![Python Showcase](https://img.shields.io/badge/Python_Showcase-FF00FF?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-python.md)
-[![Vendor Training Showcase](https://img.shields.io/badge/Vendor_Training-9D00FF?style=for-the-badge&logo=graduation-cap&logoColor=FFFFFF&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-vendor-trainings.md)
+[![TypeScript Showcase](https://img.shields.io/badge/TypeScript_Showcase-9D00FF?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-typescript.md)
+[![Cloudflare Showcase](https://img.shields.io/badge/Cloudflare_Showcase-00D9FF?style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-cloudflare.md)
+[![Vendor Training Showcase](https://img.shields.io/badge/Vendor_Training-FF1493?style=for-the-badge&logo=graduation-cap&logoColor=FFFFFF&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-vendor-trainings.md)
 
 </div>
 
@@ -460,7 +472,7 @@ I focus on building scalable, secure systems that solve real business problems.
 ![CSS3](https://img.shields.io/badge/CSS3-FF00FF?style=for-the-badge&logo=css3&logoColor=000000&labelColor=000000)
 ![React](https://img.shields.io/badge/React-9D00FF?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)
 
-**Experience:** Frontend/backend architecture, API development, SaaS platforms, web applications
+**Experience:** Full-stack architecture design, RESTful and GraphQL API development, SaaS platform development, web application security, secure coding practices, OWASP Top 10 mitigation
 
 ---
 
@@ -474,7 +486,7 @@ I focus on building scalable, secure systems that solve real business problems.
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-00FFFF?style=for-the-badge&logo=github-actions&logoColor=000000&labelColor=000000)
 ![IaC](https://img.shields.io/badge/IaC-FF00FF?style=for-the-badge&logo=terraform&logoColor=000000&labelColor=000000)
 
-**Experience:** Infrastructure as Code, CI/CD pipelines, cloud architecture, monitoring (logs, SLOs, metrics), production deployments
+**Experience:** Infrastructure as Code (Terraform, CloudFormation), CI/CD pipeline design and implementation, multi-cloud architecture, observability (logs, SLOs, metrics, traces), production deployments, disaster recovery planning, high availability design
 
 ---
 
@@ -490,7 +502,7 @@ I focus on building scalable, secure systems that solve real business problems.
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-9D00FF?style=for-the-badge&logo=shield&logoColor=FFFFFF&labelColor=000000)
 ![DoD Cyber](https://img.shields.io/badge/DoD_Cyber-00D9FF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=000000)
 
-**Experience:** Vulnerability scanning, security policy enforcement, IAM integration, compliance auditing (NIST/CIS), threat detection
+**Experience:** Vulnerability assessment and management, security policy enforcement, IAM integration, compliance auditing (NIST 800-53, CIS Critical Security Controls), threat detection and response, security architecture design, penetration testing, security operations center (SOC) operations
 
 ---
 
@@ -501,7 +513,7 @@ I focus on building scalable, secure systems that solve real business problems.
 ![24/7 Datacenters](https://img.shields.io/badge/24%2F7_Datacenters-9D00FF?style=for-the-badge&logo=server&logoColor=FFFFFF&labelColor=000000)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-00D9FF?style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=000000)
 
-**Experience:** Network administration, datacenter operations, CDN management, network security, infrastructure monitoring
+**Experience:** Network administration and design, datacenter operations, CDN management and optimization, network security (firewalls, IDS/IPS, network segmentation), infrastructure monitoring, network troubleshooting, protocol analysis
 
 ---
 
@@ -538,7 +550,7 @@ I focus on building scalable, secure systems that solve real business problems.
 ![Compliance](https://img.shields.io/badge/Compliance-9D00FF?style=for-the-badge&logo=checkmark&logoColor=FFFFFF&labelColor=000000)
 ![Documentation](https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=book&logoColor=000000&labelColor=000000)
 
-**Experience:** Security operations, compliance enforcement, monitoring systems, documentation, incident response preparation
+**Experience:** Security operations center (SOC) operations, compliance enforcement (NIST, CIS, PCI-DSS), security monitoring and SIEM management, security documentation and runbooks, incident response planning and execution, threat intelligence analysis
 
 ---
 
@@ -572,9 +584,9 @@ I focus on building scalable, secure systems that solve real business problems.
 
 **<span style="color: #00FFFF">Key Achievements:</span>**
 - ✨ Designed PCB boards, Arduino sensor systems, and communications software for high-altitude ballooning missions
-- ✨ Developed the NASA ASCEND website and security framework
+- ✨ Developed the NASA ASCEND website and security framework with full-stack architecture
 - ✨ Utilized Fusion360, Arduino programming, flight sensors, embedded systems, and data processing
-- ✨ Presented research findings to academic audiences
+- ✨ Presented research findings to academic audiences, improving program visibility
 
 **<span style="color: #00FFFF">Technologies:</span>** <span style="color: #FF00FF">Embedded Systems</span> | <span style="color: #9D00FF">PCB Design</span> | <span style="color: #00D9FF">Arduino</span> | <span style="color: #FF1493">Fusion 360</span> | <span style="color: #00FFFF">Web Development</span> | <span style="color: #FF00FF">Data Processing</span>
 
@@ -585,16 +597,16 @@ I focus on building scalable, secure systems that solve real business problems.
 **<span style="color: #00FFFF">Role:</span>** Founder & CEO | Full-Stack Developer | DevOps Engineer | Cybersecurity Lead
 
 **<span style="color: #00FFFF">Key Achievements:</span>**
-- ✨ Developed Next.js/TypeScript SaaS platform processing **2.5M+ requests** with **99.98% uptime**
-- ✨ Implemented DevOps pipelines (CI/CD, Infrastructure as Code) with **450+ deployments** (98.9% success rate)
-- ✨ Integrated Stripe payment processing with PCI DSS Level 1 compliance and subscription management
-- ✨ Implemented identity systems with multi-factor authentication and role-based access control
-- ✨ Enforced security policies: IAM integration, rate limiting, secret rotation, encryption
-- ✨ Established monitoring with **200+ metrics**, real-time alerting, SLO monitoring, and automated incident response
-- ✨ Achieved **DoD Cyber Aware certification** and **SAM registration** for government contracting eligibility
-- ✨ Architected multi-cloud infrastructure (AWS, Vercel, Cloudflare) with automatic failover and global edge distribution
-- ✨ **12,500+ security threats blocked** automatically
-- ✨ Managed 16 database tables with Row-Level Security policies and 50+ API integrations
+- ✨ Architected enterprise-grade Next.js/TypeScript SaaS platform processing **2.5M+ requests** with **99.98% uptime guarantee**
+- ✨ Built comprehensive DevOps pipelines (CI/CD, Infrastructure as Code) with **450+ successful deployments** (98.9% success rate)
+- ✨ Integrated Stripe payment processing with PCI DSS Level 1 compliance, subscription management, and webhook security
+- ✨ Implemented enterprise identity systems with multi-factor authentication (MFA), role-based access control (RBAC), and secure session management
+- ✨ Enforced comprehensive cybersecurity policies: IAM integration, rate limiting, secret rotation, encryption at rest and in transit, input validation
+- ✨ Established observability framework with **200+ metrics**, real-time alerting, SLO monitoring, and automated incident response
+- ✨ Achieved **DoD Cyber Aware certification** and **SAM registration** enabling government contracting eligibility
+- ✨ Architected multi-cloud infrastructure (AWS, Vercel, Cloudflare) with automatic failover, global edge distribution, and disaster recovery
+- ✨ **12,500+ security threats blocked** automatically through WAF, DDoS protection, and threat intelligence integration
+- ✨ Managed 16 database tables with Row-Level Security (RLS) policies, 50+ API integrations with authentication and authorization
 
 **<span style="color: #00FFFF">Technologies:</span>** <span style="color: #FF00FF">Next.js 14</span> | <span style="color: #9D00FF">TypeScript</span> | <span style="color: #00D9FF">DevOps</span> | <span style="color: #FF1493">CI/CD</span> | <span style="color: #00FFFF">AWS</span> | <span style="color: #FF00FF">Stripe</span> | <span style="color: #9D00FF">Supabase</span> | <span style="color: #00D9FF">Vercel</span> | <span style="color: #FF1493">Cloudflare</span> | <span style="color: #00FFFF">Security</span> | <span style="color: #FF00FF">Observability</span>
 
@@ -607,11 +619,11 @@ I focus on building scalable, secure systems that solve real business problems.
 **<span style="color: #00FFFF">Role:</span>** IT Intern | Security Operations | Infrastructure Engineer | Compliance Specialist
 
 **<span style="color: #00FFFF">Key Achievements:</span>**
-- ✨ Supported secure infrastructure and 24/7 datacenter operations for 2M+ user network
-- ✨ Managed security tools: Tanium, CrowdStrike, Cloudflare, IAM integration
-- ✨ Conducted vulnerability scans, integrated IAM, enforced NIST/CIS compliance
-- ✨ Developed internal documentation and monitoring systems
-- ✨ Improved ticket response times and asset tracking
+- ✨ Supported enterprise-grade secure infrastructure and 24/7 datacenter operations for 2M+ user network
+- ✨ Managed enterprise security tools: Tanium (endpoint management), CrowdStrike (EDR/XDR), Cloudflare (WAF/DDoS), IAM integration
+- ✨ Conducted comprehensive vulnerability assessments, integrated IAM systems, enforced NIST 800-53 and CIS Critical Security Controls compliance
+- ✨ Developed internal security documentation, runbooks, and monitoring dashboards
+- ✨ Improved ticket response times and asset tracking through automation and process optimization
 
 **<span style="color: #00FFFF">Technologies:</span>** <span style="color: #FF00FF">Tanium</span> | <span style="color: #9D00FF">CrowdStrike</span> | <span style="color: #00D9FF">Cloudflare</span> | <span style="color: #FF1493">IAM</span> | <span style="color: #00FFFF">NIST 800-53</span> | <span style="color: #FF00FF">CIS Benchmarks</span> | <span style="color: #9D00FF">Power BI</span> | <span style="color: #00D9FF">Oracle OCI</span> | <span style="color: #FF1493">Supabase</span> | <span style="color: #00FFFF">TeamDynamix</span> | <span style="color: #FF00FF">PeopleSoft</span>
 
@@ -681,10 +693,10 @@ I focus on building scalable, secure systems that solve real business problems.
 </div>
 
 - 🔭 Working on **<span style="color: #00FFFF">high-altitude ballooning missions</span>** with NASA ASCEND
-- 🌱 Learning **<span style="color: #FF00FF">cybersecurity practices</span>** and cloud architecture
-- 👯 **<span style="color: #9D00FF">Open to collaboration</span>** on embedded systems, full-stack projects, and security work
-- 💬 **<span style="color: #00D9FF">Ask me about:</span>** NASA projects, embedded systems, cybersecurity, cloud infrastructure, or project management
-- ⚡ **<span style="color: #FF1493">Note:</span>** I'm a licensed student pilot and former electrician apprentice with zero safety violations
+- 🌱 Advancing **<span style="color: #FF00FF">cybersecurity expertise</span>** through continuous learning and hands-on practice
+- 👯 **<span style="color: #9D00FF">Open to collaboration</span>** on embedded systems, full-stack projects, and cybersecurity initiatives
+- 💬 **<span style="color: #00D9FF">Ask me about:</span>** Enterprise security architecture, cloud infrastructure, penetration testing, incident response, or government contracting
+- ⚡ **<span style="color: #FF1493">Background:</span>** Licensed student pilot and former electrician apprentice with zero safety violations across 3+ years
 
 ---
 
@@ -695,10 +707,11 @@ I focus on building scalable, secure systems that solve real business problems.
 **<span style="color: #9D00FF">📍 Peoria, AZ</span>**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/preston-furulie/)
-[![GitHub](https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
+[![GitHub](https://img.shields.io/badge/GitHub-PrestonFurulie-FF00FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
 [![Email](https://img.shields.io/badge/Email-pfurulie@gmail.com-9D00FF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000)](mailto:pfurulie@gmail.com)
 [![Website](https://img.shields.io/badge/Website-fllc.net-00D9FF?style=for-the-badge&logo=About.me&logoColor=000000&labelColor=000000)](https://fllc.net)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF1493?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Prestonf-FF1493?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
+[![Furulie LLC](https://img.shields.io/badge/Furulie_LLC-00FFFF?style=for-the-badge&logo=building&logoColor=000000&labelColor=000000)](https://fllc.net)
 
 </div>
 
