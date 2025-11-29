@@ -38,6 +38,12 @@ As a **SAM-registered government contractor** with **DoD Cyber Aware certificati
 **Technical Excellence**  
 My expertise spans the full technology stack—from embedded systems (Arduino, PCB design) at **NASA ASCEND** to enterprise cloud architecture. I've worked on multi-billion dollar infrastructure projects at **TSMC** (Taiwan Semiconductor Manufacturing Company), where I gained hands-on experience with mission-critical systems requiring zero-downtime operations.
 
+**Target Roles & Industries**  
+I am actively pursuing **full-time roles** where I can bring this background to bear for:  
+- **Defense & Federal** – DoD Cyber Aware, SAM-registered, Security+ and NIST/CIS experience, ready to operate in highly regulated environments.  
+- **Fortune 500 & Enterprise IT** – Experience with 2M+ user environments, strict SLAs, and large-scale infrastructure and security tooling.  
+- **High-Growth Tech Startups** – Comfortable owning the full stack (product, infra, security) from zero to production, with **700+ commits** across my core platforms and **4,000+ views** on my production site `fllc.net`.
+
 **Proven Track Record**
 - ✅ **99.98% uptime SLA guarantee** (exceeds industry standards)
 - ✅ **450+ successful deployments** with 98.9% success rate
@@ -63,7 +69,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 <div align="center" style="margin-top: 10px;">
 
-[![GitHub Commits](https://img.shields.io/badge/Commits-600+-00FFFF?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
+[![GitHub Commits](https://img.shields.io/badge/Commits-700+-00FFFF?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
 [![Repositories](https://img.shields.io/badge/Repositories-8+-FF00FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie?tab=repositories)
 [![GitHub](https://img.shields.io/badge/GitHub-Active-9D00FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/PrestonFurulie)
 
@@ -89,7 +95,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 <div style="background: linear-gradient(135deg, #0D0D1A 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #9D00FF;">
 
-**<span style="color: #FF00FF; font-size: 32px;">600+</span>**  
+**<span style="color: #FF00FF; font-size: 32px;">700+</span>**  
 <span style="color: #00FFFF;">Total Commits</span>
 
 **<span style="color: #FF00FF; font-size: 24px;">8+</span>**  
@@ -189,7 +195,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 <tr>
 <td width="25%" valign="top" align="center">
 
-**<span style="color: #FF00FF; font-size: 28px;">600+</span>**  
+**<span style="color: #FF00FF; font-size: 28px;">700+</span>**  
 <span style="color: #00FFFF;">Commits</span>
 
 </td>
@@ -371,7 +377,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 | <span style="color: #FF00FF">Metric</span> | <span style="color: #00FFFF">Value</span> | <span style="color: #9D00FF">Status</span> |
 |--------|-------|--------|
-| **Total Commits** | 600+ | <span style="color: #00FFFF">🟢 Active</span> |
+| **Total Commits** | 700+ | <span style="color: #00FFFF">🟢 Active</span> |
 | **Lines of Code** | [Auto-updated] | <span style="color: #00FFFF">🟢 Growing</span> |
 | **Pull Requests** | [Auto-updated] | <span style="color: #00FFFF">🟢 Maintained</span> |
 | **Issues Resolved** | [Auto-updated] | <span style="color: #00FFFF">🟢 Tracked</span> |
@@ -404,6 +410,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 | **Security Threats Blocked** | 12,500+ | <span style="color: #00FFFF">🟢 Automated</span> |
 | **API Integrations** | 50+ | <span style="color: #00FFFF">🟢 Active</span> |
 | **Database Tables** | 16 | <span style="color: #00FFFF">🟢 RLS Protected</span> |
+| **Portfolio Site Views (fllc.net)** | 4,000+ | <span style="color: #00FFFF">🟢 High Engagement</span> |
 
 </td>
 <td width="50%" valign="top">
@@ -683,6 +690,8 @@ I'm passionate about building scalable, secure systems that solve real business 
 - ✅ **<span style="color: #9D00FF">Multi-Cloud Architecture</span>** (AWS, Vercel, Cloudflare) with global edge distribution
 - ✅ **<span style="color: #00D9FF">50+ API Integrations</span>** with error handling and monitoring
 - ✅ **<span style="color: #FF1493">CTF & Security Challenges</span>** completed showing coding skills
+ - ✅ **<span style="color: #00FFFF">700+ GitHub Commits</span>** across production-grade projects and platforms
+ - ✅ **<span style="color: #FF00FF">4,000+ Views</span>** on `fllc.net` portfolio and SaaS platform
 
 ---
 
