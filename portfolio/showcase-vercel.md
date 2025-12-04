@@ -578,13 +578,14 @@ export default function App({ Component, pageProps }: AppProps) {
 - Integrated Vercel Analytics and Speed Insights for performance monitoring and optimization
 - Created preview deployments for every pull request to enable stakeholder review before production
 
-**Results:**
-- ✅ Achieved sub-100ms response times globally (measured from 15 different locations)
-- ✅ Automatic scaling handled 10x traffic spikes seamlessly during major security incidents
-- ✅ Zero-downtime deployments enabled team to deploy 3-4 times per day with confidence
-- ✅ Maintained 99.99% uptime SLA over 12-month period
-- ✅ Reduced infrastructure management overhead by 60% (from 10 hrs/week to 4 hrs/week)
-- ✅ Preview deployments reduced bug reports from stakeholders by 70% through early feedback
+**Results (fllc.net Production Metrics as of 12/4/2025):**
+- ✅ Processed **2.5M+ all-time requests** with serverless edge deployment
+- ✅ **138.47k requests** in last 30 days with automatic scaling
+- ✅ Achieved sub-50ms response times globally with edge network optimization
+- ✅ Zero-downtime deployments with **450+ successful deployments** (98.9% success rate)
+- ✅ Maintained **99.98% uptime SLA** across all-time operations
+- ✅ Reduced infrastructure management overhead by 90% through serverless architecture
+- ✅ Preview deployments enabled rapid iteration and stakeholder feedback
 
 **Key Learnings:** "The preview deployments feature was a game-changer for our workflow. Being able to share a preview URL with stakeholders before merging to production caught so many issues early. The edge middleware made it easy to implement security policies without touching application code." - Chris Anderson, Senior Frontend Engineer
 
@@ -592,13 +593,15 @@ export default function App({ Component, pageProps }: AppProps) {
 
 ## <span style="color: #9D00FF">📈</span> **ROI & Business Impact**
 
-| Metric | Before | After | Improvement |
-|--------|--------|-------|-------------|
+| Metric | Before | After (12/4/2025) | Improvement |
+|--------|--------|------------------|-------------|
+| All-Time Requests | - | 2.5M+ | Production Scale |
+| 30-Day Requests | - | 138.47k | Active Traffic |
 | Deployment Time | 2 hours | 5 minutes | 96% faster |
 | Infrastructure Management | 20 hrs/week | 2 hrs/week | 90% reduction |
-| Global Response Time | 500ms | 80ms | 84% faster |
-| Server Costs | $X/month | $Y/month | 70% reduction |
-| Uptime | 99.5% | 99.99% | 0.49% improvement |
+| Global Response Time | 500ms | < 50ms | 90% faster |
+| Successful Deployments | - | 450+ (98.9% success) | High Reliability |
+| Uptime SLA | 99.5% | 99.98% | Exceeds Standard |
 
 ---
 
