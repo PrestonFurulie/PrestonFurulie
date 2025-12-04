@@ -263,6 +263,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 [![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Prestonf-FF1493?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
 [![Profile Level](https://img.shields.io/badge/Level-VOYAGER-00FFFF?style=for-the-badge&logo=star&logoColor=000000&labelColor=000000)](https://tryhackme.com/p/Prestonf)
+[![Global Rank](https://img.shields.io/badge/Rank-Top_10%25-9D00FF?style=for-the-badge&logo=trophy&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
 [![Rooms Completed](https://img.shields.io/badge/Rooms-22+-9D00FF?style=for-the-badge&logo=check-circle&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
 [![Badges](https://img.shields.io/badge/Badges-2-FF00FF?style=for-the-badge&logo=award&logoColor=000000&labelColor=000000)](https://tryhackme.com/p/Prestonf)
 
@@ -282,7 +283,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 | <span style="color: #FF00FF">Metric</span> | <span style="color: #00FFFF">Value</span> | <span style="color: #9D00FF">Status</span> |
 |--------|-------|--------|
-|  Global Rank  | #366,329 | <span style="color: #00FFFF">🟢 Active</span> |
+|  Global Rank  | Top 10% | <span style="color: #00FFFF">🟢 Elite</span> |
 |  Badges Earned  | 2 | <span style="color: #00FFFF">🟢 Growing</span> |
 |  Current Streak  | 2 days | <span style="color: #00FFFF">🟢 Active</span> |
 |  Rooms Completed  | 22+ | <span style="color: #00FFFF">🟢 Progressing</span> |
@@ -410,19 +411,20 @@ I'm passionate about building scalable, secure systems that solve real business 
 | **Security Threats Blocked** | 12,500+ | <span style="color: #00FFFF">🟢 Automated</span> |
 | **API Integrations** | 50+ | <span style="color: #00FFFF">🟢 Active</span> |
 | **Database Tables** | 16 | <span style="color: #00FFFF">🟢 RLS Protected</span> |
-| **Portfolio Site Views (fllc.net)** | 4,000+ | <span style="color: #00FFFF">🟢 High Engagement</span> |
+| **Portfolio Site Views (fllc.net)** | 3.69k+ (30 days) | <span style="color: #00FFFF">🟢 High Engagement</span> |
 
 </td>
 <td width="50%" valign="top">
 
-#### <span style="color: #FF00FF">☁️</span>  Cloudflare CDN Metrics 
+#### <span style="color: #FF00FF">☁️</span>  Cloudflare CDN Metrics (30 Days)
 
 | <span style="color: #FF00FF">Metric</span> | <span style="color: #00FFFF">Value</span> | <span style="color: #9D00FF">Status</span> |
 |--------|-------|--------|
-|  Total Requests (30 days)  | 2.5M+ | <span style="color: #00FFFF">🟢 Active</span> |
-|  Total Bandwidth  | 450 GB | <span style="color: #00FFFF">🟢 Optimized</span> |
-|  Cache Hit Rate  | 94.5% | <span style="color: #00FFFF">🟢 Excellent</span> |
-|  Edge Requests  | 3.2M+ | <span style="color: #00FFFF">🟢 Global</span> |
+|  Unique Visitors  | 3.69k | <span style="color: #00FFFF">🟢 Active</span> |
+|  Total Requests  | 138.47k | <span style="color: #00FFFF">🟢 Active</span> |
+|  Percent Cached  | 79.49% | <span style="color: #00FFFF">🟢 Optimized</span> |
+|  Total Data Served  | 4 GB | <span style="color: #00FFFF">🟢 Efficient</span> |
+|  Data Cached  | 3 GB | <span style="color: #00FFFF">🟢 High Cache</span> |
 |  Response Time  | < 50ms | <span style="color: #00FFFF">🟢 Sub-50ms</span> |
 |  DDoS Protection  | Active | <span style="color: #00FFFF">🟢 Enabled</span> |
 
