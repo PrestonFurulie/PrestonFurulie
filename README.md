@@ -42,7 +42,7 @@ My expertise spans the full technology stack—from embedded systems (Arduino, P
 I am actively pursuing **full-time roles** where I can bring this background to bear for:  
 - **Defense & Federal** – DoD Cyber Aware, SAM-registered, Security+ and NIST/CIS experience, ready to operate in highly regulated environments.  
 - **Fortune 500 & Enterprise IT** – Experience with 2M+ user environments, strict SLAs, and large-scale infrastructure and security tooling.  
-- **High-Growth Tech Startups** – Comfortable owning the full stack (product, infra, security) from zero to production, with **700+ commits** across my core platforms and **4,000+ views** on my production site `fllc.net`.
+- **High-Growth Tech Startups** – Comfortable owning the full stack (product, infra, security) from zero to production, with **592+ commits** across my core platforms and **4,000+ views** on my production site `fllc.net`.
 
 **Proven Track Record**
 - ✅ **99.98% uptime SLA guarantee** (exceeds industry standards)
@@ -69,7 +69,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 <div align="center" style="margin-top: 10px;">
 
-[![GitHub Commits](https://img.shields.io/badge/Commits-700+-00FFFF?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
+[![GitHub Commits](https://img.shields.io/badge/Commits-592+-00FFFF?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
 [![Repositories](https://img.shields.io/badge/Repositories-8+-FF00FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie?tab=repositories)
 [![GitHub](https://img.shields.io/badge/GitHub-Active-9D00FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/PrestonFurulie)
 
@@ -95,7 +95,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 <div style="background: linear-gradient(135deg, #0D0D1A 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #9D00FF;">
 
-**<span style="color: #FF00FF; font-size: 32px;">700+</span>**
+**<span style="color: #FF00FF; font-size: 32px;">592+</span>**
 <span style="color: #00FFFF;">Total Commits</span>
 
  <span style="color: #FF00FF; font-size: 24px;">8+</span>   
@@ -195,7 +195,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 <tr>
 <td width="25%" valign="top" align="center">
 
-**<span style="color: #FF00FF; font-size: 28px;">700+</span>**
+**<span style="color: #FF00FF; font-size: 28px;">592+</span>**
 <span style="color: #00FFFF;">Commits</span>
 
 </td>
@@ -377,67 +377,14 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 | <span style="color: #FF00FF">Metric</span> | <span style="color: #00FFFF">Value</span> | <span style="color: #9D00FF">Status</span> |
 |--------|-------|--------|
-| **Total Commits** | 700+ | <span style="color: #00FFFF">🟢 Active</span> |
-| **Lines of Code** | [Auto-updated] | <span style="color: #00FFFF">🟢 Growing</span> |
-| **Pull Requests** | [Auto-updated] | <span style="color: #00FFFF">🟢 Maintained</span> |
-| **Issues Resolved** | [Auto-updated] | <span style="color: #00FFFF">🟢 Tracked</span> |
-| **Contributors** | 1+ | <span style="color: #00FFFF">🟢 Active</span> |
-| **Repository Activity** | Continuous | <span style="color: #00FFFF">🟢 Active Development</span> |
+| **Total Commits** | 592+ | <span style="color: #00FFFF">🟢 Active</span> |
+| **Code Additions** | 6.48M+ | <span style="color: #00FFFF">🟢 Growing</span> |
+| **Code Deletions** | 6.34M+ | <span style="color: #00FFFF">🟢 Maintained</span> |
+| **Pull Requests** | 4 | <span style="color: #00FFFF">🟢 Tracked</span> |
+| **Issues** | 172 | <span style="color: #00FFFF">🟢 Active</span> |
+| **Contributors** | 3 | <span style="color: #00FFFF">🟢 Active Development</span> |
 
-*<span style="color: #FF00FF">Production repository metrics from FurulieLLC platform - 700+ commits showing active development</span>*
-
-</div>
-
-### <span style="color: #00FFFF">🔥</span>  **3-MONTH CODING CONSISTENCY ACHIEVEMENT**  <span style="color: #FF00FF">🔥</span>
-
-<div style="background: linear-gradient(135deg, #0D0D1A 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 3px solid #00FFFF; margin: 20px 0;">
-
-#### <span style="color: #FF00FF">📈</span>  **Statistically Remarkable Development Streak**
-
-<div align="center" style="margin: 15px 0;">
-
-**<span style="color: #00FFFF; font-size: 42px; font-weight: bold;">16,158+</span>**  
-<span style="color: #FF00FF; font-size: 20px;">Lines of Code Added</span>
-
-<span style="color: #9D00FF; font-size: 24px;">in Just 3 Months</span>
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-**<span style="color: #00FFFF; font-size: 32px;">16,158</span>**  
-<span style="color: #FF00FF;">Lines Added</span>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**<span style="color: #FF1493; font-size: 32px;">~5,386</span>**  
-<span style="color: #00D9FF;">Lines/Month</span>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**<span style="color: #9D00FF; font-size: 32px;">~179</span>**  
-<span style="color: #00FFFF;">Lines/Day Avg</span>
-
-</td>
-</tr>
-</table>
-
-<div align="center" style="margin-top: 20px;">
-
-<span style="color: #FF00FF; font-size: 18px;">🎯 **Consistent Daily Coding** | **46+ Commits** | **Zero-Day Gaps** 🎯</span>
-
-</div>
-
-<div style="margin-top: 20px; padding: 15px; background: rgba(157, 0, 255, 0.1); border-radius: 10px; border-left: 4px solid #9D00FF;">
-
-<span style="color: #00FFFF;">**Why This Matters:**</span>  
-<span style="color: #FF00FF;">This level of consistent coding output over 3 months places me in the top percentile of developers. With an average of **179 lines of code per day** and **zero-day gaps** in my development streak, I've demonstrated exceptional discipline, productivity, and commitment to continuous improvement. This statistical achievement reflects not just volume, but **sustained quality and consistency** that's rare in the industry.</span>
-
-</div>
+*<span style="color: #FF00FF">Production repository metrics from FurulieLLC platform - 592+ commits, 6.48M+ additions, 6.34M+ deletions showing active development</span>*
 
 </div>
 
@@ -457,7 +404,6 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 | <span style="color: #FF00FF">Metric</span> | <span style="color: #00FFFF">Value</span> | <span style="color: #9D00FF">Status</span> |
 |--------|-------|--------|
-<<<<<<< HEAD
 | **Total Requests Processed** | 2.5M+ | <span style="color: #00FFFF">🟢 Active</span> |
 | **Uptime SLA** | 99.98% | <span style="color: #00FFFF">🟢 Exceeds Standard</span> |
 | **Successful Deployments** | 450+ | <span style="color: #00FFFF">🟢 98.9% Success Rate</span> |
@@ -465,14 +411,6 @@ I'm passionate about building scalable, secure systems that solve real business 
 | **API Integrations** | 50+ | <span style="color: #00FFFF">🟢 Active</span> |
 | **Database Tables** | 16 | <span style="color: #00FFFF">🟢 RLS Protected</span> |
 | **Portfolio Site Views (fllc.net)** | 4,000+ | <span style="color: #00FFFF">🟢 High Engagement</span> |
-=======
-|  Total Requests Processed  | 2.5M+ | <span style="color: #00FFFF">🟢 Active</span> |
-|  Uptime SLA  | 99.98% | <span style="color: #00FFFF">🟢 Exceeds Standard</span> |
-|  Successful Deployments  | 450+ | <span style="color: #00FFFF">🟢 98.9% Success Rate</span> |
-|  Security Threats Blocked  | 12,500+ | <span style="color: #00FFFF">🟢 Automated</span> |
-|  API Integrations  | 50+ | <span style="color: #00FFFF">🟢 Active</span> |
-|  Database Tables  | 16 | <span style="color: #00FFFF">🟢 RLS Protected</span> |
->>>>>>> edc6120c641f1c9fb1228d204d57f7f4efd853cb
 
 </td>
 <td width="50%" valign="top">
@@ -752,9 +690,8 @@ I'm passionate about building scalable, secure systems that solve real business 
 - ✅ **<span style="color: #9D00FF">Multi-Cloud Architecture</span>** (AWS, Vercel, Cloudflare) with global edge distribution
 - ✅ **<span style="color: #00D9FF">50+ API Integrations</span>** with error handling and monitoring
 - ✅ **<span style="color: #FF1493">CTF & Security Challenges</span>** completed showing coding skills
-- ✅ **<span style="color: #00FFFF">700+ GitHub Commits</span>** across production-grade projects and platforms
+- ✅ **<span style="color: #00FFFF">592+ GitHub Commits</span>** with **6.48M+ additions** and **6.34M+ deletions** across production-grade projects
 - ✅ **<span style="color: #FF00FF">4,000+ Views</span>** on `fllc.net` portfolio and SaaS platform
-- ✅ **<span style="color: #9D00FF">16,158+ Lines of Code</span>** written in the last 3 months - **statistically remarkable consistency** with **~179 lines/day average**
 
 ---
 
@@ -793,6 +730,6 @@ I'm passionate about building scalable, secure systems that solve real business 
 
  <span style="color: #00FFFF">⭐</span> <span style="color: #FF00FF">Star this repo if you find it useful!</span> <span style="color: #9D00FF">⭐</span> 
 
-*<span style="color: #00D9FF">Last Updated: November 2025</span>*
+*<span style="color: #00D9FF">Last Updated: December 2025</span>*
 
 </div>
