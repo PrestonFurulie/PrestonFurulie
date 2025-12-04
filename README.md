@@ -42,7 +42,7 @@ My expertise spans the full technology stack—from embedded systems (Arduino, P
 I am actively pursuing **full-time roles** where I can bring this background to bear for:  
 - **Defense & Federal** – DoD Cyber Aware, SAM-registered, Security+ and NIST/CIS experience, ready to operate in highly regulated environments.  
 - **Fortune 500 & Enterprise IT** – Experience with 2M+ user environments, strict SLAs, and large-scale infrastructure and security tooling.  
-- **High-Growth Tech Startups** – Comfortable owning the full stack (product, infra, security) from zero to production, with **592+ commits** across my core platforms and **4,000+ views** on my production site `fllc.net`.
+- **High-Growth Tech Startups** – Comfortable owning the full stack (product, infra, security) from zero to production, with **1,000+ commits** across all repositories and **4,000+ views** on my production site `fllc.net`.
 
 **Proven Track Record**
 - ✅ **99.98% uptime SLA guarantee** (exceeds industry standards)
@@ -69,7 +69,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 <div align="center" style="margin-top: 10px;">
 
-[![GitHub Commits](https://img.shields.io/badge/Commits-592+-00FFFF?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
+[![GitHub Commits](https://img.shields.io/badge/Commits-1,000+-00FFFF?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
 [![Repositories](https://img.shields.io/badge/Repositories-8+-FF00FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie?tab=repositories)
 [![GitHub](https://img.shields.io/badge/GitHub-Active-9D00FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/PrestonFurulie)
 
@@ -95,7 +95,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 <div style="background: linear-gradient(135deg, #0D0D1A 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #9D00FF;">
 
-**<span style="color: #FF00FF; font-size: 32px;">592+</span>**
+**<span style="color: #FF00FF; font-size: 32px;">1,000+</span>**
 <span style="color: #00FFFF;">Total Commits</span>
 
  <span style="color: #FF00FF; font-size: 24px;">8+</span>   
@@ -195,7 +195,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 <tr>
 <td width="25%" valign="top" align="center">
 
-**<span style="color: #FF00FF; font-size: 28px;">592+</span>**
+**<span style="color: #FF00FF; font-size: 28px;">1,000+</span>**
 <span style="color: #00FFFF;">Commits</span>
 
 </td>
@@ -377,14 +377,14 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 | <span style="color: #FF00FF">Metric</span> | <span style="color: #00FFFF">Value</span> | <span style="color: #9D00FF">Status</span> |
 |--------|-------|--------|
-| **Total Commits** | 592+ | <span style="color: #00FFFF">🟢 Active</span> |
-| **Code Additions** | 6.48M+ | <span style="color: #00FFFF">🟢 Growing</span> |
-| **Code Deletions** | 6.34M+ | <span style="color: #00FFFF">🟢 Maintained</span> |
+| **Total Commits** | 1,000+ | <span style="color: #00FFFF">🟢 Active</span> |
+| **Code Additions** | 8.5M+ | <span style="color: #00FFFF">🟢 Growing</span> |
+| **Code Deletions** | 7M+ | <span style="color: #00FFFF">🟢 Maintained</span> |
 | **Pull Requests** | 4 | <span style="color: #00FFFF">🟢 Tracked</span> |
 | **Issues** | 172 | <span style="color: #00FFFF">🟢 Active</span> |
 | **Contributors** | 3 | <span style="color: #00FFFF">🟢 Active Development</span> |
 
-*<span style="color: #FF00FF">Production repository metrics from FurulieLLC platform - 592+ commits, 6.48M+ additions, 6.34M+ deletions showing active development</span>*
+*<span style="color: #FF00FF">All-time statistics across all repositories (FurulieLLC, NASA-ASCEND-Website, SITEAUTOMATION, WebDevelopment, and others) - 1,000+ commits, 8.5M+ additions, 7M+ deletions showing comprehensive development activity</span>*
 
 </div>
 
@@ -690,7 +690,7 @@ I'm passionate about building scalable, secure systems that solve real business 
 - ✅ **<span style="color: #9D00FF">Multi-Cloud Architecture</span>** (AWS, Vercel, Cloudflare) with global edge distribution
 - ✅ **<span style="color: #00D9FF">50+ API Integrations</span>** with error handling and monitoring
 - ✅ **<span style="color: #FF1493">CTF & Security Challenges</span>** completed showing coding skills
-- ✅ **<span style="color: #00FFFF">592+ GitHub Commits</span>** with **6.48M+ additions** and **6.34M+ deletions** across production-grade projects
+- ✅ **<span style="color: #00FFFF">1,000+ GitHub Commits</span>** (all-time across all repositories, contributors, bots, and agents) with **8.5M+ additions** and **7M+ deletions** across production-grade projects
 - ✅ **<span style="color: #FF00FF">4,000+ Views</span>** on `fllc.net` portfolio and SaaS platform
 
 ---
