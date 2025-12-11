@@ -13,7 +13,7 @@
 
 <div align="center" style="margin-top: 20px;">
 
- <span style="color: #00FFFF">📍</span> <span style="color: #FF00FF">Peoria, Arizona</span>  |  <span style="color: #9D00FF">🎂</span> <span style="color: #00D9FF">Age 25</span>  |  <span style="color: #FF1493">🎓</span> <span style="color: #00FFFF">4.0 GPA (A+)</span>  |  <span style="color: #00FFFF">🔒</span> <span style="color: #FF00FF">DoD Cyber Aware Certified</span>
+ <span style="color: #00FFFF">📍</span> <span style="color: #FF00FF">Peoria, Arizona</span>  |  <span style="color: #9D00FF"></span> <span style="color: #00D9FF"> 25</span>  |  <span style="color: #FF1493">🎓</span> <span style="color: #00FFFF">4.0 GPA (Honors)</span>  |  <span style="color: #00FFFF">🔒</span> <span style="color: #FF00FF">DoD Cyber Aware Certified</span>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 </div>
 
-**Cybersecurity Engineer & Enterprise IT Specialist** with proven expertise in defense-grade security operations, threat detection, and infrastructure protection. At **25 years old**, I bring a unique combination of hands-on technical skills, government contracting experience, and enterprise security operations knowledge that positions me as a high-impact contributor to mission-critical security teams.
+**Cybersecurity Engineer & Enterprise IT Specialist** with proven expertise in US government (all levels), defense-grade security operations, threat detection, and infrastructure protection. I bring a combination of hands-on technical skills, government contracting experience, and enterprise security operations knowledge that positions me as a high-impact contributor to mission-critical security teams.
 
 **Core Value Proposition:**
 - ✅ **DoD Cyber Aware Certified** & **SAM-Registered Government Contractor** — Ready for defense and federal environments
@@ -96,7 +96,7 @@
 
 ### <span style="color: #00FFFF">🚀</span> **NASA - National Aeronautics and Space Administration** | *Arizona Space Grant Consortium ASCEND Intern* | *Oct 2025 – Present*
 
-**Location:** Phoenix, AZ | **Duration:** 3 months (Current)
+**Location:** Phoenix, AZ |
 
 **Role:** Hardware & Embedded Systems Engineer | Security & Web Development
 
@@ -115,7 +115,7 @@
 
 ### <span style="color: #FF00FF">🏢</span> **Furulie LLC** | *Owner & Chief Technology Officer* | *Oct 2025 – Present*
 
-**Location:** Remote | **Duration:** 3 months (Current)
+**Location:** Phoenix, AZ |
 
 **Role:** Founder | Full-Stack Developer | DevOps Engineer | Cybersecurity Lead | Government Contractor
 
@@ -142,7 +142,7 @@
 
 ### <span style="color: #9D00FF">🎓</span> **Maricopa Community College District (NSF)** | *ITS Intern - Security Operations* | *Sep 2025 – Present*
 
-**Location:** Phoenix, AZ | **Duration:** 4 months (Current) | **Network Scale:** 2M+ users
+**Location:** Phoenix, AZ | 
 
 **Role:** IT Intern | Security Operations | Infrastructure Engineer | Compliance Specialist
 
@@ -163,7 +163,7 @@
 
 ### <span style="color: #00D9FF">⚡</span> **Large-Scale Infrastructure Projects** | *Electrician Apprentice* | *Jun 2021 – Aug 2024*
 
-**Organizations:** TSMC (Taiwan Semiconductor Manufacturing Company), IBEW Local 640, Central Communications & Electrical (CCE), JA Solar, Nestle
+**Organizations:** IBEW Local 640, TSMC (Taiwan Semiconductor Manufacturing Company), CCE, JA Solar, Nestle
 
 **Location:** Phoenix, Arizona | **Duration:** 3+ years
 
@@ -176,7 +176,7 @@
 - ✨ **Performed cost analysis**, blueprint interpretation, strategic inventory management, and efficient material procurement
 - ✨ **Delivered projects on time and under budget** with exceptional quality and precision
 
-**Impact:** Gained hands-on experience with mission-critical infrastructure requiring zero-downtime operations, developing strong attention to detail and safety-first mindset applicable to cybersecurity operations
+**Impact:** Gained hands-on experience with mission-critical infrastructure requiring zero-downtime operations, developing a strong attention to detail and a safety-first mindset applicable to cybersecurity operations
 
 ---
 
@@ -190,8 +190,8 @@
 
 | **Institution** | **Degree/Program** | **Status** | **GPA** | **Years** |
 |-----------------|-------------------|------------|---------|------------|
-| **Phoenix College** | B.S. Information Technology | Junior (2023-2026) | **4.0 (A+)** | 2023-2026 |
-| **Arizona State University** | B.S. Information Technology (AFROTC) | Junior (2024-2025) | Honors | 2024-2025 |
+| **Phoenix College** | B.S. Information Technology | Junior (2023-2026) | **4.0 (Honors)** | 2023-2026 |
+| **Arizona State University** | Military Leadership and American studies (AFROTC) | Junior (2024-2025) | Honors & Awards | 2024-2025 |
 | **Montana State University** | Mechanical Engineering of Technology | Junior (2018-2020) | Competitive | 2018-2020 |
 | **Angel Aviation** | Student Pilot License (PPL in progress) | Active | - | 2024-Present |
 
