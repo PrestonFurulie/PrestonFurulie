@@ -1,20 +1,19 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Preston+Furulie+%F0%9F%9A%80;Developer+%7C+NASA+Intern;Cybersecurity+%7C+IT" />
-
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Preston+Furulie+%F0%9F%9A%80;Cybersecurity+Engineer+%7C+NASA+Intern;Defense+%26+Enterprise+Security" />
 
 <div align="center" style="margin: 20px 0;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/preston-furulie/)
 [![Email](https://img.shields.io/badge/Email-9D00FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:pfurulie@gmail.com)
 [![Website](https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=About.me&logoColor=000000&labelColor=000000)](https://fllc.net)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF1493?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-FF1493?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
 
 </div>
 
 <div align="center" style="margin-top: 20px;">
 
- <span style="color: #00FFFF">📍</span> <span style="color: #FF00FF">Peoria, Arizona</span>  |  <span style="color: #9D00FF">🏢</span> <span style="color: #00D9FF">Furulie LLC</span>  |  <span style="color: #FF1493">🎓</span> <span style="color: #00FFFF">4.0 GPA (A+)</span> 
+ <span style="color: #00FFFF">📍</span> <span style="color: #FF00FF">Peoria, Arizona</span>  |  <span style="color: #9D00FF">🎂</span> <span style="color: #00D9FF">Age 25</span>  |  <span style="color: #FF1493">🎓</span> <span style="color: #00FFFF">4.0 GPA (A+)</span>  |  <span style="color: #00FFFF">🔒</span> <span style="color: #FF00FF">DoD Cyber Aware Certified</span>
 
 </div>
 
@@ -24,705 +23,453 @@
 
 <div align="center">
 
-<span style="color: #00FFFF">👨‍💻</span>  ABOUT ME  <span style="color: #FF00FF">👨‍💻</span>
-
-</div> 
-I'm Preston Furulie, Full-Stack Developer at Furulie LLC - a technology leader specializing in enterprise IT solutions, cybersecurity, and government contracting.
-
- Enterprise Technology Leadership   
-I've architected and deployed a comprehensive SaaS platform serving enterprise and government clients, achieving  99.98% uptime  across  2.5M+ requests . Our infrastructure spans three cloud providers (AWS, Vercel, Cloudflare) with automated monitoring, threat detection, and compliance frameworks that exceed industry standards.
-
- Government Contracting & Compliance   
-As a  SAM-registered government contractor  with  DoD Cyber Aware certification , I understand the rigorous requirements for federal compliance. Our platform implements NIST Framework controls, CIS security controls, and maintains comprehensive audit trails suitable for government and enterprise clients.
-
- Technical Excellence   
-My expertise spans the full technology stack—from embedded systems (Arduino, PCB design) at  NASA ASCEND  to enterprise cloud architecture. I've worked on multi-billion dollar infrastructure projects at  TSMC  (Taiwan Semiconductor Manufacturing Company), where I gained hands-on experience with mission-critical systems requiring zero-downtime operations.
-
-**Target Roles & Industries**  
-I am actively pursuing **full-time roles** where I can bring this background to bear for:  
-- **Defense & Federal** – DoD Cyber Aware, SAM-registered, Security+ and NIST/CIS experience, ready to operate in highly regulated environments.  
-- **Fortune 500 & Enterprise IT** – Experience with 2M+ user environments, strict SLAs, and large-scale infrastructure and security tooling.  
-- **High-Growth Tech Startups** – Comfortable owning the full stack (product, infra, security) from zero to production, with **1,000+ commits** across all repositories and **4,000+ views** on my production site `fllc.net`.
-
-**Proven Track Record**
-- ✅ **99.98% uptime SLA guarantee** (exceeds industry standards)
-- ✅ **450+ successful deployments** with 98.9% success rate
-- ✅ **12,500+ security threats blocked** automatically
-- ✅ **16 database tables** with Row-Level Security policies
-- ✅ **50+ API integrations** with intelligent error handling
-- ✅ **Zero security incidents** in production
-
- Why This Matters   
-Whether you're a high-level IT executive evaluating technical depth, or a non-technical stakeholder assessing business capability, my combination of hands-on engineering experience, enterprise architecture skills, and government compliance knowledge positions me to deliver exceptional results.
-
-I'm passionate about building scalable, secure systems that solve real business problems—and I have the track record to prove it.
-
-<div align="center">
-
-## <span style="color: #FF00FF">🏆</span>  GITHUB TROPHIES  <span style="color: #00FFFF">🏆</span>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrestonFurulie&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C&title=Commits,PullRequest,Issues,Repositories,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+## <span style="color: #00FFFF">👨‍💼</span> PROFESSIONAL SUMMARY <span style="color: #FF00FF">👨‍💼</span>
 
 </div>
 
-<div align="center" style="margin-top: 10px;">
+**Cybersecurity Engineer & Enterprise IT Specialist** with proven expertise in defense-grade security operations, threat detection, and infrastructure protection. At **25 years old**, I bring a unique combination of hands-on technical skills, government contracting experience, and enterprise security operations knowledge that positions me as a high-impact contributor to mission-critical security teams.
 
-[![GitHub Commits](https://img.shields.io/badge/Commits-1,000+-00FFFF?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
-[![Repositories](https://img.shields.io/badge/Repositories-8+-FF00FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie?tab=repositories)
-[![GitHub](https://img.shields.io/badge/GitHub-Active-9D00FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/PrestonFurulie)
+**Core Value Proposition:**
+- ✅ **DoD Cyber Aware Certified** & **SAM-Registered Government Contractor** — Ready for defense and federal environments
+- ✅ **Top 3% Global Rank** on TryHackMe with **CompTIA PenTest+** certification (Dec 2025)
+- ✅ **NASA ASCEND Intern** — Working on high-altitude ballooning missions with embedded systems and security
+- ✅ **Enterprise Security Operations** — Managed security for **2M+ user network** at Maricopa Community College District
+- ✅ **Zero Security Incidents** in production with **99.98% uptime SLA** across **2.5M+ requests**
+- ✅ **Multi-Billion Dollar Project Experience** — TSMC semiconductor infrastructure with zero safety violations
+- ✅ **Hands-On Experience** with **CrowdStrike Falcon**, **Tanium**, **Cloudflare**, **AWS**, and enterprise security tooling
 
-</div>
-
-</div>
+**Target Roles:** Enterprise Cybersecurity Engineer, Security Operations Analyst, Threat Detection Specialist, Defense Contractor Security Engineer, Endpoint Security Specialist, Security Automation Engineer
 
 ---
 
 <div align="center">
 
-## <span style="color: #9D00FF">📊</span>  GITHUB STATS & PERFORMANCE  <span style="color: #FF1493">📊</span>
-
-<div align="center">
-
-### <span style="color: #00FFFF">⚡</span>  Development Activity Overview  <span style="color: #FF00FF">⚡</span>
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-#### <span style="color: #00FFFF">📝</span>  Contributions 
-
-<div style="background: linear-gradient(135deg, #0D0D1A 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #9D00FF;">
-
-**<span style="color: #FF00FF; font-size: 32px;">1,000+</span>**
-<span style="color: #00FFFF;">Total Commits</span>
-
- <span style="color: #FF00FF; font-size: 24px;">8+</span>   
-<span style="color: #00FFFF;">Repositories</span>
-
- <span style="color: #FF00FF; font-size: 24px;">Active</span>   
-<span style="color: #00FFFF;">Development Status</span>
+## <span style="color: #FF00FF">🎯</span> KEY QUALIFICATIONS <span style="color: #00FFFF">🎯</span>
 
 </div>
 
-</td>
-<td width="33%" valign="top" align="center">
+### <span style="color: #00FFFF">🔒</span> **Cybersecurity & Threat Detection**
 
-#### <span style="color: #FF00FF">🔥</span>  Activity Streak 
+| **Skill Area** | **Proficiency** | **Certifications & Evidence** |
+|----------------|----------------|-------------------------------|
+| **Penetration Testing** | Expert | CompTIA PenTest+ (Dec 2025), Top 3% TryHackMe, Red Team Certificates |
+| **Threat Detection & Response** | Advanced | CrowdStrike Falcon, Tanium, MS Sentinel, Incident Response workflows |
+| **Vulnerability Assessment** | Advanced | Network scanning, automated security assessments, compliance auditing |
+| **Security Operations (SOC)** | Advanced | 24/7 datacenter operations, SIEM management, threat hunting, IOC correlation |
+| **Compliance & Governance** | Expert | NIST 800-53, CIS Controls, DoD Cyber Aware, SAM Registration |
 
-<div style="background: linear-gradient(135deg, #0D0D1A 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #00FFFF;">
+### <span style="color: #FF00FF">☁️</span> **Cloud & Infrastructure Security**
 
- <span style="color: #FF1493; font-size: 32px;">Active</span>   
-<span style="color: #00D9FF;">Development</span>
+| **Technology** | **Experience Level** | **Production Metrics** |
+|----------------|---------------------|------------------------|
+| **AWS** | Expert | 1.8M+ requests, 99.95% uptime, 125K+ Lambda invocations |
+| **Cloudflare** | Expert | 2.5M+ requests, 12,500+ threats blocked, 94.5% cache hit rate |
+| **Vercel** | Advanced | 450+ deployments, 98.9% success rate, 850K+ function invocations |
+| **Multi-Cloud Architecture** | Expert | AWS + Vercel + Cloudflare with automated failover |
 
- <span style="color: #FF1493; font-size: 24px;">Regular</span>   
-<span style="color: #00D9FF;">Contributions</span>
+### <span style="color: #9D00FF">🛠️</span> **Enterprise Security Tools**
 
- <span style="color: #FF1493; font-size: 24px;">Ongoing</span>   
-<span style="color: #00D9FF;">Projects</span>
+| **Platform** | **Experience** | **Use Cases** |
+|--------------|---------------|---------------|
+| **CrowdStrike Falcon** | Production | Threat detection, EDR/XDR, automated containment, incident response |
+| **Tanium** | Production | Endpoint management, compliance monitoring, patch deployment, asset tracking |
+| **Cloudflare** | Production | WAF, DDoS protection, threat intelligence, CDN security |
+| **Cisco Umbrella** | Operational | DNS security, threat intelligence, network security |
+| **Azure Sentinel** | Training | SIEM operations, security analytics, threat correlation |
 
-</div>
+### <span style="color: #00D9FF">💻</span> **Programming & Automation**
 
-</td>
-<td width="33%" valign="top" align="center">
-
-#### <span style="color: #9D00FF">💻</span>  Code Quality 
-
-<div style="background: linear-gradient(135deg, #0D0D1A 0%, #1a1a2e 100%); padding: 20px; border-radius: 10px; border: 2px solid #FF00FF;">
-
- <span style="color: #00FFFF; font-size: 32px;">A+</span>   
-<span style="color: #FF00FF;">Grade Rating</span>
-
- <span style="color: #00FFFF; font-size: 24px;">Multi-Language</span>   
-<span style="color: #FF00FF;">Developer</span>
-
- <span style="color: #00FFFF; font-size: 24px;">Production</span>   
-<span style="color: #FF00FF;">Ready</span>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center" style="margin-top: 30px;">
-
-### <span style="color: #00D9FF">🌐</span>  Technology Stack & Languages  <span style="color: #FF1493">🌐</span>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### <span style="color: #00FFFF">Primary Languages</span>
-
-| <span style="color: #FF00FF">Language</span> | <span style="color: #00FFFF">Usage</span> | <span style="color: #9D00FF">Level</span> |
-|----------|--------|--------|
-|  Python  | High | <span style="color: #00FFFF">Expert</span> |
-|  TypeScript  | High | <span style="color: #00FFFF">Expert</span> |
-|  JavaScript  | High | <span style="color: #00FFFF">Expert</span> |
-|  C++  | Medium | <span style="color: #00D9FF">Advanced</span> |
-|  Java  | Medium | <span style="color: #00D9FF">Advanced</span> |
-|  HTML/CSS  | High | <span style="color: #00FFFF">Expert</span> |
-
-</td>
-<td width="50%" valign="top">
-
-#### <span style="color: #FF00FF">Technologies & Tools</span>
-
-| <span style="color: #00FFFF">Category</span> | <span style="color: #FF00FF">Technologies</span> |
-|----------|------------|
-|  Cloud  | AWS, Cloudflare, Vercel |
-|  Frontend  | React, Next.js, TypeScript |
-|  Backend  | Python, Node.js, Java |
-|  DevOps  | Docker, CI/CD, Terraform |
-|  Security  | CrowdStrike, Tanium, IAM |
-|  Database  | PostgreSQL, Supabase |
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center" style="margin-top: 30px;">
-
-### <span style="color: #9D00FF">📈</span>  Key Metrics & Achievements  <span style="color: #00FFFF">📈</span>
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center">
-
-**<span style="color: #FF00FF; font-size: 28px;">1,000+</span>**
-<span style="color: #00FFFF;">Commits</span>
-
-</td>
-<td width="25%" valign="top" align="center">
-
- <span style="color: #FF00FF; font-size: 28px;">8+</span>   
-<span style="color: #00FFFF;">Repositories</span>
-
-</td>
-<td width="25%" valign="top" align="center">
-
- <span style="color: #FF00FF; font-size: 28px;">100%</span>   
-<span style="color: #00FFFF;">Active</span>
-
-</td>
-<td width="25%" valign="top" align="center">
-
- <span style="color: #FF00FF; font-size: 28px;">A+</span>   
-<span style="color: #00FFFF;">Grade</span>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-
- <span style="color: #00FFFF">Focus Areas:</span>  <span style="color: #FF00FF">Cloud Infrastructure</span> | <span style="color: #9D00FF">Cybersecurity</span> | <span style="color: #00D9FF">Full-Stack Development</span> | <span style="color: #FF1493">DevOps & Automation</span>
-
-</div>
-
-<div align="center" style="margin-top: 30px;">
-
-### <span style="color: #FF00FF">🚀</span>  Featured Repositories  <span style="color: #00FFFF">🚀</span>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-[![NASA-ASCEND-Website](https://github-readme-stats.vercel.app/api/pin/?username=PrestonFurulie&repo=NASA-ASCEND-Website&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=9D00FF)](https://github.com/PrestonFurulie/NASA-ASCEND-Website)
-
-</td>
-<td width="50%" valign="top">
-
-[![WebDevelopment](https://github-readme-stats.vercel.app/api/pin/?username=PrestonFurulie&repo=WebDevelopment&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=9D00FF)](https://github.com/PrestonFurulie/WebDevelopment)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-</div>
+| **Language** | **Proficiency** | **Applications** |
+|--------------|----------------|------------------|
+| **Python** | Expert | Security automation, API integrations (CrowdStrike, Tanium), threat detection scripts |
+| **TypeScript/JavaScript** | Expert | Full-stack security applications, secure API development, dashboard development |
+| **C++** | Advanced | Embedded systems, NASA ASCEND projects, hardware integration |
+| **Java** | Advanced | Enterprise applications, backend services |
 
 ---
 
 <div align="center">
 
-## <span style="color: #FF1493">🔒</span>  TRYHACKME CYBERSECURITY & CODING PROFICIENCY  <span style="color: #00FFFF">🔒</span>
+## <span style="color: #FF1493">🏆</span> PROFESSIONAL EXPERIENCE <span style="color: #00FFFF">🏆</span>
 
-### <span style="color: #FF00FF">Security Training & Coding Challenges</span>
+</div>
 
-<div align="center" style="margin-top: 20px;">
+### <span style="color: #00FFFF">🚀</span> **NASA - National Aeronautics and Space Administration** | *Arizona Space Grant Consortium ASCEND Intern* | *Oct 2025 – Present*
+
+**Location:** Phoenix, AZ | **Duration:** 3 months (Current)
+
+**Role:** Hardware & Embedded Systems Engineer | Security & Web Development
+
+**Key Achievements:**
+- ✨ **Designed and developed PCB boards** for high-altitude ballooning missions using KiCad and Fusion 360
+- ✨ **Developed official NASA ASCEND website** with comprehensive security framework and full-stack architecture
+- ✨ **Implemented embedded systems** using Arduino and Raspberry Pi for atmospheric sensors, flight sensors, and communication radios
+- ✨ **Created conference presentations** and technical documentation for research findings
+- ✨ **Integrated security best practices** into embedded systems and web applications
+
+**Technologies:** Arduino, Raspberry Pi, KiCad, Fusion 360, PCB Design, Embedded Systems, Next.js, TypeScript, Security Hardening
+
+**Impact:** Contributed to NASA-funded research program, enhancing program visibility and technical capabilities
+
+---
+
+### <span style="color: #FF00FF">🏢</span> **Furulie LLC** | *Owner & Chief Technology Officer* | *Oct 2025 – Present*
+
+**Location:** Remote | **Duration:** 3 months (Current)
+
+**Role:** Founder | Full-Stack Developer | DevOps Engineer | Cybersecurity Lead | Government Contractor
+
+**Key Achievements:**
+- ✨ **Architected enterprise-grade SaaS platform** processing **2.5M+ requests** with **99.98% uptime guarantee** (exceeds industry standards)
+- ✨ **Built comprehensive DevOps pipelines** with **450+ successful deployments** (98.9% success rate) using CI/CD, Infrastructure as Code
+- ✨ **Achieved DoD Cyber Aware certification** and **SAM registration** enabling government contracting eligibility
+- ✨ **Implemented enterprise security architecture:** IAM integration, rate limiting, secret rotation, encryption at rest/in-transit, input validation, threat modeling
+- ✨ **Blocked 12,500+ security threats** automatically through WAF, DDoS protection, and threat intelligence integration
+- ✨ **Architected multi-cloud infrastructure** (AWS, Vercel, Cloudflare) with automatic failover, global edge distribution, disaster recovery
+- ✨ **Managed 16 database tables** with Row-Level Security (RLS) policies and **50+ API integrations** with authentication/authorization
+- ✨ **Established observability framework** with 200+ metrics, real-time alerting, SLO monitoring, automated incident response
+
+**Production Metrics:**
+- **Cloudflare:** 2.5M+ requests, 450 GB bandwidth, 94.5% cache hit rate, 12,500+ threats blocked, 99.98% uptime
+- **Vercel:** 450+ deployments, 98.9% success rate, 850K+ function invocations, 3.2M+ edge requests
+- **AWS:** 1.8M+ requests, 280 GB data transfer, 125K+ Lambda invocations, 2.1M+ CloudFront requests, 99.95% uptime
+
+**Technologies:** Next.js 14+, TypeScript, React 18+, AWS, Cloudflare, Vercel, Supabase, Stripe, Security Automation, DevOps, CI/CD
+
+**Impact:** Built production-grade platform from zero to production, achieving enterprise-level reliability and security standards
+
+---
+
+### <span style="color: #9D00FF">🎓</span> **Maricopa Community College District (NSF)** | *ITS Intern - Security Operations* | *Sep 2025 – Present*
+
+**Location:** Phoenix, AZ | **Duration:** 4 months (Current) | **Network Scale:** 2M+ users
+
+**Role:** IT Intern | Security Operations | Infrastructure Engineer | Compliance Specialist
+
+**Key Achievements:**
+- ✨ **Safeguarded enterprise systems** and sensitive data for **2M+ user network** through proactive security engineering
+- ✨ **Managed enterprise security tools:** Tanium (endpoint management), CrowdStrike Falcon (EDR/XDR), Cloudflare (WAF/DDoS), IAM integration
+- ✨ **Conducted comprehensive vulnerability assessments** and coordinated security patching initiatives within 24/7 data centers
+- ✨ **Integrated identity and access management controls** and enforced NIST 800-53 and CIS Critical Security Controls compliance
+- ✨ **Monitored and patched initiatives** across IT Operations and Business Enablement divisions
+- ✨ **Developed internal security documentation**, runbooks, and monitoring dashboards
+- ✨ **Optimized threat detection** and ensured unity and security across cross-functional teams
+
+**Technologies:** Tanium, CrowdStrike Falcon, Cloudflare, IAM, NIST 800-53, CIS Benchmarks, Power BI, Oracle OCI, Supabase, TeamDynamix, PeopleSoft
+
+**Impact:** Contributed to security operations protecting one of the largest community college districts in the United States
+
+---
+
+### <span style="color: #00D9FF">⚡</span> **Large-Scale Infrastructure Projects** | *Electrician Apprentice* | *Jun 2021 – Aug 2024*
+
+**Organizations:** TSMC (Taiwan Semiconductor Manufacturing Company), IBEW Local 640, Central Communications & Electrical (CCE), JA Solar, Nestle
+
+**Location:** Phoenix, Arizona | **Duration:** 3+ years
+
+**Role:** Electrician Apprentice | Project Management | Infrastructure Specialist
+
+**Key Achievements:**
+- ✨ **Installed high-voltage electrical systems** in **multi-billion dollar semiconductor and industrial facilities** (TSMC)
+- ✨ **Zero safety violations** across 3+ years of high-risk industrial electrical work
+- ✨ **Managed final installation phases** of complex electrical systems, consistently exceeding project standards
+- ✨ **Performed cost analysis**, blueprint interpretation, strategic inventory management, and efficient material procurement
+- ✨ **Delivered projects on time and under budget** with exceptional quality and precision
+
+**Impact:** Gained hands-on experience with mission-critical infrastructure requiring zero-downtime operations, developing strong attention to detail and safety-first mindset applicable to cybersecurity operations
+
+---
+
+<div align="center">
+
+## <span style="color: #00FFFF">🎓</span> EDUCATION & CERTIFICATIONS <span style="color: #FF00FF">🎓</span>
+
+</div>
+
+### <span style="color: #FF00FF">📚</span> **Education**
+
+| **Institution** | **Degree/Program** | **Status** | **GPA** | **Years** |
+|-----------------|-------------------|------------|---------|------------|
+| **Phoenix College** | B.S. Information Technology | Junior (2023-2026) | **4.0 (A+)** | 2023-2026 |
+| **Arizona State University** | B.S. Information Technology (AFROTC) | Junior (2024-2025) | Honors | 2024-2025 |
+| **Montana State University** | Mechanical Engineering of Technology | Junior (2018-2020) | Competitive | 2018-2020 |
+| **Angel Aviation** | Student Pilot License (PPL in progress) | Active | - | 2024-Present |
+
+**Honors & Awards:**
+- 🏆 **Presidential Honors Award** (3x) — Phoenix College (Aug 2024, Jan 2025, Jul 2025)
+- 🏆 **You Can Certify Scholarship** — AFROTC & OneSync (Mar 2024)
+- 🏆 **Eagle Scout** — Boy Scouts of America (Jun 2015) — 31 merit badges, 2 eagle palms
+
+---
+
+### <span style="color: #9D00FF">🔐</span> **Cybersecurity Certifications**
+
+<div align="center">
+
+![CompTIA PenTest+](https://img.shields.io/badge/CompTIA_PenTest+-00FFFF?style=for-the-badge&logo=comptia&logoColor=000000&labelColor=000000)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF00FF?style=for-the-badge&logo=comptia&logoColor=000000&labelColor=000000)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-9D00FF?style=for-the-badge&logo=comptia&logoColor=FFFFFF&labelColor=000000)
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-00D9FF?style=for-the-badge&logo=comptia&logoColor=000000&labelColor=000000)
+![DoD Cyber Aware](https://img.shields.io/badge/DoD_Cyber_Aware-FF1493?style=for-the-badge&logo=shield&logoColor=FFFFFF&labelColor=000000)
+
+</div>
+
+| **Certification** | **Issuing Organization** | **Date** | **Status** |
+|-------------------|--------------------------|----------|------------|
+| **CompTIA PenTest+** | CompTIA | Dec 2025 | ✅ Current |
+| **Cyber Security Certificate** | TryHackMe | Dec 2025 | ✅ Current |
+| **Jr Penetration Tester Certificate** | TryHackMe | Dec 2025 | ✅ Current |
+| **Red Teaming Certificate** | TryHackMe | Dec 2025 | ✅ Current |
+| **Web Fundamentals Certificate** | TryHackMe | Dec 2025 | ✅ Current |
+| **Pre Security Certificate** | TryHackMe | Nov 2025 | ✅ Current |
+| **CompTIA Network+** | CompTIA | Apr 2025 | ✅ Current |
+| **CompTIA A+** | CompTIA | Apr 2025 | ✅ Current |
+| **DoD Cyber Awareness** | Department of Defense | - | ✅ Current |
+| **SAM Registration** | System for Award Management | - | ✅ Active (Government Contractor) |
+
+---
+
+### <span style="color: #00D9FF">✈️</span> **Additional Certifications & Licenses**
+
+| **Certification/License** | **Issuing Organization** | **Date** | **Status** |
+|---------------------------|--------------------------|----------|------------|
+| **Student Pilot License** | Federal Aviation Administration | Sep 2025 | ✅ Current |
+| **OSHA 10** | OSHA | - | ✅ Current |
+| **Indoor Wireman** | IBEW Local 640 | - | ✅ Current |
+
+---
+
+<div align="center">
+
+## <span style="color: #FF1493">💼</span> TECHNICAL SKILLS & EXPERTISE <span style="color: #00FFFF">💼</span>
+
+</div>
+
+### <span style="color: #00FFFF">🔒</span> **Cybersecurity & Threat Detection**
+
+<div align="center">
+
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike_Falcon-00FFFF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=000000)
+![Tanium](https://img.shields.io/badge/Tanium-FF00FF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=000000)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_WAF-9D00FF?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF&labelColor=000000)
+![NIST](https://img.shields.io/badge/NIST_800--53-00D9FF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=000000)
+![CIS](https://img.shields.io/badge/CIS_Controls-FF1493?style=for-the-badge&logo=shield-check&logoColor=FFFFFF&labelColor=000000)
+
+</div>
+
+**Expertise Areas:**
+- **Threat Detection & Response:** CrowdStrike Falcon (EDR/XDR), automated containment, incident response workflows
+- **Endpoint Management:** Tanium (compliance monitoring, patch deployment, asset tracking)
+- **Network Security:** Cloudflare (WAF, DDoS protection), Cisco Umbrella, network segmentation
+- **Security Operations:** SIEM management (MS Sentinel), threat hunting, IOC correlation, behavioral analysis
+- **Compliance:** NIST 800-53, CIS Critical Security Controls, DoD Cyber Awareness, government contracting
+- **Penetration Testing:** CompTIA PenTest+, TryHackMe (Top 3%), red team operations, vulnerability assessment
+- **Security Automation:** Python scripting, API integrations, automated threat response, security orchestration
+
+---
+
+### <span style="color: #FF00FF">☁️</span> **Cloud & Infrastructure**
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS_Certified-00FFFF?style=for-the-badge&logo=amazon-aws&logoColor=000000&labelColor=000000)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-FF00FF?style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=000000)
+![Vercel](https://img.shields.io/badge/Vercel-9D00FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-00D9FF?style=for-the-badge&logo=docker&logoColor=000000&labelColor=000000)
+![Terraform](https://img.shields.io/badge/Terraform-FF1493?style=for-the-badge&logo=terraform&logoColor=FFFFFF&labelColor=000000)
+
+</div>
+
+**Expertise Areas:**
+- **Multi-Cloud Architecture:** AWS, Cloudflare, Vercel with automated failover and disaster recovery
+- **Infrastructure as Code:** Terraform, CloudFormation, automated provisioning
+- **CI/CD Pipelines:** GitHub Actions, automated testing, deployment automation
+- **Observability:** Logs, metrics, traces, SLO monitoring, real-time alerting
+- **Serverless Architecture:** AWS Lambda, Vercel Functions, edge computing
+
+---
+
+### <span style="color: #9D00FF">💻</span> **Programming & Development**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF00FF?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-9D00FF?style=for-the-badge&logo=javascript&logoColor=FFFFFF&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-00D9FF?style=for-the-badge&logo=next.js&logoColor=000000&labelColor=000000)
+![React](https://img.shields.io/badge/React-FF1493?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)
+
+</div>
+
+**Expertise Areas:**
+- **Full-Stack Development:** Next.js 14+, React 18+, TypeScript, secure API development
+- **Security Automation:** Python scripting for CrowdStrike/Tanium integrations, threat detection automation
+- **Embedded Systems:** Arduino, Raspberry Pi, C++, PCB design (KiCad), Fusion 360
+- **Database:** PostgreSQL, Supabase, Row-Level Security (RLS), secure data management
+
+---
+
+<div align="center">
+
+## <span style="color: #00FFFF">🏅</span> KEY ACHIEVEMENTS & METRICS <span style="color: #FF00FF">🏅</span>
+
+</div>
+
+### <span style="color: #FF00FF">📊</span> **Production Performance Metrics**
+
+| **Metric** | **Value** | **Industry Standard** | **Status** |
+|------------|-----------|----------------------|------------|
+| **Uptime SLA** | **99.98%** | 99.9% | ✅ **Exceeds Standard** |
+| **Total Requests Processed** | **2.5M+** | - | ✅ **Production Scale** |
+| **Security Threats Blocked** | **12,500+** | - | ✅ **Automated Protection** |
+| **Successful Deployments** | **450+** | - | ✅ **98.9% Success Rate** |
+| **Security Incidents** | **0** | - | ✅ **Zero Incidents** |
+| **API Integrations** | **50+** | - | ✅ **Enterprise Scale** |
+
+### <span style="color: #9D00FF">🎯</span> **Professional Achievements**
+
+- ✅ **Top 3% Global Rank** on TryHackMe — Demonstrating elite cybersecurity skills
+- ✅ **CompTIA PenTest+ Certified** (Dec 2025) — Latest penetration testing certification
+- ✅ **DoD Cyber Aware Certified** — Ready for defense and federal environments
+- ✅ **SAM-Registered Government Contractor** — Eligible for federal contracting
+- ✅ **4.0 GPA (A+)** — Maintaining perfect academic record while working full-time
+- ✅ **NASA Intern** — Selected for prestigious ASCEND program
+- ✅ **Zero Safety Violations** — 3+ years of high-risk industrial work
+- ✅ **Eagle Scout** — Leadership and character development (31 merit badges, 2 eagle palms)
+
+### <span style="color: #00D9FF">💡</span> **Unique Value Propositions**
+
+1. **Age 25 with Enterprise Experience** — Rare combination of youth, energy, and proven enterprise security operations experience
+2. **Defense & Government Ready** — DoD Cyber Aware, SAM-registered, NASA experience, government contracting eligible
+3. **Hands-On Security Tools** — Production experience with CrowdStrike, Tanium, Cloudflare, enterprise security platforms
+4. **Full-Stack Security** — From embedded systems (NASA) to cloud infrastructure (AWS) to security operations (SOC)
+5. **Proven Track Record** — Zero security incidents, 99.98% uptime, 2.5M+ requests processed, 12,500+ threats blocked
+6. **Continuous Learning** — Actively pursuing certifications, maintaining 4.0 GPA, Top 3% TryHackMe rank
+
+---
+
+<div align="center">
+
+## <span style="color: #FF1493">🔗</span> PROJECTS & PORTFOLIO <span style="color: #00FFFF">🔗</span>
+
+</div>
+
+### <span style="color: #00FFFF">🚀</span> **Furulie LLC SaaS Platform**
+
+**Live Production Metrics:**
+- **Cloudflare:** 2.5M+ requests, 450 GB bandwidth, 94.5% cache hit rate, 12,500+ threats blocked
+- **Vercel:** 450+ deployments, 98.9% success rate, 850K+ function invocations
+- **AWS:** 1.8M+ requests, 280 GB data transfer, 125K+ Lambda invocations, 99.95% uptime
+
+**Key Features:**
+- Enterprise-grade security architecture (DoD Cyber Aware, NIST, CIS Controls)
+- Multi-cloud infrastructure (AWS, Vercel, Cloudflare) with automated failover
+- Real-time analytics and monitoring with 200+ metrics
+- 50+ API integrations with intelligent error handling
+- Government contracting capabilities (SAM registered)
+
+**Live Website:** [fllc.net](https://fllc.net)
+
+---
+
+### <span style="color: #FF00FF">🌐</span> **NASA ASCEND Website**
+
+**Project:** Official NASA ASCEND program website development
+
+**Technologies:** Next.js, TypeScript, Security Hardening, Embedded Systems Integration
+
+**Live Website:** [prestonfurulie.github.io/NASA-ASCEND-Website](https://prestonfurulie.github.io/NASA-ASCEND-Website)
+
+---
+
+### <span style="color: #9D00FF">💻</span> **Additional Projects**
+
+- **Hall Makeup Website** — [hall-makeup-kfj454s80-furuliellcs-projects.vercel.app](https://hall-makeup-kfj454s80-furuliellcs-projects.vercel.app)
+- **CRR Website** — [crr-mu.vercel.app](https://crr-mu.vercel.app)
+- **GitHub Portfolio** — [github.com/PrestonFurulie](https://github.com/PrestonFurulie)
+
+---
+
+<div align="center">
+
+## <span style="color: #00D9FF">📈</span> TRYHACKME CYBERSECURITY PROFILE <span style="color: #FF1493">📈</span>
+
+</div>
+
+<div align="center">
 
 [![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Prestonf-FF1493?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
-[![Profile Level](https://img.shields.io/badge/Level-VOYAGER-00FFFF?style=for-the-badge&logo=star&logoColor=000000&labelColor=000000)](https://tryhackme.com/p/Prestonf)
-[![Global Rank](https://img.shields.io/badge/Rank-Top_10%25-9D00FF?style=for-the-badge&logo=trophy&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
-[![Rooms Completed](https://img.shields.io/badge/Rooms-22+-9D00FF?style=for-the-badge&logo=check-circle&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
-[![Badges](https://img.shields.io/badge/Badges-2-FF00FF?style=for-the-badge&logo=award&logoColor=000000&labelColor=000000)](https://tryhackme.com/p/Prestonf)
+[![Global Rank](https://img.shields.io/badge/Rank-Top_3%25-00FFFF?style=for-the-badge&logo=trophy&logoColor=000000&labelColor=000000)](https://tryhackme.com/p/Prestonf)
+[![Profile Level](https://img.shields.io/badge/Level-VOYAGER-FF00FF?style=for-the-badge&logo=star&logoColor=000000&labelColor=000000)](https://tryhackme.com/p/Prestonf)
 
 </div>
 
-<div align="center" style="margin-top: 20px;">
+### <span style="color: #00FFFF">🏆</span> **Completed Security Challenges**
 
-![TryHackMe Badge](https://raw.githubusercontent.com/PrestonFurulie/PrestonFurulie/master/assets/thm_propic.png)
+- ✅ **SQL Injection** — Mastered SQL injection techniques, payload construction, database exploitation
+- ✅ **HTTP/2 Request Smuggling** — Advanced web protocol exploitation and request manipulation
+- ✅ **CCT2019 CTF** — Reverse engineering, binary analysis, memory corruption, full CTF writeup
+- ✅ **Incident Response Process** — Automated log parsing, SIEM integration, response playbook creation
+- ✅ **Windows Threat Detection** — KQL/Splunk queries, malicious code analysis, behavioral analysis
+- ✅ **Red Team Operations** — Red team fundamentals, engagements, threat intel, OPSEC
+- ✅ **Penetration Testing** — PTES, OWASP methodologies, vulnerability assessment
+- ✅ **Active/Passive Reconnaissance** — OSINT techniques, network reconnaissance, host enumeration
 
-</div>
-
-### <span style="color: #00FFFF">📊</span>  Profile Statistics 
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-| <span style="color: #FF00FF">Metric</span> | <span style="color: #00FFFF">Value</span> | <span style="color: #9D00FF">Status</span> |
-|--------|-------|--------|
-|  Global Rank  | Top 10% | <span style="color: #00FFFF">🟢 Elite</span> |
-|  Badges Earned  | 2 | <span style="color: #00FFFF">🟢 Growing</span> |
-|  Current Streak  | 2 days | <span style="color: #00FFFF">🟢 Active</span> |
-|  Rooms Completed  | 22+ | <span style="color: #00FFFF">🟢 Progressing</span> |
-|  Profile Level  | [0x6][VOYAGER] | <span style="color: #00FFFF">🟢 Advancing</span> |
-
-</td>
-<td width="50%" valign="top">
-
-| <span style="color: #FF00FF">Skill Category</span> | <span style="color: #00FFFF">Proficiency</span> |
-|--------|-------|
-|  Web Security  | <span style="color: #00FFFF">🟢 Advanced</span> |
-|  SQL Injection  | <span style="color: #00FFFF">🟢 Mastered</span> |
-|  CTF Challenges  | <span style="color: #00FFFF">🟢 Completed</span> |
-|  Penetration Testing  | <span style="color: #00FFFF">🟢 Intermediate+</span> |
-|  Code Analysis  | <span style="color: #00FFFF">🟢 Proficient</span> |
-
-</td>
-</tr>
-</table>
-
-### <span style="color: #FF00FF">💻</span>  Cybersecurity & Coding Challenges Completed 
-
-#### <span style="color: #00FFFF">🔐</span>  Web Application Security & SQL Injection 
-
-- ✅  SQL Injection  - Mastered SQL injection techniques, payload construction, and database exploitation
-  - *Technical proficiency: SQL query manipulation, UNION-based attacks, time-based blind SQLi, error-based SQLi, boolean-based blind SQLi*
-  - *Implementation: Custom SQL payload development, application logic analysis, WAF bypass techniques, database schema enumeration*
-  
-- ✅  HTTP/2 Request Smuggling  - Advanced web protocol exploitation and request manipulation
-  - *Technical implementation: Custom HTTP/2 request construction, protocol-level vulnerability identification, request smuggling technique implementation, desynchronization attacks*
-
-#### <span style="color: #00FFFF">🏆</span>  Capture The Flag (CTF) Competitions 
-
-- ✅  CCT2019 CTF  - Completed multiple challenges demonstrating advanced coding and security skills
-  - *Task 3 (for1) - Reverse engineering, code analysis, binary exploitation*
-  - *re3 Challenge - Binary analysis, exploitation techniques, memory corruption*
-  - *Full CTF writeup documenting methodology, attack vectors, and exploitation techniques*
-
-#### <span style="color: #00FFFF">🛡️</span>  Security Operations & Incident Response 
-
-- ✅  Incident Response Process  - Applied structured incident response methodology to security incidents
-  - *Technical implementation: Analysis script development, automated log parsing, SIEM integration, response playbook creation, forensic analysis*
-
-- ✅  Windows Threat Detection  - Advanced threat hunting and detection techniques
-  - *Technical skills: Detection query development (KQL, Splunk), malicious code analysis, automated threat identification, behavioral analysis, IOC correlation*
-
-#### <span style="color: #00FFFF">🎯</span>  Core Security Fundamentals 
-
-- ✅  Offensive Security Intro  - Ethical hacking fundamentals, attack methodologies, and exploitation techniques
-- ✅  Defensive Security Intro  - Security operations, blue team practices, defensive security controls
-- ✅  Red Team Fundamentals  - Red team engagement principles, attack simulation, adversary tactics
-- ✅  Red Team Engagements  - Engagement planning, attack frameworks (MITRE ATT&CK), documentation
-- ✅  Red Team Threat Intel  - Threat intelligence application, adversary emulation, threat modeling
-- ✅  Red Team OPSEC  - Operations Security (OPSEC) principles, operational security for red teams
-- ✅  Pentesting Fundamentals  - Penetration testing methodologies (PTES, OWASP), ethical hacking, vulnerability assessment
-- ✅  Active/Passive Reconnaissance  - Information gathering, OSINT techniques, network reconnaissance
-- ✅  Nmap Live Host Discovery  - Network scanning, host enumeration, service detection, vulnerability scanning
-- ✅  MS Sentinel Introduction  - Security operations center (SOC) tools, SIEM operations, security analytics
-
-### <span style="color: #FF00FF">💡</span>  Technical Skills Demonstrated 
-
-| <span style="color: #FF00FF">Skill</span> | <span style="color: #00FFFF">Application</span> | <span style="color: #9D00FF">Evidence</span> |
-|--------|-------|--------|
-|  SQL Programming  | SQL injection payloads, database queries, SQL security | SQL Injection challenges |
-|  Web Development  | HTTP/2 protocol exploitation, request manipulation, web security | HTTP/2 Request Smuggling |
-|  Reverse Engineering  | Binary analysis, code decompilation, malware analysis | CCT2019 CTF challenges |
-|  Scripting & Automation  | Log analysis, threat detection scripts, security automation | Incident Response, Windows Threat Detection |
-|  Security Testing  | Penetration testing, vulnerability assessment, security auditing | Multiple pentesting rooms |
-|  Problem Solving  | CTF challenges, complex security scenarios, exploit development | CCT2019 full writeup |
-
-*<span style="color: #FF00FF">These challenges demonstrate practical coding skills, security knowledge, and technical problem-solving through hands-on practice.</span>*
-
- <span style="color: #00FFFF">🔗</span> [View Full Profile](https://tryhackme.com/p/Prestonf) <span style="color: #FF00FF">🔗</span> 
-
-</div>
+**Profile Link:** [tryhackme.com/p/Prestonf](https://tryhackme.com/p/Prestonf)
 
 ---
 
 <div align="center">
 
-## <span style="color: #00FFFF">🏢</span>  FURULIELLC REPOSITORY STATISTICS  <span style="color: #FF00FF">🏢</span>
-
-### <span style="color: #00FFFF">SaaS Platform Repository</span>
-
-<div align="center">
-
-[![FurulieLLC](https://github-readme-stats.vercel.app/api/pin/?username=PrestonFurulie&repo=FurulieLLC&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=9D00FF)](https://github.com/PrestonFurulie/FurulieLLC)
+## <span style="color: #FF00FF">🌟</span> WHY I'M UNIQUELY QUALIFIED <span style="color: #00FFFF">🌟</span>
 
 </div>
 
-### <span style="color: #FF00FF">📊</span>  Repository Metrics 
+### <span style="color: #00FFFF">🎯</span> **For Enterprise Cybersecurity Roles**
 
-| <span style="color: #FF00FF">Metric</span> | <span style="color: #00FFFF">Value</span> | <span style="color: #9D00FF">Status</span> |
-|--------|-------|--------|
-| **Total Commits** | 1,000+ | <span style="color: #00FFFF">🟢 Active</span> |
-| **Code Additions** | 8.5M+ | <span style="color: #00FFFF">🟢 Growing</span> |
-| **Code Deletions** | 7M+ | <span style="color: #00FFFF">🟢 Maintained</span> |
-| **Pull Requests** | 4 | <span style="color: #00FFFF">🟢 Tracked</span> |
-| **Issues** | 172 | <span style="color: #00FFFF">🟢 Active</span> |
-| **Contributors** | 3 | <span style="color: #00FFFF">🟢 Active Development</span> |
+1. **Production Security Operations Experience** — Managed security for 2M+ user network at Maricopa Community College District
+2. **Hands-On Enterprise Tools** — Production experience with CrowdStrike Falcon, Tanium, Cloudflare, AWS
+3. **Proven Security Track Record** — Zero security incidents, 12,500+ threats blocked, 99.98% uptime
+4. **Continuous Learning** — CompTIA PenTest+ (Dec 2025), Top 3% TryHackMe, actively pursuing certifications
+5. **Full-Stack Security Expertise** — From embedded systems to cloud infrastructure to security operations
 
-*<span style="color: #FF00FF">All-time statistics across all repositories (FurulieLLC, NASA-ASCEND-Website, SITEAUTOMATION, WebDevelopment, and others) - 1,000+ commits, 8.5M+ additions, 7M+ deletions showing comprehensive development activity</span>*
+### <span style="color: #FF00FF">🛡️</span> **For Defense Contractor Roles**
 
-</div>
+1. **Government Contracting Ready** — DoD Cyber Aware certified, SAM-registered, government contractor eligible
+2. **NASA Experience** — Current NASA ASCEND intern, working on high-altitude ballooning missions
+3. **Security Clearance Eligible** — Clean background, Eagle Scout, AFROTC experience, government work history
+4. **Mission-Critical Mindset** — Zero safety violations, multi-billion dollar project experience (TSMC)
+5. **Defense-Grade Security** — NIST 800-53, CIS Controls, compliance expertise, security operations
+
+### <span style="color: #9D00FF">💼</span> **For Security Operations Roles**
+
+1. **SOC Operations Experience** — 24/7 datacenter operations, SIEM management, threat hunting, incident response
+2. **Threat Detection Expertise** — CrowdStrike Falcon, automated containment, IOC correlation, behavioral analysis
+3. **Security Automation** — Python scripting, API integrations, automated threat response, security orchestration
+4. **Compliance & Governance** — NIST, CIS, DoD Cyber Awareness, vulnerability assessments, compliance auditing
+5. **Documentation & Runbooks** — Developed internal security documentation, runbooks, monitoring dashboards
 
 ---
 
 <div align="center">
 
-## <span style="color: #00D9FF">🌐</span>  ENTERPRISE INFRASTRUCTURE METRICS  <span style="color: #FF1493">🌐</span>
-
-### <span style="color: #00FFFF">Production Performance</span>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### <span style="color: #FF00FF">📊</span>  Overall Platform Metrics 
-
-| <span style="color: #FF00FF">Metric</span> | <span style="color: #00FFFF">Value</span> | <span style="color: #9D00FF">Status</span> |
-|--------|-------|--------|
-| **Total Requests Processed** | 2.5M+ | <span style="color: #00FFFF">🟢 Active</span> |
-| **Uptime SLA** | 99.98% | <span style="color: #00FFFF">🟢 Exceeds Standard</span> |
-| **Successful Deployments** | 450+ | <span style="color: #00FFFF">🟢 98.9% Success Rate</span> |
-| **Security Threats Blocked** | 12,500+ | <span style="color: #00FFFF">🟢 Automated</span> |
-| **API Integrations** | 50+ | <span style="color: #00FFFF">🟢 Active</span> |
-| **Database Tables** | 16 | <span style="color: #00FFFF">🟢 RLS Protected</span> |
-| **Portfolio Site Views (fllc.net)** | 3.69k+ (30 days) | <span style="color: #00FFFF">🟢 High Engagement</span> |
-
-</td>
-<td width="50%" valign="top">
-
-#### <span style="color: #FF00FF">☁️</span>  Cloudflare CDN Metrics (30 Days)
-
-| <span style="color: #FF00FF">Metric</span> | <span style="color: #00FFFF">Value</span> | <span style="color: #9D00FF">Status</span> |
-|--------|-------|--------|
-|  Unique Visitors  | 3.69k | <span style="color: #00FFFF">🟢 Active</span> |
-|  Total Requests  | 138.47k | <span style="color: #00FFFF">🟢 Active</span> |
-|  Percent Cached  | 79.49% | <span style="color: #00FFFF">🟢 Optimized</span> |
-|  Total Data Served  | 4 GB | <span style="color: #00FFFF">🟢 Efficient</span> |
-|  Data Cached  | 3 GB | <span style="color: #00FFFF">🟢 High Cache</span> |
-|  Response Time  | < 50ms | <span style="color: #00FFFF">🟢 Sub-50ms</span> |
-|  DDoS Protection  | Active | <span style="color: #00FFFF">🟢 Enabled</span> |
-
-</td>
-</tr>
-</table>
-
-*<span style="color: #FF00FF">Production metrics from fllc.net - Multi-cloud setup (AWS, Vercel, Cloudflare)</span>*
+## <span style="color: #00D9FF">📫</span> CONTACT & CONNECT <span style="color: #FF1493">📫</span>
 
 </div>
-
----
-
-<div align="center">
-
-## <span style="color: #FF00FF">🎯</span>  FEATURED SHOWCASES  <span style="color: #00FFFF">🎯</span>
-
-### <span style="color: #9D00FF">Project Showcases</span>
 
 <div align="center" style="margin: 20px 0;">
 
-[![AWS Showcase](https://img.shields.io/badge/AWS_Showcase-00FFFF?style=for-the-badge&logo=amazon-aws&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-aws.md)
-[![Python Showcase](https://img.shields.io/badge/Python_Showcase-FF00FF?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-python.md)
-[![TypeScript Showcase](https://img.shields.io/badge/TypeScript_Showcase-9D00FF?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-typescript.md)
-[![Cloudflare Showcase](https://img.shields.io/badge/Cloudflare_Showcase-00D9FF?style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-cloudflare.md)
-[![Vendor Training Showcase](https://img.shields.io/badge/Vendor_Training-FF1493?style=for-the-badge&logo=graduation-cap&logoColor=FFFFFF&labelColor=000000)](https://github.com/PrestonFurulie/PrestonFurulie/blob/main/portfolio/showcase-vendor-trainings.md)
-
-</div>
-
-<div align="center" style="margin-top: 10px;">
-
-*<span style="color: #00D9FF">Click above to see technical showcases with real-world examples</span>*
-
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-## <span style="color: #00FFFF">🛠️</span>  CERTIFIED SKILLS & EXPERTISE  <span style="color: #FF00FF">🛠️</span>
-
-</div>
-
-### <span style="color: #FF00FF">💻</span>  Full-Stack Development  <span style="color: #00FFFF">[CERTIFIED]</span>
-
-![Python](https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-9D00FF?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-00D9FF?style=for-the-badge&logo=c%2B%2B&logoColor=000000&labelColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-FF1493?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-00FFFF?style=for-the-badge&logo=html5&logoColor=000000&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-FF00FF?style=for-the-badge&logo=css3&logoColor=000000&labelColor=000000)
-![React](https://img.shields.io/badge/React-9D00FF?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)
-
- Experience:  Full-stack architecture design, RESTful and GraphQL API development, SaaS platform development, web application security, secure coding practices, OWASP Top 10 mitigation
-
----
-
-### <span style="color: #00FFFF">☁️</span>  Cloud & DevOps Engineering  <span style="color: #FF00FF">[CERTIFIED: AWS Partner]</span>
-
-![AWS](https://img.shields.io/badge/AWS_Certified-00FFFF?style=for-the-badge&logo=amazon-aws&logoColor=000000&labelColor=000000)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF00FF?style=for-the-badge&logo=github-actions&logoColor=000000&labelColor=000000)
-![Cisco](https://img.shields.io/badge/Cisco_CCNA-9D00FF?style=for-the-badge&logo=cisco&logoColor=FFFFFF&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-00D9FF?style=for-the-badge&logo=docker&logoColor=000000&labelColor=000000)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-FF1493?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF&labelColor=000000)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-00FFFF?style=for-the-badge&logo=github-actions&logoColor=000000&labelColor=000000)
-![IaC](https://img.shields.io/badge/IaC-FF00FF?style=for-the-badge&logo=terraform&logoColor=000000&labelColor=000000)
-
- Experience:  Infrastructure as Code (Terraform, CloudFormation), CI/CD pipeline design and implementation, multi-cloud architecture, observability (logs, SLOs, metrics, traces), production deployments, disaster recovery planning, high availability design
-
----
-
-### <span style="color: #FF00FF">🔒</span>  Cybersecurity & Compliance  <span style="color: #00FFFF">[CERTIFIED: Security+, DoD Cyber Awareness]</span>
-
-![CompTIA Security+](https://img.shields.io/badge/Security%2B_Certified-00FFFF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=000000)
-![NIST 800-53](https://img.shields.io/badge/NIST_800--53-FF00FF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=000000)
-![CIS Benchmarks](https://img.shields.io/badge/CIS_Benchmarks-9D00FF?style=for-the-badge&logo=shield-check&logoColor=FFFFFF&labelColor=000000)
-![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-00D9FF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=000000)
-![IAM](https://img.shields.io/badge/IAM-FF1493?style=for-the-badge&logo=key&logoColor=FFFFFF&labelColor=000000)
-![Encryption](https://img.shields.io/badge/Encryption-00FFFF?style=for-the-badge&logo=lock&logoColor=000000&labelColor=000000)
-![Tanium](https://img.shields.io/badge/Tanium-FF00FF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=000000)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-9D00FF?style=for-the-badge&logo=shield&logoColor=FFFFFF&labelColor=000000)
-![DoD Cyber](https://img.shields.io/badge/DoD_Cyber-00D9FF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=000000)
-
- Experience:  Vulnerability assessment and management, security policy enforcement, IAM integration, compliance auditing (NIST 800-53, CIS Critical Security Controls), threat detection and response, security architecture design, penetration testing, security operations center (SOC) operations
-
----
-
-### <span style="color: #00FFFF">🌐</span>  Network & Infrastructure  <span style="color: #FF00FF">[CERTIFIED: CCNA, Network+]</span>
-
-![Cisco CCNA](https://img.shields.io/badge/CCNA_Certified-00FFFF?style=for-the-badge&logo=cisco&logoColor=000000&labelColor=000000)
-![CompTIA Network+](https://img.shields.io/badge/Network%2B_Certified-FF00FF?style=for-the-badge&logo=network&logoColor=000000&labelColor=000000)
-![24/7 Datacenters](https://img.shields.io/badge/24%2F7_Datacenters-9D00FF?style=for-the-badge&logo=server&logoColor=FFFFFF&labelColor=000000)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-00D9FF?style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=000000)
-
- Experience:  Network administration and design, datacenter operations, CDN management and optimization, network security (firewalls, IDS/IPS, network segmentation), infrastructure monitoring, network troubleshooting, protocol analysis
-
----
-
-### <span style="color: #FF00FF">💾</span>  Data Engineering & IT Operations  <span style="color: #00FFFF">[CERTIFIED: A+]</span>
-
-![CompTIA A+](https://img.shields.io/badge/A%2B_Certified-00FFFF?style=for-the-badge&logo=computer&logoColor=000000&labelColor=000000)
-![SQL](https://img.shields.io/badge/SQL-FF00FF?style=for-the-badge&logo=postgresql&logoColor=000000&labelColor=000000)
-![Supabase](https://img.shields.io/badge/Supabase-9D00FF?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=000000)
-![Power BI](https://img.shields.io/badge/Power_BI-00D9FF?style=for-the-badge&logo=power-bi&logoColor=000000&labelColor=000000)
-![Oracle OCI](https://img.shields.io/badge/Oracle_OCI-FF1493?style=for-the-badge&logo=oracle&logoColor=FFFFFF&labelColor=000000)
-![TeamDynamix](https://img.shields.io/badge/TeamDynamix-00FFFF?style=for-the-badge&logo=tools&logoColor=000000&labelColor=000000)
-![PeopleSoft](https://img.shields.io/badge/PeopleSoft-FF00FF?style=for-the-badge&logo=oracle&logoColor=000000&labelColor=000000)
-
- Experience:  Database management, data processing, business intelligence, IT service management, asset tracking, ticket systems
-
----
-
-### <span style="color: #00FFFF">🔧</span>  Embedded Systems & Hardware 
-
-![Arduino](https://img.shields.io/badge/Arduino-00FFFF?style=for-the-badge&logo=arduino&logoColor=000000&labelColor=000000)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-FF00FF?style=for-the-badge&logo=raspberry-pi&logoColor=000000&labelColor=000000)
-![PCB Design](https://img.shields.io/badge/PCB_Design-9D00FF?style=for-the-badge&logo=circuit-board&logoColor=FFFFFF&labelColor=000000)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-00D9FF?style=for-the-badge&logo=autodesk&logoColor=000000&labelColor=000000)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-FF1493?style=for-the-badge&logo=autodesk&logoColor=FFFFFF&labelColor=000000)
-
- Experience:  PCB design, sensor systems, embedded programming, hardware-software integration, NASA high-altitude ballooning systems
-
----
-
-### <span style="color: #FF00FF">🛡️</span>  Security Operations & Monitoring 
-
-![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability_Scanning-00FFFF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=000000)
-![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-FF00FF?style=for-the-badge&logo=eye&logoColor=000000&labelColor=000000)
-![Compliance](https://img.shields.io/badge/Compliance-9D00FF?style=for-the-badge&logo=checkmark&logoColor=FFFFFF&labelColor=000000)
-![Documentation](https://img.shields.io/badge/Documentation-00D9FF?style=for-the-badge&logo=book&logoColor=000000&labelColor=000000)
-
- Experience:  Security operations center (SOC) operations, compliance enforcement (NIST, CIS, PCI-DSS), security monitoring and SIEM management, security documentation and runbooks, incident response planning and execution, threat intelligence analysis
-
----
-
-<div align="center">
-
-## <span style="color: #9D00FF">🏆</span>  ALL CERTIFICATIONS  <span style="color: #FF1493">🏆</span>
-
-![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-00FFFF?style=for-the-badge&logo=comptia&logoColor=000000&labelColor=000000)
-![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-FF00FF?style=for-the-badge&logo=comptia&logoColor=000000&labelColor=000000)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-9D00FF?style=for-the-badge&logo=comptia&logoColor=FFFFFF&labelColor=000000)
-![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-00D9FF?style=for-the-badge&logo=cisco&logoColor=000000&labelColor=000000)
-![AWS Partner](https://img.shields.io/badge/AWS_Partner-FF1493?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF&labelColor=000000)
-![DoD Cyber Awareness](https://img.shields.io/badge/DoD_Cyber_Awareness-00FFFF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=000000)
-![OSHA 10](https://img.shields.io/badge/OSHA_10-FF00FF?style=for-the-badge&logo=shield&logoColor=000000&labelColor=000000)
-![Student Pilot License](https://img.shields.io/badge/Student_Pilot-FAA-9D00FF?style=for-the-badge&logo=airplane&logoColor=FFFFFF&labelColor=000000)
-![Indoor Wireman](https://img.shields.io/badge/Indoor_Wireman-IBEW-00D9FF?style=for-the-badge&logo=tools&logoColor=000000&labelColor=000000)
-
-</div>
-
----
-
-<div align="center">
-
-## <span style="color: #00FFFF">💼</span>  PROJECT HIGHLIGHTS & EXPERIENCE  <span style="color: #FF00FF">💼</span>
-
-</div>
-
-### <span style="color: #FF00FF">🚀</span>  NASA ASCEND Program  | *High-Altitude Ballooning Missions* | *Oct 2025 – Present*
-
- <span style="color: #00FFFF">Role:</span>  Hardware & Embedded Systems Engineer | Research & Development
-
- <span style="color: #00FFFF">Key Achievements:</span> 
-- ✨ Designed PCB boards, Arduino sensor systems, and communications software for high-altitude ballooning missions
-- ✨ Developed the NASA ASCEND website and security framework with full-stack architecture
-- ✨ Utilized Fusion360, Arduino programming, flight sensors, embedded systems, and data processing
-- ✨ Presented research findings to academic audiences, improving program visibility
-
- <span style="color: #00FFFF">Technologies:</span>  <span style="color: #FF00FF">Embedded Systems</span> | <span style="color: #9D00FF">PCB Design</span> | <span style="color: #00D9FF">Arduino</span> | <span style="color: #FF1493">Fusion 360</span> | <span style="color: #00FFFF">Web Development</span> | <span style="color: #FF00FF">Data Processing</span>
-
----
-
-### <span style="color: #00FFFF">🏢</span>  Furulie LLC SaaS Platform  | *Full-Stack SaaS Development* | *Oct 2024 – Present*
-
- <span style="color: #00FFFF">Role:</span>  Founder & CEO | Full-Stack Developer | DevOps Engineer | Cybersecurity Lead
-
- <span style="color: #00FFFF">Key Achievements:</span> 
-- ✨ Architected enterprise-grade Next.js/TypeScript SaaS platform processing  2.5M+ requests  with  99.98% uptime guarantee 
-- ✨ Built comprehensive DevOps pipelines (CI/CD, Infrastructure as Code) with  450+ successful deployments  (98.9% success rate)
-- ✨ Integrated Stripe payment processing with PCI DSS Level 1 compliance, subscription management, and webhook security
-- ✨ Implemented enterprise identity systems with multi-factor authentication (MFA), role-based access control (RBAC), and secure session management
-- ✨ Enforced comprehensive cybersecurity policies: IAM integration, rate limiting, secret rotation, encryption at rest and in transit, input validation
-- ✨ Established observability framework with  200+ metrics , real-time alerting, SLO monitoring, and automated incident response
-- ✨ Achieved  DoD Cyber Aware certification  and  SAM registration  enabling government contracting eligibility
-- ✨ Architected multi-cloud infrastructure (AWS, Vercel, Cloudflare) with automatic failover, global edge distribution, and disaster recovery
-- ✨  12,500+ security threats blocked  automatically through WAF, DDoS protection, and threat intelligence integration
-- ✨ Managed 16 database tables with Row-Level Security (RLS) policies, 50+ API integrations with authentication and authorization
-
- <span style="color: #00FFFF">Technologies:</span>  <span style="color: #FF00FF">Next.js 14</span> | <span style="color: #9D00FF">TypeScript</span> | <span style="color: #00D9FF">DevOps</span> | <span style="color: #FF1493">CI/CD</span> | <span style="color: #00FFFF">AWS</span> | <span style="color: #FF00FF">Stripe</span> | <span style="color: #9D00FF">Supabase</span> | <span style="color: #00D9FF">Vercel</span> | <span style="color: #FF1493">Cloudflare</span> | <span style="color: #00FFFF">Security</span> | <span style="color: #FF00FF">Observability</span>
-
- <span style="color: #00FFFF">Production Metrics:</span>  <span style="color: #FF00FF">2.5M+ requests</span> | <span style="color: #9D00FF">99.98% uptime</span> | <span style="color: #00D9FF">450+ deployments</span> | <span style="color: #FF1493">12.5K+ threats blocked</span> | <span style="color: #00FFFF">50+ API integrations</span>
-
----
-
-### <span style="color: #FF00FF">🎓</span>  Maricopa Community Colleges IT Infrastructure  | *2M+ User Network* | *Sep 2025 – Present*
-
- <span style="color: #00FFFF">Role:</span>  IT Intern | Security Operations | Infrastructure Engineer | Compliance Specialist
-
- <span style="color: #00FFFF">Key Achievements:</span> 
-- ✨ Supported enterprise-grade secure infrastructure and 24/7 datacenter operations for 2M+ user network
-- ✨ Managed enterprise security tools: Tanium (endpoint management), CrowdStrike (EDR/XDR), Cloudflare (WAF/DDoS), IAM integration
-- ✨ Conducted comprehensive vulnerability assessments, integrated IAM systems, enforced NIST 800-53 and CIS Critical Security Controls compliance
-- ✨ Developed internal security documentation, runbooks, and monitoring dashboards
-- ✨ Improved ticket response times and asset tracking through automation and process optimization
-
- <span style="color: #00FFFF">Technologies:</span>  <span style="color: #FF00FF">Tanium</span> | <span style="color: #9D00FF">CrowdStrike</span> | <span style="color: #00D9FF">Cloudflare</span> | <span style="color: #FF1493">IAM</span> | <span style="color: #00FFFF">NIST 800-53</span> | <span style="color: #FF00FF">CIS Benchmarks</span> | <span style="color: #9D00FF">Power BI</span> | <span style="color: #00D9FF">Oracle OCI</span> | <span style="color: #FF1493">Supabase</span> | <span style="color: #00FFFF">TeamDynamix</span> | <span style="color: #FF00FF">PeopleSoft</span>
-
----
-
-### <span style="color: #00FFFF">🎖️</span>  ASU AFROTC DET 025  | *Leadership & Military Training* | *Jan 2023–Aug 2025*
-
- <span style="color: #00FFFF">Role:</span>  Cadet | Leadership Development | Team Management
-
- <span style="color: #00FFFF">Key Achievements:</span> 
-- ✨ Trained in foundational military leadership, officer development, and mission readiness
-- ✨ Coursework and practical exercises in leadership, team management, operational planning, ethical decision-making
-- ✨ Attended Flight School (Dec 2023–Present)
-
----
-
-### <span style="color: #FF00FF">⚡</span>  Large-Scale Infrastructure Projects  | *IBEW, TSMC, JA Solar, CCE, Nestle* | *Jun 2021–Aug 2024*
-
- <span style="color: #00FFFF">Role:</span>  Electrician Apprentice | Project Management | Infrastructure Specialist
-
- <span style="color: #00FFFF">Key Achievements:</span> 
-- ✨ Installed high-voltage systems in semiconductor and industrial sites with rigorous safety code compliance
-- ✨ Interpreted blueprints, managed inventory, coordinated installation schedules with multidisciplinary teams
-- ✨ Delivered large-scale infrastructure projects on time, under budget, with  <span style="color: #00FFFF">ZERO SAFETY VIOLATIONS</span> 
-
----
-
-<div align="center">
-
-## <span style="color: #9D00FF">🎓</span>  EDUCATION  <span style="color: #FF1493">🎓</span>
-
-</div>
-
- <span style="color: #00FFFF">Phoenix College</span>  | *<span style="color: #FF00FF">B.S. Information Technology (4.0 GPA - A+)</span>* | 2023–2026
-- Coursework: Cybersecurity, Data Structures, System Admin, Project Management
-- Adjunctly Enrolled: Arizona State University (Military and Leadership), Glendale Community College, Angel Aviation (Flight School)
-
- <span style="color: #00FFFF">IBEW Electrician Trade School</span>  | 2021–2023
-
- <span style="color: #00FFFF">Montana State University</span>  | *<span style="color: #FF00FF">Mechanical Engineering (Junior)</span>* | 2018–2021
-
----
-
-<div align="center">
-
-## <span style="color: #00FFFF">🌟</span>  KEY ACHIEVEMENTS  <span style="color: #FF00FF">🌟</span>
-
-</div>
-
-- ✅ **<span style="color: #00FFFF">99.98% Uptime SLA</span>** guarantee exceeding industry standards (2.5M+ requests processed)
-- ✅ **<span style="color: #FF00FF">DoD Cyber Aware Certified</span>** & **SAM Registered** government contractor
-- ✅ **<span style="color: #9D00FF">450+ Successful Deployments</span>** with 98.9% success rate
-- ✅ **<span style="color: #00D9FF">12,500+ Security Threats Blocked</span>** automatically
-- ✅ **<span style="color: #FF1493">4.0 GPA (A+)</span>** in Information Technology program
-- ✅ **<span style="color: #00FFFF">NASA Intern</span>** working on high-altitude ballooning missions
-- ✅ **<span style="color: #FF00FF">Zero Safety Violations</span>** across all construction projects (3+ years)
-- ✅ **<span style="color: #9D00FF">Multi-Cloud Architecture</span>** (AWS, Vercel, Cloudflare) with global edge distribution
-- ✅ **<span style="color: #00D9FF">50+ API Integrations</span>** with error handling and monitoring
-- ✅ **<span style="color: #FF1493">CTF & Security Challenges</span>** completed showing coding skills
-- ✅ **<span style="color: #00FFFF">1,000+ GitHub Commits</span>** (all-time across all repositories, contributors, bots, and agents) with **8.5M+ additions** and **7M+ deletions** across production-grade projects
-- ✅ **<span style="color: #FF00FF">4,000+ Views</span>** on `fllc.net` portfolio and SaaS platform
-
----
-
-<div align="center">
-
-## <span style="color: #9D00FF">📈</span>  WHAT I'M WORKING ON  <span style="color: #FF1493">📈</span>
-
-</div>
-
-- 🔭 Working on  <span style="color: #00FFFF">high-altitude ballooning missions</span>  with NASA ASCEND
-- 🌱 Advancing  <span style="color: #FF00FF">cybersecurity expertise</span>  through continuous learning and hands-on practice
-- 👯  <span style="color: #9D00FF">Open to collaboration</span>  on embedded systems, full-stack projects, and cybersecurity initiatives
-- 💬  <span style="color: #00D9FF">Ask me about:</span>  Enterprise security architecture, cloud infrastructure, penetration testing, incident response, or government contracting
-- ⚡  <span style="color: #FF1493">Background:</span>  Licensed student pilot and former electrician apprentice with zero safety violations across 3+ years
-
----
-
-<div align="center">
-
-## <span style="color: #00FFFF">📫</span>  LET'S CONNECT!  <span style="color: #FF00FF">📫</span>
-
- <span style="color: #9D00FF">📍 Peoria, AZ</span> 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/preston-furulie/)
-[![GitHub](https://img.shields.io/badge/GitHub-PrestonFurulie-FF00FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
 [![Email](https://img.shields.io/badge/Email-pfurulie@gmail.com-9D00FF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000)](mailto:pfurulie@gmail.com)
 [![Website](https://img.shields.io/badge/Website-fllc.net-00D9FF?style=for-the-badge&logo=About.me&logoColor=000000&labelColor=000000)](https://fllc.net)
+[![GitHub](https://img.shields.io/badge/GitHub-PrestonFurulie-FF00FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/PrestonFurulie)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Prestonf-FF1493?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=000000)](https://tryhackme.com/p/Prestonf)
-[![Furulie LLC](https://img.shields.io/badge/Furulie_LLC-00FFFF?style=for-the-badge&logo=building&logoColor=000000&labelColor=000000)](https://fllc.net)
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+
+ <span style="color: #00FFFF">📍</span> <span style="color: #FF00FF">Peoria, Arizona</span>  |  <span style="color: #9D00FF">📧</span> <span style="color: #00D9FF">pfurulie@gmail.com</span>  |  <span style="color: #FF1493">🌐</span> <span style="color: #00FFFF">fllc.net</span>
 
 </div>
 
@@ -730,8 +477,31 @@ I'm passionate about building scalable, secure systems that solve real business 
 
 <div align="center">
 
- <span style="color: #00FFFF">⭐</span> <span style="color: #FF00FF">Star this repo if you find it useful!</span> <span style="color: #9D00FF">⭐</span> 
+## <span style="color: #00FFFF">💬</span> AVAILABILITY & INTEREST <span style="color: #FF00FF">💬</span>
+
+</div>
+
+**I am actively seeking full-time opportunities in:**
+
+- ✅ **Enterprise Cybersecurity** — Security Operations, Threat Detection, Incident Response
+- ✅ **Defense Contracting** — Cybersecurity Engineer, Security Operations Analyst, Threat Detection Specialist
+- ✅ **Security Automation** — Security Automation Engineer, DevSecOps Engineer, Security Tooling Developer
+- ✅ **Endpoint Security** — Endpoint Security Specialist, EDR/XDR Engineer, Security Operations
+
+**Open to:** Full-time positions, contract opportunities, government contracting, remote/hybrid/on-site
+
+**Location:** Peoria, Arizona (Open to relocation for the right opportunity)
+
+**Start Date:** Available immediately (currently interning at NASA and Maricopa Community College District)
+
+---
+
+<div align="center">
+
+ <span style="color: #00FFFF">⭐</span> <span style="color: #FF00FF">Thank you for reviewing my profile!</span> <span style="color: #9D00FF">⭐</span> 
 
 *<span style="color: #00D9FF">Last Updated: December 2025</span>*
+
+**<span style="color: #FF1493">Ready to contribute to mission-critical security teams.</span>**
 
 </div>
