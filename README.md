@@ -47,7 +47,11 @@
 ## <span style="color: #FF00FF">🎯</span> KEY QUALIFICATIONS <span style="color: #00FFFF">🎯</span>
 
 </div>
+<div align="center">
 
+## <span style="color: #FF00FF">https://www.bestpractices.dev/en/projects/11311/passing</span>
+
+</div>
 ### <span style="color: #00FFFF">🔒</span> **Cybersecurity & Threat Detection**
 
 | **Skill Area** | **Proficiency** | **Certifications & Evidence** |
