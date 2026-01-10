@@ -2373,8 +2373,15 @@ export function CyberWorldInterface() {
                     Coming soon...
                   </p>
                   <button
-                    onClick={() => windowManager.openWindow('shop')}
-                    className="px-6 py-3 rounded border-2 font-mono font-bold uppercase"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      try {
+                        windowManager.openWindow('shop');
+                      } catch (err) {
+                        console.error('Failed to open shop:', err);
+                      }
+                    }}
+                    className="px-6 py-3 rounded border-2 font-mono font-bold uppercase cursor-pointer hover:scale-105 transition-transform"
                     style={{
                       borderColor: '#ff00ff',
                       color: '#ff00ff',
@@ -2405,8 +2412,15 @@ export function CyberWorldInterface() {
                     Connect with other agents
                   </p>
                   <button
-                    onClick={() => windowManager.openWindow('contact')}
-                    className="px-6 py-3 rounded border-2 font-mono font-bold uppercase"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      try {
+                        windowManager.openWindow('contact');
+                      } catch (err) {
+                        console.error('Failed to open contact:', err);
+                      }
+                    }}
+                    className="px-6 py-3 rounded border-2 font-mono font-bold uppercase cursor-pointer hover:scale-105 transition-transform"
                     style={{
                       borderColor: '#00ff41',
                       color: '#00ff41',

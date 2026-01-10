@@ -127,7 +127,7 @@ export default function CyberWorldCreditsPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1 text-xs text-[#00ff41] font-mono hover:underline"
                 >
-                  <Npm className="w-3 h-3" /> View on npm
+                  <Package className="w-3 h-3" /> View on npm
                 </a>
               </motion.div>
             ))}
