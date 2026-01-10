@@ -101,6 +101,7 @@ export function CentralGlobeInterface() {
     const centerY = canvas.height / 2;
     const radius = Math.min(canvas.width, canvas.height) * 0.35;
     let rotation = 0;
+    let animationId: number;
 
     const drawGlobe = () => {
       ctx.clearRect(0, 0, canvas.width, canvas.height);
@@ -123,27 +124,37 @@ export function CentralGlobeInterface() {
       for (let lat = -90; lat <= 90; lat += 30) {
         ctx.beginPath();
         const y = centerY + (lat / 90) * radius;
-        const r = Math.sqrt(radius * radius - (y - centerY) ** 2);
-        ctx.arc(centerX, centerY, r, 0, Math.PI * 2);
-        ctx.stroke();
+        const r = Math.sqrt(Math.max(0, radius * radius - (y - centerY) ** 2));
+        if (r > 0) {
+          ctx.arc(centerX, centerY, r, 0, Math.PI * 2);
+          ctx.stroke();
+        }
       }
       
       // Longitude lines
+      ctx.strokeStyle = 'rgba(0, 212, 255, 0.6)';
       for (let lon = 0; lon < 360; lon += 30) {
         const rad = (lon + rotation) * Math.PI / 180;
         ctx.beginPath();
-        ctx.moveTo(centerX, centerY - radius);
+        let first = true;
         for (let lat = -90; lat <= 90; lat += 5) {
           const latRad = lat * Math.PI / 180;
           const x = centerX + Math.cos(rad) * Math.cos(latRad) * radius;
           const y = centerY + Math.sin(latRad) * radius;
-          ctx.lineTo(x, y);
+          if (first) {
+            ctx.moveTo(x, y);
+            first = false;
+          } else {
+            ctx.lineTo(x, y);
+          }
         }
         ctx.stroke();
       }
 
       // Data connection points
       ctx.fillStyle = 'rgba(0, 255, 65, 0.8)';
+      ctx.strokeStyle = 'rgba(0, 255, 65, 0.3)';
+      ctx.lineWidth = 1;
       const connectionPoints = [
         { lon: -75, lat: 4 }, // Colombia
         { lon: -74, lat: 4.5 },
@@ -156,26 +167,32 @@ export function CentralGlobeInterface() {
         const latRad = point.lat * Math.PI / 180;
         const x = centerX + Math.cos(rad) * Math.cos(latRad) * radius;
         const y = centerY + Math.sin(latRad) * radius;
-        ctx.beginPath();
-        ctx.arc(x, y, 3, 0, Math.PI * 2);
-        ctx.fill();
         
         // Connection lines to outer ring
-        ctx.strokeStyle = 'rgba(0, 255, 65, 0.3)';
-        ctx.lineWidth = 1;
         ctx.beginPath();
         ctx.moveTo(x, y);
         const outerX = centerX + Math.cos(rad) * radius * 1.3;
         const outerY = centerY + Math.sin(latRad) * radius * 1.3;
         ctx.lineTo(outerX, outerY);
         ctx.stroke();
+        
+        // Connection point
+        ctx.beginPath();
+        ctx.arc(x, y, 3, 0, Math.PI * 2);
+        ctx.fill();
       });
 
       rotation += 0.5;
-      requestAnimationFrame(drawGlobe);
+      animationId = requestAnimationFrame(drawGlobe);
     };
 
     drawGlobe();
+
+    return () => {
+      if (animationId) {
+        cancelAnimationFrame(animationId);
+      }
+    };
   }, []);
 
   // Binary rain effect
@@ -470,31 +487,39 @@ export function CentralGlobeInterface() {
             }}
           />
 
-          {/* Light Rays */}
-          {Array.from({ length: 8 }).map((_, i) => {
-            const angle = (i * 45) * Math.PI / 180;
-            const length = 400;
-            return (
-              <motion.line
-                key={i}
-                x1={350}
-                y1={350}
-                x2={350 + Math.cos(angle) * length}
-                y2={350 + Math.sin(angle) * length}
-                stroke="rgba(0, 212, 255, 0.3)"
-                strokeWidth="2"
-                style={{ position: 'absolute', top: 0, left: 0, zIndex: 5 }}
-                animate={{
-                  opacity: [0.2, 0.5, 0.2],
-                }}
-                transition={{
-                  duration: 2,
-                  repeat: Infinity,
-                  delay: i * 0.25,
-                }}
-              />
-            );
-          })}
+          {/* Light Rays - SVG overlay */}
+          <svg 
+            className="absolute inset-0 pointer-events-none"
+            style={{ width: '700px', height: '700px', zIndex: 5 }}
+          >
+            {Array.from({ length: 8 }).map((_, i) => {
+              const angle = (i * 45) * Math.PI / 180;
+              const length = 400;
+              const x1 = 350;
+              const y1 = 350;
+              const x2 = 350 + Math.cos(angle) * length;
+              const y2 = 350 + Math.sin(angle) * length;
+              return (
+                <motion.line
+                  key={i}
+                  x1={x1}
+                  y1={y1}
+                  x2={x2}
+                  y2={y2}
+                  stroke="rgba(0, 212, 255, 0.3)"
+                  strokeWidth="2"
+                  animate={{
+                    opacity: [0.2, 0.5, 0.2],
+                  }}
+                  transition={{
+                    duration: 2,
+                    repeat: Infinity,
+                    delay: i * 0.25,
+                  }}
+                />
+              );
+            })}
+          </svg>
         </div>
       </div>
 

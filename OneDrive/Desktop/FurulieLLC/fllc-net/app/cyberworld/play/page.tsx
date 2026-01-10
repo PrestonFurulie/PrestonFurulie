@@ -27,13 +27,20 @@ export default function CyberWorldPlayPage() {
   const [loadingProgress, setLoadingProgress] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
   const [loadingSteps, setLoadingSteps] = useState([
-    { text: 'Initializing game engine...', completed: false },
-    { text: 'Loading assets and textures...', completed: false },
-    { text: 'Connecting to multiplayer server...', completed: false },
-    { text: 'Preparing detailed plaza environment...', completed: false },
-    { text: 'Loading NPCs and quests...', completed: false },
-    { text: 'Initializing combat system...', completed: false },
-    { text: 'Starting game...', completed: false }
+    { text: 'Initializing Phaser.js game engine...', completed: false },
+    { text: 'Loading game assets and textures (200+ files)...', completed: false },
+    { text: 'Connecting to multiplayer server via Socket.io...', completed: false },
+    { text: 'Preparing massive plaza environment with 15+ buildings...', completed: false },
+    { text: 'Loading 20+ detailed NPCs with speech bubbles...', completed: false },
+    { text: 'Initializing 28+ quest system...', completed: false },
+    { text: 'Setting up turn-based combat system...', completed: false },
+    { text: 'Loading 50+ items and inventory system...', completed: false },
+    { text: 'Initializing achievement tracking system...', completed: false },
+    { text: 'Preparing 120+ ambient particles and effects...', completed: false },
+    { text: 'Loading flying drones and animated signs...', completed: false },
+    { text: 'Setting up real-time chat system...', completed: false },
+    { text: 'Initializing leaderboard and statistics...', completed: false },
+    { text: 'Starting game session...', completed: false }
   ]);
 
   // Auto-start game if not already started
