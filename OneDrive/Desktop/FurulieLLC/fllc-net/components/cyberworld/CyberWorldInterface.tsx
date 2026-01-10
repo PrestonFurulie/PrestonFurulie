@@ -9,6 +9,7 @@ import {
     Network, Server, Eye, Fingerprint, Key, Cpu, HardDrive, Gamepad2, Award
 } from 'lucide-react';
 import { useWindowManager } from '../os/WindowManagerContext';
+import { useRouter } from 'next/navigation';
 
 /**
  * CyberWorld Interface - Full Screen OSINT Game
@@ -558,7 +559,14 @@ export function CyberWorldInterface() {
                   
                   <div className="flex gap-4 justify-center mb-8 relative z-10">
                     <motion.button
-                      onClick={() => windowManager.openWindow('cyberworld')}
+                      onClick={() => {
+                        try {
+                          windowManager.openWindow('cyberworld');
+                        } catch (e) {
+                          console.error('Failed to open window:', e);
+                          router.push('/cyberworld/play');
+                        }
+                      }}
                       className="px-8 py-4 rounded border-2 font-mono font-bold uppercase text-lg relative overflow-hidden"
                       style={{
                         borderColor: '#00ff41',
@@ -580,7 +588,14 @@ export function CyberWorldInterface() {
                       <span className="relative z-10">▶ PLAY NOW</span>
                     </motion.button>
                     <motion.button
-                      onClick={() => windowManager.openWindow('cyberworld')}
+                      onClick={() => {
+                        try {
+                          windowManager.openWindow('cyberworld');
+                        } catch (e) {
+                          console.error('Failed to open window:', e);
+                          router.push('/cyberworld/play');
+                        }
+                      }}
                       className="px-8 py-4 rounded border-2 font-mono font-bold uppercase text-lg relative overflow-hidden"
                       style={{
                         borderColor: '#00d4ff',
@@ -692,7 +707,14 @@ export function CyberWorldInterface() {
                           background: 'rgba(0, 212, 255, 0.1)',
                         }}
                         whileHover={{ scale: 1.05 }}
-                        onClick={() => windowManager.openWindow('osint')}
+                        onClick={() => {
+                        try {
+                          windowManager.openWindow('osint');
+                        } catch (e) {
+                          console.error('Failed to open window:', e);
+                          // Fallback: could navigate to a page
+                        }
+                      }}
                       >
                         VIEW ALL →
                       </motion.button>
@@ -707,7 +729,14 @@ export function CyberWorldInterface() {
                           initial={{ opacity: 0, y: 20 }}
                           animate={{ opacity: 1, y: 0 }}
                           transition={{ delay: idx * 0.1 }}
-                          onClick={() => windowManager.openWindow('osint')}
+                          onClick={() => {
+                        try {
+                          windowManager.openWindow('osint');
+                        } catch (e) {
+                          console.error('Failed to open window:', e);
+                          // Fallback: could navigate to a page
+                        }
+                      }}
                           className="p-6 rounded-lg border-2 cursor-pointer transition-all"
                           style={{
                             borderColor: room.color,
@@ -1094,7 +1123,14 @@ export function CyberWorldInterface() {
                         background: 'rgba(255, 0, 255, 0.1)',
                       }}
                       whileHover={{ scale: 1.05, boxShadow: '0 0 15px rgba(255,0,255,0.6)' }}
-                      onClick={() => windowManager.openWindow('osint')}
+                      onClick={() => {
+                        try {
+                          windowManager.openWindow('osint');
+                        } catch (e) {
+                          console.error('Failed to open window:', e);
+                          // Fallback: could navigate to a page
+                        }
+                      }}
                     >
                       EXPLORE ALL →
                     </motion.button>
@@ -1181,7 +1217,14 @@ export function CyberWorldInterface() {
                               }}
                               whileHover={{ scale: 1.05, boxShadow: `0 0 15px ${stat.color}60` }}
                               whileTap={{ scale: 0.95 }}
-                              onClick={() => windowManager.openWindow('osint')}
+                              onClick={() => {
+                        try {
+                          windowManager.openWindow('osint');
+                        } catch (e) {
+                          console.error('Failed to open window:', e);
+                          // Fallback: could navigate to a page
+                        }
+                      }}
                             >
                               VIEW DETAILS →
                             </motion.button>
