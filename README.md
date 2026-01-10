@@ -393,7 +393,7 @@
 - **System Administration** — Windows and early Linux experience, troubleshooting, system optimization
 
 **Gaming Server Hosting Era (2010-2016) — Age 10-16:**
-- **MC9 Gaming Infrastructure** — Managed large-scale Minecraft server infrastructure
+- **Minecraft Beta Hosting** — Managed large-scale Minecraft server infrastructure (2010-2020)
 - **Multi-Game Hosting** — Counter-Strike, Team Fortress 2, Garry's Mod, and other multiplayer games
 - **Dedicated Server Management** — Physical and virtual dedicated server administration
 - **Hosting Admin Services** — Provided professional hosting services to gaming communities
@@ -440,7 +440,7 @@
 - **Self-Learning** — Tutorial-based learning, online communities, technical forums
 
 **Gaming Server Hosting Era (2010-2015) - Age 10-15:**
-- **MC9 Gaming Servers** — Managed dedicated Minecraft server infrastructure
+- **Minecraft Beta Servers** — Managed dedicated Minecraft server infrastructure (2010-2020)
 - **Multi-Game Hosting** — Hosted Counter-Strike, Team Fortress 2, Garry's Mod, and other games
 - **Hosting Admin Service** — Provided professional hosting services to gaming communities
 - **Dedicated Server Management** — Physical and virtual dedicated server administration
@@ -539,7 +539,7 @@
 - **Cloudflare** — CDN, DDoS protection, WAF, analytics
 
 **Server Administration (20+ Years):**
-- **Gaming Server Infrastructure** — MC9 Gaming, Minecraft, Counter-Strike, Team Fortress 2, Garry's Mod
+- **Gaming Server Infrastructure** — MC9 GTA5 FiveM, Minecraft Beta hosting, Counter-Strike, Team Fortress 2, Garry's Mod
 - **Dedicated Server Management** — Physical and virtual server administration (since 2010)
 - **Control Panels** — cPanel, Pterodactyl, Multicraft, Bukkit/Spigot/Paper
 - **Linux Administration** — Debian, Ubuntu, CentOS (20+ years experience)
@@ -583,7 +583,8 @@
 
 **Engineering Excellence:**
 - ✅ **20+ Years Computing** — Started at age 4 (2004), continuous technical growth and innovation
-- ✅ **6+ Years Gaming Server Admin** — MC9 Gaming, hosting services, multi-game infrastructure expertise
+- ✅ **10+ Years Minecraft Hosting** — Beta era hosting (2010-2020), celebrity collaborations, revenue generation
+- ✅ **5+ Years GTA5 FiveM Admin** — MC9 FiveM server, managed 11+ RP servers, intense infrastructure management
 - ✅ **NASA ASCEND Intern** — High-altitude ballooning missions with embedded systems
 - ✅ **TSMC Semiconductor Project** — Multi-billion dollar infrastructure, zero safety violations
 - ✅ **4.0 GPA (A+)** — Maintaining perfect academic record while working full-time
@@ -596,7 +597,8 @@
 - ✅ **OSINT Specialist** — Global conflict intelligence (Venezuela, Iran, Colombia)
 - ✅ **Government Contracting Ready** — SAM-registered, DoD Cyber Aware
 - ✅ **20+ Years Computing** — Started at age 4 (2004), continuous technical growth and innovation
-- ✅ **6+ Years Gaming Server Admin** — MC9 Gaming (2010-2016), hosting services, multi-game infrastructure
+- ✅ **10+ Years Minecraft Hosting** — Beta era hosting (2010-2020), celebrity collaborations, revenue generation
+- ✅ **5+ Years GTA5 FiveM Admin** — MC9 FiveM server (2015-2020), managed 11+ RP servers, intense infrastructure
 - ✅ **15+ Years Engineering** — Embedded systems, industrial automation, infrastructure security
 - ✅ **Gaming Infrastructure Expertise** — Minecraft, Counter-Strike, Team Fortress 2, Garry's Mod, and more
 
