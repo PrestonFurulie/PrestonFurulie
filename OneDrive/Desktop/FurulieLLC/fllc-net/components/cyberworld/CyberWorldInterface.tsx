@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import { useRouter } from 'next/navigation';
 import { 
   ShoppingCart, Globe2, Users, Lock, Save, FileText, Target, Mail, 
   Rocket, Bug, Settings, BarChart3, Terminal, Database, Activity,
@@ -2451,8 +2452,15 @@ export function CyberWorldInterface() {
                     Real-time threat monitoring
                   </p>
                   <button
-                    onClick={() => windowManager.openWindow('osint')}
-                    className="px-6 py-3 rounded border-2 font-mono font-bold uppercase"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      try {
+                        windowManager.openWindow('securityops');
+                      } catch (err) {
+                        console.error('Failed to open securityops:', err);
+                      }
+                    }}
+                    className="px-6 py-3 rounded border-2 font-mono font-bold uppercase cursor-pointer hover:scale-105 transition-transform"
                     style={{
                       borderColor: '#ffff00',
                       color: '#ffff00',

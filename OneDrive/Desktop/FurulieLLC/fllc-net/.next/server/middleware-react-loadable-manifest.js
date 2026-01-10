@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST='{"app\\\\cyberworld\\\\play\\\\page.tsx -> @/components/game/IsometricMMOGame":{"id":4246,"files":["static/chunks/246.734cbfa902c90210.js"]},"components\\\\game\\\\IsometricMMOGame.tsx -> ./IsometricGameWrapper":{"id":2899,"files":["static/chunks/899.88ee4fdd43f8b626.js"]}}';
