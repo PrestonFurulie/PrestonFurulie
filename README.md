@@ -27,7 +27,7 @@
 ║              Enterprise IT Specialist | OSINT Specialist                     ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║ CLEARANCE:    DoD Cyber Aware | SAM-Registered | Security Clearance Eligible ║
-║ EXPERIENCE:   20+ Years Computing (Started Age 4, 2004) | 6+ Years Gaming Server Admin | 15+ Years Engineering | 3+ Years Enterprise SOC Ops ║
+║ EXPERIENCE:   20+ Years Computing (Started Age 4, 2004) | 10+ Years Minecraft Hosting (Beta-2020) | 5+ Years GTA5 FiveM Admin | 3+ Years TSMC | 3+ Years Enterprise SOC Ops ║
 ║ CERTIFICATIONS: CompTIA PenTest+ | Top 1% TryHackMe | DoD Cyber Aware        ║
 ║                 Eagle Scout (31 Merit Badges, 2 Eagle Palms)                 ║
 ║ EDUCATION:    4.0 GPA (Honors) | Bachelor's Degree | NASA ASCEND Intern     ║
@@ -62,8 +62,9 @@
 | **12,500+ Threats Blocked** | **CompTIA PenTest+** | **2.5M+ Requests** |
 | **0 Security Incidents** | **977+ OSINT Reports** | **50+ API Integrations** |
 | **24/7 SOC Operations** | **Red Team Pathways** | **20+ Years Experience** |
-| **CrowdStrike | Tanium** | **Exploit Development** | **NASA ASCEND | TSMC | MC9 Gaming** |
-| **Gaming Server Admin** | **Hosting Services** | **6+ Years Server Management** |
+| **CrowdStrike | Tanium** | **Exploit Development** | **NASA ASCEND | TSMC | MC9 FiveM** |
+| **Minecraft Beta Hosting** | **GTA5 RP Servers** | **10+ Years Server Management** |
+| **Steam: 1,574 Achievements** | **1 Perfect Game** | **21% Completion Rate** |
 
 </div>
 
@@ -127,15 +128,19 @@
 
 <div align="center">
 
-| **Years** | **Age** | **Key Experience** | **Achievements** |
-|:---------:|:-------:|:-------------------|:----------------|
-| **2004-2010** | **4-10** | **Early Computing Foundation** | Started on PC at age 4, system exploration, early gaming |
-| **2010-2016** | **10-16** | **MC9 Gaming & Server Administration** | Large-scale Minecraft hosting, multi-game hosting services |
-| **2010-2014** | **10-14** | **TSMC Industrial Engineering** | Multi-billion dollar semiconductor infrastructure project |
-| **2015-2020** | **15-20** | **Advanced Engineering** | Embedded systems, PCB design, aviation technology |
-| **2020-2022** | **20-22** | **Cybersecurity Focus** | IoT security, cloud integration, security-first engineering |
-| **2022-2026** | **22-25** | **Enterprise Security Ops** | Maricopa IT (2M+ users), 24/7 SOC operations |
-| **2024-Present** | **24-25** | **NASA ASCEND** | High-altitude ballooning, embedded systems security |
+| **Years** | **Age** | **Key Experience** | **Major Achievements** |
+|:---------:|:-------:|:-------------------|:----------------------|
+| **2004-2010** | **4-10** | **Early Computing Foundation** | Started on PC at age 4, firewall workarounds, simple 04 games, system exploration |
+| **2010-2020** | **10-20** | **Minecraft Beta Hosting** | Hosted many Minecraft servers during Beta, played with celebrities, made money for them (volunteering) |
+| **2015-2020** | **15-20** | **MC9 GTA5 FiveM Server** | Intense GTA5 FiveM roleplay server administration, large-scale infrastructure |
+| **2015-2020** | **15-20** | **GTA5 RP Server Management** | Managed multiple RP servers (Empire, Infamous, VIP, Classic, Premier, Elite, Phantom, Heights LA, Solar, Luxury, Exclusive-RP) |
+| **2015-2020** | **15-20** | **Advanced Engineering** | Embedded systems, PCB design, aviation technology, 8-bit computer project |
+| **2021-2024** | **21-24** | **TSMC Industrial Engineering** | Multi-billion dollar semiconductor infrastructure project, zero safety violations |
+| **2020-2022** | **20-22** | **Cybersecurity Focus** | IoT security, cloud integration, security-first engineering, fllc.net development |
+| **2022-2026** | **22-25** | **Enterprise Security Ops** | Maricopa IT (2M+ users), 24/7 SOC operations, CrowdStrike, Tanium |
+| **2024-Present** | **24-25** | **NASA ASCEND** | High-altitude ballooning (100,000+ feet), embedded systems security |
+
+**Total Experience:** 20+ Years Computing | 10+ Years Minecraft Hosting (Beta-2020) | 5+ Years GTA5 FiveM Admin | 3+ Years TSMC | 3+ Years Enterprise SOC Ops
 
 </div>
 
@@ -147,36 +152,88 @@
 
 **Early Computing Adventures:**
 - **Age 4 (2004)** — Started computing journey on personal PC, early tech exposure and fascination
-- **Gaming & Learning** — Educational games, puzzle solving, logical thinking development, problem-solving skills
-- **System Exploration** — Windows 98/XP exploration, file system navigation, early troubleshooting
+- **Firewall Workarounds** — At age 4, began working around firewalls and network restrictions, early security thinking
+- **Simple 04 Games** — Figured out and mastered simple games from 2004 era, problem-solving through gameplay
+- **System Exploration** — Windows 98/XP exploration, file system navigation, early troubleshooting, registry editing
 - **Hardware Interest** — Curiosity about computer components, understanding building blocks of technology
 - **PC Building** — Assembled and upgraded personal computers from components, hardware optimization
 - **Problem Solving** — Early development of analytical thinking and technical problem-solving skills
+- **Network Basics** — Home network setup, router configuration, understanding network protocols at young age
 
 **Early Gaming Experience:**
 - **Multiplayer Gaming** — Early online gaming experiences, community building, social interaction
 - **Server Interaction** — First experiences with game servers, client-server architecture understanding
-- **Network Understanding** — Basic networking concepts through gaming, latency awareness
-- **Community Management** — Early leadership in gaming communities, moderation skills
+- **Network Understanding** — Basic networking concepts through gaming, latency awareness, connection optimization
+- **Community Management** — Early leadership in gaming communities, moderation skills, conflict resolution
+- **Game Modification** — Early interest in game files, modifications, understanding game mechanics
 
 ---
 
-### 🎮 **Gaming Server Administration & Hosting (2010-2016) - Age 10-16**
+### 🎮 **Minecraft Server Hosting (2010-2020) - Age 10-20**
 
-**MC9 Gaming & Server Administration** | Minecraft Server Hosting & Management
+**Minecraft Beta to Full Release Hosting** | Multiple Server Administration
 
-**MC9 Gaming — Large-Scale Minecraft Server Administration (2010-2016):**
-- **Large-Scale Infrastructure** — Managed dedicated Minecraft server infrastructure for 100+ concurrent players
-- **Server Software Expertise** — Bukkit, Spigot, Paper server setup, optimization, and version management
-- **Advanced Plugin Management** — Complex plugin ecosystems (Economy, PvP, Survival, Creative, minigames)
+**Minecraft Server Hosting Experience (2010-2020):**
+- **Beta Era Hosting** — Started hosting Minecraft servers during Beta phase (2010-2011), early adopter
+- **Multiple Server Management** — Hosted and managed many Minecraft servers simultaneously
+- **Celebrity Collaborations** — Played with celebrities on hosted servers, provided infrastructure for high-profile players
+- **Volunteer Work** — Volunteered server hosting services, made significant money for server owners/communities
+- **Large-Scale Infrastructure** — Managed dedicated Minecraft server infrastructure for 100+ concurrent players per server
+- **Server Software Expertise** — Bukkit, Spigot, Paper, Forge, Fabric server setup, optimization, and version management
+- **Advanced Plugin Management** — Complex plugin ecosystems (Economy, PvP, Survival, Creative, minigames, custom content)
 - **Performance Optimization** — TPS optimization, lag reduction, memory management, chunk loading optimization
-- **Player Management** — Large community moderation (100+ daily active players), player support, rule enforcement
+- **Player Management** — Large community moderation (100+ daily active players per server), player support, rule enforcement
 - **Backend Administration** — Server maintenance, automated updates, backup systems, security hardening
 - **DDoS Protection** — Implemented anti-DDoS solutions, server protection during attacks, uptime maintenance
 - **Network Management** — Port forwarding, firewall configuration, low-latency optimization
 - **Database Administration** — MySQL database management for player data, economy systems, statistics, inventories
 - **Web Integration** — PHP-based server management websites, forums, donation systems, storefronts
 - **24/7 Operations** — Maintained high uptime (99%+) for critical gaming infrastructure, on-call support
+- **Revenue Generation** — Successfully generated revenue for server owners through hosting services and community management
+
+---
+
+### 🚗 **MC9 GTA5 FiveM Server Administration (2015-2020) - Age 15-20**
+
+**MC9 Gaming — Intense GTA5 FiveM Roleplay Server** | Large-Scale Infrastructure
+
+**MC9 GTA5 FiveM Server — Comprehensive Administration:**
+- **FiveM Infrastructure** — Managed large-scale GTA5 FiveM roleplay server infrastructure
+- **Intense Server Operations** — High-intensity roleplay server with complex systems and large player base
+- **Resource Management** — FiveM resource management, custom scripts, framework integration
+- **Database Administration** — MySQL/PostgreSQL for player data, character systems, economy, inventory
+- **Performance Optimization** — Server FPS optimization, resource optimization, network optimization
+- **Anti-Cheat Systems** — Implemented anti-cheat solutions, exploit prevention, fair play enforcement
+- **Community Management** — Large roleplay community moderation, player support, rule enforcement
+- **Custom Scripts** — Developed and maintained custom FiveM scripts, integrations, modifications
+- **Web Integration** — PHP-based server management interfaces, forums, whitelist systems, donation platforms
+- **24/7 Operations** — Maintained high uptime for critical roleplay infrastructure, on-call support
+- **DDoS Protection** — Server protection, network security, uptime maintenance during attacks
+
+**GTA5 Roleplay Server Management (2015-2020):**
+
+**Managed Multiple High-Profile GTA5 RP Servers:**
+- **Empire RP** — Server administration, infrastructure management, community support
+- **Infamous RP** — Server setup, configuration, performance optimization, player management
+- **VIP RolePlay** — Premium roleplay server administration, exclusive community management
+- **Classic RP** — Classic roleplay server hosting, traditional RP experience management
+- **Premier RP** — Premier-tier server administration, high-quality roleplay infrastructure
+- **Elite RP** — Elite roleplay server management, top-tier community support
+- **Phantom RP** — Phantom roleplay server administration, unique RP experience
+- **Heights LA** — Heights LA roleplay server hosting, Los Angeles-based RP community
+- **Solar RP** — Solar roleplay server management, innovative RP systems
+- **Luxury Roleplay** — Luxury roleplay server administration, premium experience
+- **Exclusive-RP** — Exclusive roleplay server hosting, selective community management
+
+**FiveM Server Administration Skills:**
+- **FiveM Framework** — ESX, QBCore, vRP framework administration and customization
+- **Resource Development** — Custom FiveM resources, scripts, integrations
+- **Database Management** — MySQL/PostgreSQL for character data, economy, inventory, vehicles
+- **Performance Tuning** — Server FPS optimization, resource management, network optimization
+- **Anti-Cheat Implementation** — Exploit prevention, fair play systems, ban management
+- **Community Tools** — Discord bot integration, whitelist systems, application management
+- **Web Platforms** — Tebex integration, donation systems, server management panels
+- **Custom Development** — Lua scripting, FiveM API integration, custom features
 
 **Professional Hosting Admin Service (2010-2016):**
 - **Multi-Game Hosting Platform** — Hosted and managed multiple game server types simultaneously
@@ -208,11 +265,11 @@
 
 ---
 
-### 🏭 **Industrial Engineering & Infrastructure (2010-2016)**
+### 🏭 **Industrial Engineering & Infrastructure (2021-2024)**
 
-**TSMC Semiconductor Infrastructure Project** | Multi-Billion Dollar Project (2010-2014)
+**TSMC Semiconductor Infrastructure Project** | Multi-Billion Dollar Project (2021-2024)
 
-**TSMC Semiconductor Infrastructure Project** | Multi-Billion Dollar Project (2010-2014)
+**TSMC Semiconductor Infrastructure Project** | Multi-Billion Dollar Project (2021-2024)
 - **Zero Safety Violations** — 3+ years of high-risk industrial work, perfect safety record
 - **Mission-Critical Infrastructure** — Semiconductor fabrication facility construction, billions in assets
 - **Engineering Excellence** — Embedded systems, automation, process control, real-time monitoring
@@ -230,8 +287,10 @@
 - **Networking Basics** — Home network setup, router configuration, wireless networks
 - **Gaming Hardware** — GPU selection, performance optimization, overclocking basics
 
-**Gaming & Server Era (2010-2015) - Age 10-15:**
-- **MC9 Gaming Server Administration** — Managed large-scale Minecraft server infrastructure
+**Gaming & Server Era (2010-2020) - Age 10-20:**
+- **Minecraft Beta Hosting (2010-2020)** — Hosted many Minecraft servers during Beta and full release, played with celebrities, made money for them (volunteering)
+- **MC9 GTA5 FiveM Server (2015-2020)** — Intense GTA5 FiveM roleplay server administration, large-scale infrastructure
+- **GTA5 RP Server Management** — Managed multiple RP servers (Empire, Infamous, VIP, Classic, Premier, Elite, Phantom, Heights LA, Solar, Luxury, Exclusive-RP)
 - **Multi-Game Hosting** — Counter-Strike, Team Fortress 2, Garry's Mod server hosting
 - **Hosting Admin Service** — Provided hosting services to multiple gaming communities
 - **8-Bit Computer Project** — Custom computer architecture, hardware design, CPU design from scratch
@@ -246,6 +305,12 @@
 - **Custom Hardware Development** — FPGA programming, custom circuit boards, sensor integration
 - **Safety Systems Engineering** — Emergency shutdown systems, fail-safe mechanisms
 - **Network Infrastructure** — Industrial networking, protocol design, secure communications
+
+**TSMC Industrial Engineering (2021-2024):**
+- **Semiconductor Infrastructure** — Multi-billion dollar semiconductor fabrication facility construction
+- **Process Engineering** — Chemical process control, cleanroom operations, precision manufacturing
+- **Team Leadership** — Managed cross-functional teams, coordinated with international engineers
+- **Zero Safety Violations** — Perfect safety record in high-stakes industrial environment
 
 **Modern Engineering & Security (2020-2026):**
 - **NASA ASCEND** — High-altitude ballooning missions (up to 100,000 feet), embedded systems security
@@ -639,42 +704,75 @@ The NASA ASCEND (Arizona Student Conjunctive Environment for Novel Design) progr
 
 ---
 
-### 🎮 **MC9 Gaming — Large-Scale Minecraft Server Administration (2010-2016)**
+### 🎮 **Minecraft Server Hosting (2010-2020) - Age 10-20**
 
-**Professional Gaming Server Infrastructure** | Age 10-16
+**Minecraft Beta to Full Release** | Multiple Server Administration | Celebrity Collaborations
 
-**MC9 Gaming — Comprehensive Server Administration:**
-
-**Infrastructure & Operations:**
-- **Large-Scale Minecraft Infrastructure** — Managed dedicated Minecraft servers supporting 100+ concurrent players
-- **Server Software Expertise** — Bukkit, Spigot, Paper server administration, version management, optimization
-- **Advanced Plugin Ecosystems** — Complex plugin management (Economy, PvP, Survival, Creative, Minigames, WorldEdit)
+**Minecraft Hosting Experience (2010-2020):**
+- **Beta Era Hosting** — Started hosting Minecraft servers during Beta phase (2010-2011), early adopter of server hosting
+- **Multiple Server Management** — Hosted and managed many Minecraft servers simultaneously across different game modes
+- **Celebrity Collaborations** — Played with celebrities on hosted servers, provided infrastructure for high-profile players
+- **Volunteer Work** — Volunteered server hosting services, successfully made significant money for server owners/communities
+- **Large-Scale Infrastructure** — Managed dedicated Minecraft server infrastructure for 100+ concurrent players per server
+- **Server Software Expertise** — Bukkit, Spigot, Paper, Forge, Fabric server administration, version management, optimization
+- **Advanced Plugin Management** — Complex plugin ecosystems (Economy, PvP, Survival, Creative, Minigames, WorldEdit, custom content)
 - **Performance Optimization** — TPS optimization, lag reduction, memory management, chunk loading optimization
-- **24/7 Operations** — Maintained high uptime (99%+) for critical gaming infrastructure, on-call support
+- **Player Management** — Large community moderation (100+ daily active players per server), player support, rule enforcement
+- **Backend Administration** — Server maintenance, automated updates, backup systems, security hardening
 - **DDoS Protection** — Implemented anti-DDoS solutions, server protection during attacks, uptime maintenance
 - **Network Management** — Port forwarding, firewall configuration, low-latency optimization, routing
-
-**Database & Backend:**
-- **MySQL Database Administration** — Player data, economy systems, statistics, inventories, permissions
-- **Query Optimization** — Database performance tuning, indexing, backup strategies, data integrity
-- **Automated Backups** — Scheduled backups, disaster recovery, data protection
-- **Server Maintenance** — Automated updates, security patches, version upgrades, compatibility management
-
-**Community & Support:**
-- **Large Community Management** — Moderated gaming communities with 100+ daily active players
-- **Player Support** — Technical support, troubleshooting, player assistance, conflict resolution
-- **Rule Enforcement** — Community guidelines, moderation, ban management, appeals process
-- **Community Building** — Events, competitions, community engagement, player retention
-
-**Web Integration:**
-- **PHP-Based Server Websites** — Server management interfaces, player portals, administration panels
-- **Forums & Communities** — PHPBB, custom forums, community communication platforms
-- **Donation Systems** — Payment processing, storefronts, in-game item delivery, subscription management
-- **Statistics Tracking** — Player statistics, server metrics, performance monitoring, analytics
+- **Database Administration** — MySQL database management for player data, economy systems, statistics, inventories
+- **Web Integration** — PHP-based server management websites, forums, donation systems, storefronts
+- **24/7 Operations** — Maintained high uptime (99%+) for critical gaming infrastructure, on-call support
+- **Revenue Generation** — Successfully generated revenue for server owners through hosting services and community management
 
 ---
 
-### 🎮 **Multi-Game Hosting Services (2010-2016)**
+### 🚗 **MC9 GTA5 FiveM Server Administration (2015-2020) - Age 15-20**
+
+**MC9 Gaming — Intense GTA5 FiveM Roleplay Server** | Large-Scale Infrastructure
+
+**MC9 GTA5 FiveM Server — Comprehensive Administration:**
+- **FiveM Infrastructure** — Managed large-scale GTA5 FiveM roleplay server infrastructure
+- **Intense Server Operations** — High-intensity roleplay server with complex systems and large player base
+- **Resource Management** — FiveM resource management, custom scripts, framework integration (ESX, QBCore, vRP)
+- **Database Administration** — MySQL/PostgreSQL for player data, character systems, economy, inventory, vehicles
+- **Performance Optimization** — Server FPS optimization, resource optimization, network optimization, low-latency
+- **Anti-Cheat Systems** — Implemented anti-cheat solutions, exploit prevention, fair play enforcement
+- **Community Management** — Large roleplay community moderation, player support, rule enforcement, whitelist management
+- **Custom Scripts** — Developed and maintained custom FiveM scripts, integrations, modifications, Lua programming
+- **Web Integration** — PHP-based server management interfaces, forums, whitelist systems, donation platforms, Tebex integration
+- **24/7 Operations** — Maintained high uptime for critical roleplay infrastructure, on-call support
+- **DDoS Protection** — Server protection, network security, uptime maintenance during attacks
+
+**GTA5 Roleplay Server Management (2015-2020):**
+
+**Managed Multiple High-Profile GTA5 RP Servers:**
+- **Empire RP** — Server administration, infrastructure management, community support, whitelist management
+- **Infamous RP** — Server setup, configuration, performance optimization, player management
+- **VIP RolePlay** — Premium roleplay server administration, exclusive community management
+- **Classic RP** — Classic roleplay server hosting, traditional RP experience management
+- **Premier RP** — Premier-tier server administration, high-quality roleplay infrastructure
+- **Elite RP** — Elite roleplay server management, top-tier community support
+- **Phantom RP** — Phantom roleplay server administration, unique RP experience
+- **Heights LA** — Heights LA roleplay server hosting, Los Angeles-based RP community
+- **Solar RP** — Solar roleplay server management, innovative RP systems
+- **Luxury Roleplay** — Luxury roleplay server administration, premium experience
+- **Exclusive-RP** — Exclusive roleplay server hosting, selective community management
+
+**FiveM Server Administration Skills:**
+- **FiveM Framework** — ESX, QBCore, vRP framework administration and customization
+- **Resource Development** — Custom FiveM resources, scripts, integrations, Lua programming
+- **Database Management** — MySQL/PostgreSQL for character data, economy, inventory, vehicles, properties
+- **Performance Tuning** — Server FPS optimization, resource management, network optimization
+- **Anti-Cheat Implementation** — Exploit prevention, fair play systems, ban management
+- **Community Tools** — Discord bot integration, whitelist systems, application management
+- **Web Platforms** — Tebex integration, donation systems, server management panels, forums
+- **Custom Development** — Lua scripting, FiveM API integration, custom features, modifications
+
+---
+
+### 🎮 **Multi-Game Hosting Services (2010-2020)**
 
 **Professional Hosting Admin Service** | Multi-Game Infrastructure
 
@@ -720,6 +818,28 @@ The NASA ASCEND (Arizona Student Conjunctive Environment for Novel Design) progr
 - Phaser.js game engine integration
 
 **Technologies:** Phaser.js, Node.js, Socket.IO, PostgreSQL, Redis, React, Framer Motion
+
+---
+
+### 🎮 **Steam Gaming Profile & Achievements**
+
+**Steam Profile:** [steamcommunity.com/profiles/76561198094410594](https://steamcommunity.com/profiles/76561198094410594)
+
+**Gaming Achievements:**
+- **1,574 Total Achievements** — Comprehensive achievement collection across multiple games
+- **1 Perfect Game** — 100% completion achievement
+- **21% Average Game Completion Rate** — Consistent dedication to game completion
+- **Level 86** — Champion 500 XP, demonstrating long-term gaming commitment
+- **49 Badges Earned** — Badge collection showcasing gaming diversity
+- **1,007 Items Owned** — Extensive game library and inventory
+- **22 Screenshots** — Gaming moments captured and shared
+- **4 Reviews** — Game reviews and community engagement
+- **1 Workshop Item** — Community content creation (CS:GO Music Kit Concept)
+
+**Notable Gaming Experience:**
+- **Reign Of Kings** — 74 hours played, detailed game review and community engagement
+- **Counter-Strike 2** — Active player, workshop content creator
+- **Multiple Game Genres** — Diverse gaming experience across various game types
 
 ---
 
@@ -789,8 +909,10 @@ The NASA ASCEND (Arizona Student Conjunctive Environment for Novel Design) progr
 4. **Enterprise Infrastructure** — Multi-cloud architecture, automated failover, mission-critical systems
 5. **Compliance & Governance** — NIST 800-53, CIS Controls, DoD Cyber Awareness, government contracting
 6. **20+ Years Computing** — Started at age 4 (2004), continuous technical growth and innovation
-7. **6+ Years Gaming Server Admin** — MC9 Gaming, hosting services, multi-game infrastructure expertise
-8. **15+ Years Engineering** — Embedded systems, industrial automation, infrastructure security
+7. **10+ Years Minecraft Hosting** — Beta era hosting (2010-2020), celebrity collaborations, revenue generation
+8. **5+ Years GTA5 FiveM Admin** — MC9 FiveM server, managed 11+ RP servers, intense infrastructure management
+9. **3+ Years TSMC Engineering** — Multi-billion dollar semiconductor infrastructure (2021-2024), zero safety violations
+10. **15+ Years Engineering** — Embedded systems, industrial automation, infrastructure security
 
 ### 🔴 **For Red Team & Offensive Security Roles**
 
@@ -818,21 +940,27 @@ The NASA ASCEND (Arizona Student Conjunctive Environment for Novel Design) progr
 4. **Industrial Engineering** — TSMC semiconductor infrastructure, process control, automation
 5. **Real-Time Systems** — Telemetry, data collection, mission-critical operations (built on gaming server experience)
 6. **20+ Years Computing** — Started at age 4 (2004), comprehensive technical foundation
-7. **6+ Years Gaming Server Admin** — MC9 Gaming, hosting services, server infrastructure management (2010-2016)
-8. **15+ Years Engineering** — Hardware, software, and security convergence
+7. **10+ Years Minecraft Hosting** — Beta era hosting (2010-2020), celebrity collaborations, revenue generation
+8. **5+ Years GTA5 FiveM Admin** — MC9 FiveM server, managed 11+ RP servers, intense infrastructure management
+9. **3+ Years TSMC Engineering** — Multi-billion dollar semiconductor infrastructure (2021-2024), zero safety violations
+10. **15+ Years Engineering** — Hardware, software, and security convergence
 
 ### 🎮 **For Gaming Infrastructure & Server Administration Roles**
 
-1. **MC9 Gaming Experience (2010-2016)** — Large-scale Minecraft server administration (100+ concurrent players)
-2. **Multi-Game Hosting Expertise** — Counter-Strike, Team Fortress 2, Garry's Mod, and other multiplayer games
-3. **Professional Hosting Services** — Provided hosting services to multiple gaming communities, customer support
-4. **24/7 Operations Experience** — Maintained high uptime (99%+) for critical gaming infrastructure, on-call support
-5. **Database Administration** — MySQL for gaming databases, player data, economy systems, query optimization
-6. **Server Infrastructure** — Dedicated server management, control panels (Pterodactyl, Multicraft), automation
-7. **Community Management** — Large community moderation (100+ daily active players), player support, rule enforcement
-8. **Web Integration** — PHP-based server management websites, forums, donation systems, storefronts
-9. **Network & Security** — DDoS mitigation, firewall configuration, anti-cheat systems, server hardening
-10. **Performance Optimization** — TPS optimization, lag reduction, memory management, low-latency optimization
+1. **Minecraft Beta Hosting (2010-2020)** — Hosted many servers during Beta era, played with celebrities, made money for them (volunteering)
+2. **MC9 GTA5 FiveM Server (2015-2020)** — Intense GTA5 FiveM roleplay server administration, large-scale infrastructure
+3. **GTA5 RP Server Management** — Managed 11+ high-profile RP servers (Empire, Infamous, VIP, Classic, Premier, Elite, Phantom, Heights LA, Solar, Luxury, Exclusive-RP)
+4. **FiveM Framework Expertise** — ESX, QBCore, vRP framework administration, custom resource development
+5. **Multi-Game Hosting** — Counter-Strike, Team Fortress 2, Garry's Mod, and other multiplayer games
+6. **Professional Hosting Services** — Provided hosting services to multiple gaming communities, customer support
+7. **24/7 Operations Experience** — Maintained high uptime (99%+) for critical gaming infrastructure, on-call support
+8. **Database Administration** — MySQL/PostgreSQL for gaming databases, player data, economy systems, query optimization
+9. **Server Infrastructure** — Dedicated server management, control panels (Pterodactyl, Multicraft), automation
+10. **Community Management** — Large community moderation (100+ daily active players), player support, rule enforcement, whitelist management
+11. **Web Integration** — PHP-based server management websites, forums, donation systems, storefronts, Tebex integration
+12. **Network & Security** — DDoS mitigation, firewall configuration, anti-cheat systems, server hardening
+13. **Performance Optimization** — TPS/FPS optimization, lag reduction, memory management, low-latency optimization
+14. **Steam Gaming** — 1,574 achievements, 1 perfect game, 21% completion rate, active gaming community member
 
 ---
 
