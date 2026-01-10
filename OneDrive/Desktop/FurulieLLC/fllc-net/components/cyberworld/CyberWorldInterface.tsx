@@ -8,14 +8,16 @@ import {
   Rocket, Bug, Settings, BarChart3, Terminal, Database, Activity,
     MapPin, Hash, Camera, Code, Shield, Zap, Search, TrendingUp,
     Network, Server, Eye, Fingerprint, Key, Cpu, HardDrive, Gamepad2, Award
-} from 'lucide-react';
-import { useWindowManager } from '../os/WindowManagerContext';
-
-/**
+  } from 'lucide-react';
+  import { useWindowManager } from '../os/WindowManagerContext';
+  import { useRouter } from 'next/navigation';
+  
+  /**
  * CyberWorld Interface - Full Screen OSINT Game
  * Massive detail with interactive features matching concept images
  */
 export function CyberWorldInterface() {
+  const router = useRouter();
   const windowManager = useWindowManager();
   const [activeCategory, setActiveCategory] = useState<'shop' | 'cyberworld' | 'social' | 'security-ops'>('cyberworld');
   const [subCategory, setSubCategory] = useState<string | null>(null);
