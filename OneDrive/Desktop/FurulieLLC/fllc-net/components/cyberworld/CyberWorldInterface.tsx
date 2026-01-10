@@ -1973,6 +1973,342 @@ export function CyberWorldInterface() {
                     })}
                   </div>
                 </div>
+
+                {/* Real-Time Log Stream */}
+                <div className="mb-8">
+                  <h2 className="text-3xl font-mono font-bold mb-6" style={{ color: '#00ff41', textShadow: '0 0 20px rgba(0,255,65,0.6)' }}>
+                    📜 REAL-TIME LOG STREAM
+                  </h2>
+                  <div className="p-6 rounded-lg border-2" style={{
+                    borderColor: '#00ff41',
+                    background: 'rgba(0, 255, 65, 0.1)',
+                    boxShadow: '0 0 20px rgba(0, 255, 65, 0.3)',
+                  }}>
+                    <div className="space-y-2 max-h-96 overflow-y-auto pr-2 font-mono text-xs">
+                      {[
+                        { time: '00:00:01.234', level: 'INFO', message: 'Network scan initiated on 172.16.0.0/24', color: '#00ffff' },
+                        { time: '00:00:02.567', level: 'WARN', message: 'Unusual traffic pattern detected from 192.168.1.105', color: '#ffff00' },
+                        { time: '00:00:03.890', level: 'SUCCESS', message: 'Hash cracked: MD5 a1b2c3d4e5f6... → password123', color: '#00ff41' },
+                        { time: '00:00:05.123', level: 'INFO', message: 'GPS coordinates extracted: 47.123, -74.456', color: '#00ffff' },
+                        { time: '00:00:06.456', level: 'ERROR', message: 'Connection timeout to SAIME.gov.ve', color: '#ff0000' },
+                        { time: '00:00:07.789', level: 'SUCCESS', message: 'Data exfiltration completed: 1.2 GB from SAIME Database', color: '#00ff41' },
+                        { time: '00:00:09.012', level: 'INFO', message: 'Port scan results: 22/tcp OPEN, 80/tcp OPEN, 443/tcp OPEN', color: '#00ffff' },
+                        { time: '00:00:10.345', level: 'WARN', message: 'Brute force attempt detected from 10.0.0.42', color: '#ffff00' },
+                        { time: '00:00:11.678', level: 'SUCCESS', message: 'EXIF data extracted from 47 photos', color: '#00ff41' },
+                        { time: '00:00:13.001', level: 'INFO', message: 'API endpoint discovered: /api/v2/users', color: '#00ffff' },
+                        { time: '00:00:14.334', level: 'SUCCESS', message: 'Mission MISSION-001 completed successfully', color: '#00ff41' },
+                        { time: '00:00:15.667', level: 'INFO', message: 'System health check: CPU 47%, Memory 68%, Network 82%', color: '#00ffff' },
+                      ].map((log, idx) => (
+                        <motion.div
+                          key={idx}
+                          initial={{ opacity: 0, x: -20 }}
+                          animate={{ opacity: 1, x: 0 }}
+                          transition={{ delay: idx * 0.05 }}
+                          className="flex items-start gap-3 p-2 rounded border-l-2 hover:bg-black/20"
+                          style={{ borderLeftColor: log.color }}
+                        >
+                          <span className="text-[10px] font-mono" style={{ color: '#888', minWidth: '80px' }}>{log.time}</span>
+                          <span className={`px-2 py-0.5 rounded text-[10px] font-mono font-bold ${log.level === 'SUCCESS' ? 'bg-[rgba(0,255,65,0.2)] text-[#00ff41]' : log.level === 'WARN' ? 'bg-[rgba(255,255,0,0.2)] text-[#ffff00]' : log.level === 'ERROR' ? 'bg-[rgba(255,0,0,0.2)] text-[#ff0000]' : 'bg-[rgba(0,255,255,0.2)] text-[#00ffff]'}`} style={{ minWidth: '60px' }}>
+                            {log.level}
+                          </span>
+                          <span className="flex-1 font-mono" style={{ color: '#aaa' }}>{log.message}</span>
+                        </motion.div>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+
+                {/* Advanced Analytics Dashboard */}
+                <div className="mb-8">
+                  <h2 className="text-3xl font-mono font-bold mb-6" style={{ color: '#00d4ff', textShadow: '0 0 20px rgba(0,212,255,0.6)' }}>
+                    📊 ADVANCED ANALYTICS DASHBOARD
+                  </h2>
+                  <div className="grid grid-cols-2 gap-4">
+                    {/* Left: Attack Patterns */}
+                    <div className="p-6 rounded-lg border-2" style={{
+                      borderColor: '#00d4ff',
+                      background: 'rgba(0, 212, 255, 0.1)',
+                      boxShadow: '0 0 20px rgba(0, 212, 255, 0.3)',
+                    }}>
+                      <h3 className="text-lg font-mono font-bold mb-4" style={{ color: '#00d4ff' }}>
+                        ATTACK PATTERNS (24H)
+                      </h3>
+                      <div className="space-y-3">
+                        {[
+                          { pattern: 'SQL Injection', count: 456, peak: '14:23', trend: '+12%', color: '#ff5500' },
+                          { pattern: 'XSS Cross-Site', count: 892, peak: '16:45', trend: '+8%', color: '#ffff00' },
+                          { pattern: 'DDoS Flood', count: 1247, peak: '18:12', trend: '+23%', color: '#ff0000' },
+                          { pattern: 'Brute Force', count: 2341, peak: '20:34', trend: '+5%', color: '#ff5500' },
+                          { pattern: 'Phishing', count: 178, peak: '09:15', trend: '-3%', color: '#ffff00' },
+                          { pattern: 'Ransomware', count: 12, peak: '11:42', trend: '+100%', color: '#ff0000' },
+                        ].map((attack, idx) => (
+                          <motion.div
+                            key={attack.pattern}
+                            initial={{ opacity: 0, x: -20 }}
+                            animate={{ opacity: 1, x: 0 }}
+                            transition={{ delay: idx * 0.1 }}
+                            className="p-3 rounded border-2"
+                            style={{
+                              borderColor: attack.color,
+                              background: `rgba(${attack.color === '#ff5500' ? '255,85,0' : attack.color === '#ffff00' ? '255,255,0' : '255,0,0'}, 0.1)`,
+                              boxShadow: `0 0 10px ${attack.color}30`,
+                            }}
+                          >
+                            <div className="flex items-center justify-between mb-2">
+                              <span className="text-sm font-mono font-bold" style={{ color: attack.color }}>
+                                {attack.pattern}
+                              </span>
+                              <span className="text-xs font-mono font-bold" style={{ color: '#00ffff' }}>
+                                {attack.count.toLocaleString()}
+                              </span>
+                            </div>
+                            <div className="flex items-center justify-between text-xs font-mono">
+                              <span style={{ color: '#888' }}>Peak: {attack.peak}</span>
+                              <span style={{ color: attack.trend.startsWith('+') ? '#ffff00' : '#00ff41' }}>
+                                {attack.trend}
+                              </span>
+                            </div>
+                          </motion.div>
+                        ))}
+                      </div>
+                    </div>
+
+                    {/* Right: Data Flow Analysis */}
+                    <div className="p-6 rounded-lg border-2" style={{
+                      borderColor: '#ff00ff',
+                      background: 'rgba(255, 0, 255, 0.1)',
+                      boxShadow: '0 0 20px rgba(255, 0, 255, 0.3)',
+                    }}>
+                      <h3 className="text-lg font-mono font-bold mb-4" style={{ color: '#ff00ff' }}>
+                        DATA FLOW ANALYSIS
+                      </h3>
+                      <div className="space-y-4">
+                        {[
+                          { source: 'SAIME API', destination: 'Local DB', size: '1.2 GB', rate: '45 MB/s', status: 'ACTIVE', color: '#00ff41' },
+                          { source: 'Government Portal', destination: 'Archive', size: '890 MB', rate: '32 MB/s', status: 'ACTIVE', color: '#00ffff' },
+                          { source: 'Email Server', destination: 'Index', size: '450 MB', rate: '18 MB/s', status: 'SLOW', color: '#ffff00' },
+                          { source: 'GPS Database', destination: 'Map Cache', size: '120 MB', rate: '12 MB/s', status: 'ACTIVE', color: '#00ff41' },
+                        ].map((flow, idx) => (
+                          <motion.div
+                            key={idx}
+                            initial={{ opacity: 0, x: 20 }}
+                            animate={{ opacity: 1, x: 0 }}
+                            transition={{ delay: idx * 0.1 }}
+                            className="p-4 rounded border-2"
+                            style={{
+                              borderColor: flow.color,
+                              background: `rgba(${flow.color === '#00ff41' ? '0,255,65' : flow.color === '#00ffff' ? '0,255,255' : '255,255,0'}, 0.1)`,
+                              boxShadow: `0 0 10px ${flow.color}30`,
+                            }}
+                          >
+                            <div className="flex items-center justify-between mb-2">
+                              <div className="flex-1">
+                                <div className="text-sm font-mono font-bold mb-1" style={{ color: flow.color }}>
+                                  {flow.source} → {flow.destination}
+                                </div>
+                                <div className="text-xs font-mono" style={{ color: '#aaa' }}>
+                                  Size: <span style={{ color: '#00ffff' }}>{flow.size}</span> • Rate: <span style={{ color: '#ffff00' }}>{flow.rate}</span>
+                                </div>
+                              </div>
+                              <motion.span
+                                className={`px-2 py-1 rounded text-xs font-mono font-bold border ${flow.status === 'ACTIVE' ? 'border-[#00ff41] text-[#00ff41] bg-[rgba(0,255,65,0.1)]' : 'border-[#ffff00] text-[#ffff00] bg-[rgba(255,255,0,0.1)]'}`}
+                                animate={{ opacity: flow.status === 'ACTIVE' ? [0.7, 1, 0.7] : 1 }}
+                                transition={{ duration: 2, repeat: Infinity }}
+                              >
+                                {flow.status}
+                              </motion.span>
+                            </div>
+                          </motion.div>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Vulnerability Scanner Results */}
+                <div className="mb-8">
+                  <h2 className="text-3xl font-mono font-bold mb-6" style={{ color: '#ff0000', textShadow: '0 0 20px rgba(255,0,0,0.6)' }}>
+                    🔍 VULNERABILITY SCANNER RESULTS
+                  </h2>
+                  <div className="grid grid-cols-4 gap-4">
+                    {[
+                      { severity: 'CRITICAL', count: 12, cves: ['CVE-2023-1234', 'CVE-2023-5678'], color: '#ff0000', action: 'PATCH NOW' },
+                      { severity: 'HIGH', count: 45, cves: ['CVE-2023-9876', 'CVE-2023-4321'], color: '#ff5500', action: 'REVIEW' },
+                      { severity: 'MEDIUM', count: 89, cves: ['CVE-2023-1122'], color: '#ffff00', action: 'MONITOR' },
+                      { severity: 'LOW', count: 123, cves: [], color: '#00d4ff', action: 'LOG' },
+                    ].map((vuln, idx) => (
+                      <motion.div
+                        key={vuln.severity}
+                        initial={{ opacity: 0, scale: 0.8 }}
+                        animate={{ opacity: 1, scale: 1 }}
+                        transition={{ delay: idx * 0.1 }}
+                        className="p-5 rounded-lg border-2 text-center"
+                        style={{
+                          borderColor: vuln.color,
+                          background: `rgba(${vuln.color === '#ff0000' ? '255,0,0' : vuln.color === '#ff5500' ? '255,85,0' : vuln.color === '#ffff00' ? '255,255,0' : '0,212,255'}, 0.1)`,
+                          boxShadow: `0 0 20px ${vuln.color}40`,
+                        }}
+                        whileHover={{ scale: 1.05, boxShadow: `0 0 30px ${vuln.color}70` }}
+                      >
+                        <div className="text-2xl font-mono font-bold mb-2" style={{ color: vuln.color, textShadow: `0 0 10px ${vuln.color}80` }}>
+                          {vuln.count}
+                        </div>
+                        <div className="text-sm font-mono font-bold mb-3" style={{ color: vuln.color }}>
+                          {vuln.severity}
+                        </div>
+                        {vuln.cves.length > 0 && (
+                          <div className="space-y-1 mb-3 text-xs font-mono" style={{ color: '#888' }}>
+                            {vuln.cves.map((cve, cveIdx) => (
+                              <div key={cveIdx}>{cve}</div>
+                            ))}
+                          </div>
+                        )}
+                        <motion.button
+                          className="w-full px-3 py-2 rounded border text-xs font-mono font-bold uppercase"
+                          style={{
+                            borderColor: vuln.color,
+                            color: vuln.color,
+                            background: `rgba(${vuln.color === '#ff0000' ? '255,0,0' : vuln.color === '#ff5500' ? '255,85,0' : vuln.color === '#ffff00' ? '255,255,0' : '0,212,255'}, 0.2)`,
+                          }}
+                          whileHover={{ scale: 1.05, boxShadow: `0 0 15px ${vuln.color}60` }}
+                          whileTap={{ scale: 0.95 }}
+                        >
+                          {vuln.action}
+                        </motion.button>
+                      </motion.div>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Active Intelligence Operations */}
+                <div className="mb-8">
+                  <h2 className="text-3xl font-mono font-bold mb-6" style={{ color: '#ff00ff', textShadow: '0 0 20px rgba(255,0,255,0.6)' }}>
+                    🎯 ACTIVE INTELLIGENCE OPERATIONS
+                  </h2>
+                  <div className="grid grid-cols-3 gap-4">
+                    {[
+                      { id: 'OP-001', name: 'SAIME Deep Dive', target: 'Venezuela', progress: 89, agents: 12, intel: '47.8K records', color: '#ff00ff', priority: 'HIGH' },
+                      { id: 'OP-002', name: 'GPS Mapping Initiative', target: 'Colombia', progress: 67, agents: 8, intel: '479 coordinates', color: '#00ffff', priority: 'MEDIUM' },
+                      { id: 'OP-003', name: 'Hash Recovery Project', target: 'Government DB', progress: 45, agents: 15, intel: '1,247 hashes', color: '#ffff00', priority: 'HIGH' },
+                      { id: 'OP-004', name: 'EXIF Intelligence', target: 'Photo Archive', progress: 92, agents: 6, intel: '47 photos', color: '#00ff41', priority: 'LOW' },
+                      { id: 'OP-005', name: 'API Discovery', target: 'gov.ve', progress: 78, agents: 10, intel: '14 endpoints', color: '#00d4ff', priority: 'MEDIUM' },
+                      { id: 'OP-006', name: 'Social Media OSINT', target: 'Public Data', progress: 34, agents: 4, intel: '5.6K profiles', color: '#ff5500', priority: 'LOW' },
+                    ].map((op, idx) => (
+                      <motion.div
+                        key={op.id}
+                        initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ delay: idx * 0.1 }}
+                        className="p-5 rounded-lg border-2 relative overflow-hidden group"
+                        style={{
+                          borderColor: op.color,
+                          background: `rgba(${op.color === '#ff00ff' ? '255,0,255' : op.color === '#00ffff' ? '0,255,255' : op.color === '#ffff00' ? '255,255,0' : op.color === '#00ff41' ? '0,255,65' : op.color === '#00d4ff' ? '0,212,255' : '255,85,0'}, 0.1)`,
+                          boxShadow: `0 0 15px ${op.color}30`,
+                        }}
+                        whileHover={{ scale: 1.02, boxShadow: `0 0 25px ${op.color}60` }}
+                      >
+                        <div className="flex items-start justify-between mb-3">
+                          <div className="flex-1">
+                            <div className="text-xs font-mono mb-1" style={{ color: '#888' }}>{op.id}</div>
+                            <h4 className="text-base font-mono font-bold mb-1" style={{ color: op.color }}>
+                              {op.name}
+                            </h4>
+                            <div className="text-xs font-mono" style={{ color: '#aaa' }}>
+                              Target: <span style={{ color: '#00ffff' }}>{op.target}</span>
+                            </div>
+                          </div>
+                          <motion.div
+                            className={`px-2 py-1 rounded text-xs font-mono font-bold border ${op.priority === 'HIGH' ? 'border-[#ff0000] text-[#ff0000] bg-[rgba(255,0,0,0.1)]' : op.priority === 'MEDIUM' ? 'border-[#ffff00] text-[#ffff00] bg-[rgba(255,255,0,0.1)]' : 'border-[#00ff41] text-[#00ff41] bg-[rgba(0,255,65,0.1)]'}`}
+                            animate={{ opacity: op.priority === 'HIGH' ? [0.7, 1, 0.7] : 1 }}
+                            transition={{ duration: 2, repeat: Infinity }}
+                          >
+                            {op.priority}
+                          </motion.div>
+                        </div>
+                        <div className="space-y-2">
+                          <div className="flex justify-between text-xs font-mono">
+                            <span style={{ color: '#888' }}>Agents:</span>
+                            <span style={{ color: '#00ffff' }} className="font-bold">{op.agents}</span>
+                          </div>
+                          <div className="flex justify-between text-xs font-mono">
+                            <span style={{ color: '#888' }}>Intel:</span>
+                            <span style={{ color: '#00ff41' }} className="font-bold">{op.intel}</span>
+                          </div>
+                          <div className="w-full bg-black/50 rounded-full h-2 overflow-hidden">
+                            <motion.div
+                              className="h-full rounded-full"
+                              style={{
+                                background: `linear-gradient(90deg, ${op.color}80, ${op.color})`,
+                                width: `${op.progress}%`,
+                              }}
+                              initial={{ width: 0 }}
+                              animate={{ width: `${op.progress}%` }}
+                              transition={{ duration: 1, delay: idx * 0.2 }}
+                            />
+                          </div>
+                          <div className="flex justify-between text-xs font-mono pt-1">
+                            <span style={{ color: '#888' }}>Progress:</span>
+                            <span style={{ color: op.color }} className="font-bold">{op.progress}%</span>
+                          </div>
+                        </div>
+                      </motion.div>
+                    ))}
+                  </div>
+                </div>
+
+                {/* System Status Overview */}
+                <div className="mb-8">
+                  <h2 className="text-3xl font-mono font-bold mb-6" style={{ color: '#00ffff', textShadow: '0 0 20px rgba(0,255,255,0.6)' }}>
+                    ⚙️ SYSTEM STATUS OVERVIEW
+                  </h2>
+                  <div className="grid grid-cols-4 gap-4">
+                    {[
+                      { service: 'Web Server', status: 'ONLINE', uptime: '99.98%', requests: '12.4K/min', color: '#00ff41', latency: '14ms' },
+                      { service: 'Database', status: 'ONLINE', uptime: '99.95%', requests: '8.7K/min', color: '#00ff41', latency: '8ms' },
+                      { service: 'API Gateway', status: 'DEGRADED', uptime: '98.2%', requests: '5.2K/min', color: '#ffff00', latency: '45ms' },
+                      { service: 'Cache Layer', status: 'ONLINE', uptime: '99.99%', requests: '24.8K/min', color: '#00ff41', latency: '2ms' },
+                    ].map((service, idx) => (
+                      <motion.div
+                        key={service.service}
+                        initial={{ opacity: 0, scale: 0.8 }}
+                        animate={{ opacity: 1, scale: 1 }}
+                        transition={{ delay: idx * 0.1 }}
+                        className="p-5 rounded-lg border-2 text-center"
+                        style={{
+                          borderColor: service.color,
+                          background: `rgba(${service.color === '#00ff41' ? '0,255,65' : '255,255,0'}, 0.1)`,
+                          boxShadow: `0 0 20px ${service.color}40`,
+                        }}
+                        whileHover={{ scale: 1.05, boxShadow: `0 0 30px ${service.color}70` }}
+                      >
+                        <h4 className="text-base font-mono font-bold mb-2" style={{ color: service.color }}>
+                          {service.service}
+                        </h4>
+                        <motion.div
+                          className={`inline-block px-3 py-1 rounded text-xs font-mono font-bold border mb-3 ${service.status === 'ONLINE' ? 'border-[#00ff41] text-[#00ff41] bg-[rgba(0,255,65,0.1)]' : 'border-[#ffff00] text-[#ffff00] bg-[rgba(255,255,0,0.1)]'}`}
+                          animate={{ opacity: service.status === 'DEGRADED' ? [0.7, 1, 0.7] : 1 }}
+                          transition={{ duration: 2, repeat: Infinity }}
+                        >
+                          {service.status}
+                        </motion.div>
+                        <div className="space-y-1 text-xs font-mono">
+                          <div className="flex justify-between">
+                            <span style={{ color: '#888' }}>Uptime:</span>
+                            <span style={{ color: '#00ffff' }} className="font-bold">{service.uptime}</span>
+                          </div>
+                          <div className="flex justify-between">
+                            <span style={{ color: '#888' }}>Requests:</span>
+                            <span style={{ color: '#00ff41' }} className="font-bold">{service.requests}</span>
+                          </div>
+                          <div className="flex justify-between">
+                            <span style={{ color: '#888' }}>Latency:</span>
+                            <span style={{ color: '#ffff00' }} className="font-bold">{service.latency}</span>
+                          </div>
+                        </div>
+                      </motion.div>
+                    ))}
+                  </div>
+                </div>
               </motion.div>
             )}
 
