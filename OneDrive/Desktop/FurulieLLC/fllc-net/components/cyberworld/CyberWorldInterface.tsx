@@ -9,10 +9,9 @@ import {
     MapPin, Hash, Camera, Code, Shield, Zap, Search, TrendingUp,
     Network, Server, Eye, Fingerprint, Key, Cpu, HardDrive, Gamepad2, Award
   } from 'lucide-react';
-  import { useWindowManager } from '../os/WindowManagerContext';
-  import { useRouter } from 'next/navigation';
-  
-  /**
+import { useWindowManager } from '../os/WindowManagerContext';
+
+/**
  * CyberWorld Interface - Full Screen OSINT Game
  * Massive detail with interactive features matching concept images
  */
