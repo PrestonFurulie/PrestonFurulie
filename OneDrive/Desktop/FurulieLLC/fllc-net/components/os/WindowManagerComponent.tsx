@@ -17,11 +17,11 @@ export function WindowManagerComponent() {
         
         switch (window.type) {
           case 'cyberworld':
-            return <CyberWorldWindow key={window.id} id={window.id} onClose={handleClose} title={window.title} width={window.width} height={window.height} x={window.x} y={window.y} config={window.config} />;
+            return <CyberWorldWindow key={window.id} id={window.id} onClose={handleClose} width={window.width} height={window.height} x={window.x} y={window.y} config={window.config} />;
           case 'cyberworld-expanded':
-            return <CyberWorldExpandedWindow key={window.id} id={window.id} onClose={handleClose} title={window.title} width={window.width} height={window.height} x={window.x} y={window.y} config={window.config} />;
+            return <CyberWorldExpandedWindow key={window.id} id={window.id} onClose={handleClose} width={window.width} height={window.height} x={window.x} y={window.y} config={window.config} />;
           case 'projects':
-            return <ProjectsWindow key={window.id} id={window.id} onClose={handleClose} title={window.title} width={window.width} height={window.height} x={window.x} y={window.y} />;
+            return <ProjectsWindow key={window.id} id={window.id} onClose={handleClose} width={window.width} height={window.height} x={window.x} y={window.y} config={window.config} />;
           default:
             return (
               <BaseWindow 

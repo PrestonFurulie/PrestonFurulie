@@ -2,7 +2,7 @@
 
 import { BaseWindow } from './BaseWindow';
 
-export function CyberWorldExpandedWindow(props: Omit<React.ComponentProps<typeof BaseWindow>, 'title' | 'children'>) {
+export function CyberWorldExpandedWindow(props: Omit<React.ComponentProps<typeof BaseWindow>, 'title' | 'children'> & { config?: any }) {
   return (
     <BaseWindow {...props} title="CyberWorld Dashboard" width={1200} height={800}>
       <div className="h-full flex flex-col bg-[#0a0a0a] font-mono p-6 overflow-y-auto">

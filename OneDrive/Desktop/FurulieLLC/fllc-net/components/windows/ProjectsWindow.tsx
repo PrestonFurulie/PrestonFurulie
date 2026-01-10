@@ -3,7 +3,7 @@
 import { BaseWindow } from './BaseWindow';
 import { useRouter } from 'next/navigation';
 
-export function ProjectsWindow(props: Omit<React.ComponentProps<typeof BaseWindow>, 'title' | 'children'>) {
+export function ProjectsWindow(props: Omit<React.ComponentProps<typeof BaseWindow>, 'title' | 'children'> & { config?: any }) {
   const router = useRouter();
 
   const projects = [

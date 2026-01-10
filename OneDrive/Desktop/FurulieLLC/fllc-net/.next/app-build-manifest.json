@@ -1,0 +1,75 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-a1a60f0c17f9df75.js",
+      "static/chunks/fd9d1056-6922f449a204c2cc.js",
+      "static/chunks/117-583e269d0776742d.js",
+      "static/chunks/main-app-dbd52b00015f8379.js",
+      "static/chunks/app/_not-found/page-98467b0ee1cfb9b0.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-a1a60f0c17f9df75.js",
+      "static/chunks/fd9d1056-6922f449a204c2cc.js",
+      "static/chunks/117-583e269d0776742d.js",
+      "static/chunks/main-app-dbd52b00015f8379.js",
+      "static/css/a023ca5685f6e041.css",
+      "static/chunks/app/layout-9f2ca1a19787c3bb.js"
+    ],
+    "/cyberworld/dashboard/page": [
+      "static/chunks/webpack-a1a60f0c17f9df75.js",
+      "static/chunks/fd9d1056-6922f449a204c2cc.js",
+      "static/chunks/117-583e269d0776742d.js",
+      "static/chunks/main-app-dbd52b00015f8379.js",
+      "static/chunks/160-3cc1983d104de33e.js",
+      "static/chunks/app/cyberworld/dashboard/page-8661b45bea780aaa.js"
+    ],
+    "/cyberworld/settings/page": [
+      "static/chunks/webpack-a1a60f0c17f9df75.js",
+      "static/chunks/fd9d1056-6922f449a204c2cc.js",
+      "static/chunks/117-583e269d0776742d.js",
+      "static/chunks/main-app-dbd52b00015f8379.js",
+      "static/chunks/160-3cc1983d104de33e.js",
+      "static/chunks/app/cyberworld/settings/page-85455cd8643be7fb.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-a1a60f0c17f9df75.js",
+      "static/chunks/fd9d1056-6922f449a204c2cc.js",
+      "static/chunks/117-583e269d0776742d.js",
+      "static/chunks/main-app-dbd52b00015f8379.js",
+      "static/chunks/app/page-8af76f00e3988ab6.js"
+    ],
+    "/desktop/page": [
+      "static/chunks/webpack-a1a60f0c17f9df75.js",
+      "static/chunks/fd9d1056-6922f449a204c2cc.js",
+      "static/chunks/117-583e269d0776742d.js",
+      "static/chunks/main-app-dbd52b00015f8379.js",
+      "static/chunks/160-3cc1983d104de33e.js",
+      "static/chunks/565-6b417aacda39937c.js",
+      "static/chunks/app/desktop/page-aef340873bd3aee4.js"
+    ],
+    "/cyberworld/patches/page": [
+      "static/chunks/webpack-a1a60f0c17f9df75.js",
+      "static/chunks/fd9d1056-6922f449a204c2cc.js",
+      "static/chunks/117-583e269d0776742d.js",
+      "static/chunks/main-app-dbd52b00015f8379.js",
+      "static/chunks/160-3cc1983d104de33e.js",
+      "static/chunks/app/cyberworld/patches/page-23e7fea833f75c7b.js"
+    ],
+    "/cyberworld/play/page": [
+      "static/chunks/webpack-a1a60f0c17f9df75.js",
+      "static/chunks/fd9d1056-6922f449a204c2cc.js",
+      "static/chunks/117-583e269d0776742d.js",
+      "static/chunks/main-app-dbd52b00015f8379.js",
+      "static/chunks/160-3cc1983d104de33e.js",
+      "static/chunks/app/cyberworld/play/page-85f569b95ed1dd4b.js"
+    ],
+    "/cyberworld/credits/page": [
+      "static/chunks/webpack-a1a60f0c17f9df75.js",
+      "static/chunks/fd9d1056-6922f449a204c2cc.js",
+      "static/chunks/117-583e269d0776742d.js",
+      "static/chunks/main-app-dbd52b00015f8379.js",
+      "static/chunks/160-3cc1983d104de33e.js",
+      "static/chunks/app/cyberworld/credits/page-96f99451944896fb.js"
+    ]
+  }
+}
