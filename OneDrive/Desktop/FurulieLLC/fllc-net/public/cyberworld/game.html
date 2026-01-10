@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CyberWorld: Enter the Grid</title>
+  <link rel="stylesheet" href="/cyberworld/style/flash-retro.css"/>
+  <link rel="stylesheet" href="/cyberworld/style/holo-ui.css"/>
+  <script type="module" crossorigin src="/cyberworld/assets/index-DOvGdYC4.js"></script>
+  <link rel="stylesheet" crossorigin href="/cyberworld/assets/index-b8lyQAcz.css">
+</head>
+<body>
+  <!-- Boot Screen -->
+  <div class="boot-screen" id="boot-screen">
+    <div class="boot-content">
+      <h1 class="boot-title">💾 CYBERWORLD</h1>
+      <p class="boot-subtitle">Loading Protocols...</p>
+      <div class="data-loader">
+        <div class="loader-bar"></div>
+      </div>
+      <button id="enter-btn" class="enter-btn">ENTER GRID</button>
+    </div>
+  </div>
+
+  <!-- Flash-Era Header -->
+  <header class="flash-header" id="main-header" style="display: none;">
+    <div class="header-content">
+      <div class="logo-section">
+        <h1 class="logo-text">CYBERWORLD</h1>
+      </div>
+      <nav class="folder-tabs">
+        <button class="tab active" data-tab="game">Game</button>
+        <button class="tab" data-tab="inventory">Inventory</button>
+        <button class="tab" data-tab="quests">Quests</button>
+        <button class="tab" data-tab="minigames">Minigames</button>
+        <button class="tab" data-tab="settings">Settings</button>
+      </nav>
+      <div class="floating-icons">
+        <span class="icon">💾</span>
+        <span class="icon">⚡</span>
+        <span class="icon">🔌</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Game Container -->
+  <div class="game-container" id="game-container" style="display: none;">
+    <!-- Phaser Game Canvas -->
+    <div id="phaser-game"></div>
+
+    <!-- UI Overlays -->
+    <div class="ui-overlay">
+      <!-- Chat Window -->
+      <div class="chat-window" id="chat-window">
+        <div class="chat-header">
+          <h3>Chat</h3>
+          <button class="close-btn" id="chat-close">×</button>
+        </div>
+        <div class="chat-messages" id="chat-messages"></div>
+        <div class="chat-input-container">
+          <input type="text" id="chat-input" class="chat-input" placeholder="Type a message...">
+          <button id="emoji-btn" class="emoji-btn">😀</button>
+        </div>
+      </div>
+
+      <!-- Emoji Wheel (hidden by default) -->
+      <div class="emoji-wheel" id="emoji-wheel" style="display: none;">
+        <div class="emoji-grid"></div>
+      </div>
+
+      <!-- Inventory Window (hidden by default) -->
+      <div class="inventory-window" id="inventory-window" style="display: none;">
+        <div class="inventory-header">
+          <h3>Inventory</h3>
+          <button class="close-btn" id="inventory-close">×</button>
+        </div>
+        <div class="inventory-content" id="inventory-content"></div>
+      </div>
+
+      <!-- Quest Popup (hidden by default) -->
+      <div class="quest-popup" id="quest-popup" style="display: none;">
+        <div class="quest-header">
+          <h3 id="quest-title"></h3>
+          <button class="close-btn" id="quest-close">×</button>
+        </div>
+        <div class="quest-content" id="quest-content"></div>
+      </div>
+
+      <!-- Quest List (hidden by default) -->
+      <div class="quest-list-window" id="quest-list-window" style="display: none;">
+        <div class="quest-list-header">
+          <h3>Active Quests</h3>
+          <button class="close-btn" id="quest-list-close">×</button>
+        </div>
+        <div class="quest-list-content" id="quest-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Ruffle.js for SWF support -->
+  <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+  
+  <!-- Game Scripts -->
+</body>
+</html>
+

@@ -1,0 +1,363 @@
+/* CyberWorld - Holo UI Styling */
+/* Cyberpunk Neon UI Elements */
+
+/* UI Overlay Container */
+.ui-overlay {
+  position: fixed;
+  top: 60px;
+  left: 0;
+  width: 100%;
+  height: calc(100% - 60px);
+  pointer-events: none;
+  z-index: 200;
+}
+
+.ui-overlay > * {
+  pointer-events: auto;
+}
+
+/* Chat Window */
+.chat-window {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  width: 350px;
+  height: 400px;
+  background: rgba(10, 10, 10, 0.95);
+  border: 2px solid var(--neon-cyan);
+  border-radius: 8px;
+  box-shadow: var(--glow-cyan), 0 0 30px rgba(0, 212, 255, 0.3);
+  display: flex;
+  flex-direction: column;
+  font-family: 'Courier New', monospace;
+}
+
+.chat-header {
+  padding: 10px 15px;
+  background: rgba(0, 212, 255, 0.1);
+  border-bottom: 1px solid var(--neon-cyan);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.chat-header h3 {
+  color: var(--neon-cyan);
+  font-size: 1rem;
+  text-shadow: 0 0 10px var(--neon-cyan);
+}
+
+.close-btn {
+  background: transparent;
+  border: none;
+  color: var(--neon-cyan);
+  font-size: 1.5rem;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.close-btn:hover {
+  color: #ff0000;
+  transform: scale(1.2);
+}
+
+.chat-messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 10px;
+  color: var(--text-primary);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.chat-message {
+  margin-bottom: 8px;
+  padding: 5px;
+  border-left: 2px solid var(--neon-cyan);
+  padding-left: 10px;
+}
+
+.chat-message .username {
+  color: var(--neon-cyan);
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.chat-message .text {
+  color: var(--text-primary);
+}
+
+.chat-input-container {
+  padding: 10px;
+  border-top: 1px solid var(--neon-cyan);
+  display: flex;
+  gap: 10px;
+}
+
+.chat-input {
+  flex: 1;
+  padding: 8px;
+  background: rgba(0, 0, 0, 0.5);
+  border: 1px solid var(--neon-cyan);
+  color: var(--text-primary);
+  font-family: 'Courier New', monospace;
+  font-size: 0.9rem;
+  outline: none;
+}
+
+.chat-input:focus {
+  box-shadow: 0 0 10px var(--neon-cyan);
+}
+
+.emoji-btn {
+  padding: 8px 15px;
+  background: rgba(0, 212, 255, 0.2);
+  border: 1px solid var(--neon-cyan);
+  color: var(--neon-cyan);
+  cursor: pointer;
+  font-size: 1.2rem;
+  transition: all 0.3s ease;
+}
+
+.emoji-btn:hover {
+  background: rgba(0, 212, 255, 0.3);
+  box-shadow: 0 0 10px var(--neon-cyan);
+}
+
+/* Emoji Wheel */
+.emoji-wheel {
+  position: fixed;
+  bottom: 430px;
+  left: 20px;
+  width: 300px;
+  background: rgba(10, 10, 10, 0.98);
+  border: 2px solid var(--neon-magenta);
+  border-radius: 8px;
+  box-shadow: var(--glow-magenta);
+  padding: 15px;
+  z-index: 300;
+}
+
+.emoji-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10px;
+  gap: 10px;
+}
+
+.emoji-grid span {
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 5px;
+  text-align: center;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.emoji-grid span:hover {
+  background: rgba(255, 0, 255, 0.2);
+  transform: scale(1.2);
+  box-shadow: 0 0 10px var(--neon-magenta);
+}
+
+/* Inventory Window (Windows Explorer Style) */
+.inventory-window {
+  position: fixed;
+  top: 100px;
+  right: 20px;
+  width: 500px;
+  height: 600px;
+  background: rgba(10, 10, 10, 0.95);
+  border: 2px solid var(--neon-green);
+  border-radius: 8px;
+  box-shadow: var(--glow-green);
+  display: flex;
+  flex-direction: column;
+  font-family: 'Courier New', monospace;
+}
+
+.inventory-header {
+  padding: 10px 15px;
+  background: rgba(0, 255, 65, 0.1);
+  border-bottom: 1px solid var(--neon-green);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.inventory-header h3 {
+  color: var(--neon-green);
+  font-size: 1rem;
+  text-shadow: 0 0 10px var(--neon-green);
+}
+
+.inventory-content {
+  flex: 1;
+  padding: 15px;
+  overflow-y: auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+}
+
+.inventory-item {
+  aspect-ratio: 1;
+  background: rgba(0, 0, 0, 0.5);
+  border: 2px solid var(--neon-green);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 10px;
+}
+
+.inventory-item:hover {
+  background: rgba(0, 255, 65, 0.2);
+  box-shadow: 0 0 15px var(--neon-green);
+  transform: scale(1.05);
+}
+
+.inventory-item .item-icon {
+  font-size: 2rem;
+  margin-bottom: 5px;
+}
+
+.inventory-item .item-name {
+  font-size: 0.7rem;
+  color: var(--neon-green);
+  text-align: center;
+  word-break: break-word;
+}
+
+/* Quest Popup */
+.quest-popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  max-height: 600px;
+  background: rgba(10, 10, 10, 0.98);
+  border: 2px solid var(--neon-yellow);
+  border-radius: 8px;
+  box-shadow: 0 0 20px var(--neon-yellow), 0 0 40px var(--neon-yellow);
+  display: flex;
+  flex-direction: column;
+  font-family: 'Courier New', monospace;
+  z-index: 400;
+}
+
+.quest-header {
+  padding: 15px;
+  background: rgba(255, 255, 0, 0.1);
+  border-bottom: 1px solid var(--neon-yellow);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.quest-header h3 {
+  color: var(--neon-yellow);
+  font-size: 1.2rem;
+  text-shadow: 0 0 10px var(--neon-yellow);
+}
+
+.quest-content {
+  padding: 20px;
+  color: var(--text-primary);
+  overflow-y: auto;
+  flex: 1;
+}
+
+.quest-description {
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+.quest-objectives {
+  list-style: none;
+  margin: 15px 0;
+}
+
+.quest-objectives li {
+  padding: 8px;
+  margin: 5px 0;
+  background: rgba(255, 255, 0, 0.05);
+  border-left: 3px solid var(--neon-yellow);
+  padding-left: 15px;
+}
+
+.quest-objectives li.completed {
+  color: var(--neon-green);
+  border-left-color: var(--neon-green);
+}
+
+.quest-rewards {
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid var(--neon-yellow);
+}
+
+.quest-rewards h4 {
+  color: var(--neon-yellow);
+  margin-bottom: 10px;
+}
+
+/* Holo Panel Effects */
+.holo-panel {
+  background: rgba(0, 212, 255, 0.05);
+  border: 1px solid var(--neon-cyan);
+  border-radius: 4px;
+  padding: 15px;
+  position: relative;
+  overflow: hidden;
+}
+
+.holo-panel::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    45deg,
+    transparent 30%,
+    rgba(0, 212, 255, 0.1) 50%,
+    transparent 70%
+  );
+  animation: holoShine 3s infinite;
+}
+
+@keyframes holoShine {
+  0% { transform: translate(-50%, -50%) rotate(0deg); }
+  100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--neon-cyan);
+  border-radius: 5px;
+  box-shadow: 0 0 10px var(--neon-cyan);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--neon-green);
+  box-shadow: 0 0 10px var(--neon-green);
+}

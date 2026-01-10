@@ -1,0 +1,20 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/cloudflare/analytics/route": "/api/cloudflare/analytics",
+  "/api/contact/route": "/api/contact",
+  "/api/intel/activity/route": "/api/intel/activity",
+  "/api/intel/repos/route": "/api/intel/repos",
+  "/api/intel/stats/route": "/api/intel/stats",
+  "/api/stripe/checkout/route": "/api/stripe/checkout",
+  "/api/stripe/products/route": "/api/stripe/products",
+  "/cyberworld/credits/page": "/cyberworld/credits",
+  "/cyberworld/dashboard/page": "/cyberworld/dashboard",
+  "/cyberworld/patches/page": "/cyberworld/patches",
+  "/cyberworld/play/page": "/cyberworld/play",
+  "/cyberworld/settings/page": "/cyberworld/settings",
+  "/desktop/page": "/desktop",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/shop/success/page": "/shop/success"
+}

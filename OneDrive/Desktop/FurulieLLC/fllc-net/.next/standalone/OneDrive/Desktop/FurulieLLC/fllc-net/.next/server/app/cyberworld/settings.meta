@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/cyberworld/layout,_N_T_/cyberworld/settings/layout,_N_T_/cyberworld/settings/page,_N_T_/cyberworld/settings"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/cyberworld/settings/__PAGE__",
+    "/cyberworld/settings",
+    "/cyberworld",
+    "/_index",
+    "/_head"
+  ]
+}

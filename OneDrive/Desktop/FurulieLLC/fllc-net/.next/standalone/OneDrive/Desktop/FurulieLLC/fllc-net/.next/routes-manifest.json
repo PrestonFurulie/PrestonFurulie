@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "pages404": true,
+  "appType": "app",
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_global-error",
+      "regex": "^/_global\\-error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_global\\-error(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/api/cloudflare/analytics",
+      "regex": "^/api/cloudflare/analytics(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/cloudflare/analytics(?:/)?$"
+    },
+    {
+      "page": "/api/contact",
+      "regex": "^/api/contact(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/contact(?:/)?$"
+    },
+    {
+      "page": "/api/intel/activity",
+      "regex": "^/api/intel/activity(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/intel/activity(?:/)?$"
+    },
+    {
+      "page": "/api/intel/repos",
+      "regex": "^/api/intel/repos(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/intel/repos(?:/)?$"
+    },
+    {
+      "page": "/api/intel/stats",
+      "regex": "^/api/intel/stats(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/intel/stats(?:/)?$"
+    },
+    {
+      "page": "/api/stripe/checkout",
+      "regex": "^/api/stripe/checkout(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/stripe/checkout(?:/)?$"
+    },
+    {
+      "page": "/api/stripe/products",
+      "regex": "^/api/stripe/products(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/stripe/products(?:/)?$"
+    },
+    {
+      "page": "/cyberworld/credits",
+      "regex": "^/cyberworld/credits(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/cyberworld/credits(?:/)?$"
+    },
+    {
+      "page": "/cyberworld/dashboard",
+      "regex": "^/cyberworld/dashboard(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/cyberworld/dashboard(?:/)?$"
+    },
+    {
+      "page": "/cyberworld/patches",
+      "regex": "^/cyberworld/patches(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/cyberworld/patches(?:/)?$"
+    },
+    {
+      "page": "/cyberworld/play",
+      "regex": "^/cyberworld/play(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/cyberworld/play(?:/)?$"
+    },
+    {
+      "page": "/cyberworld/settings",
+      "regex": "^/cyberworld/settings(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/cyberworld/settings(?:/)?$"
+    },
+    {
+      "page": "/desktop",
+      "regex": "^/desktop(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/desktop(?:/)?$"
+    },
+    {
+      "page": "/favicon.ico",
+      "regex": "^/favicon\\.ico(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/favicon\\.ico(?:/)?$"
+    },
+    {
+      "page": "/shop/success",
+      "regex": "^/shop/success(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/shop/success(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}

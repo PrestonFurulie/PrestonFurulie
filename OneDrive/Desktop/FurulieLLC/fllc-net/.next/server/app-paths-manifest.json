@@ -1,0 +1,20 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/cloudflare/analytics/route": "app/api/cloudflare/analytics/route.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/api/intel/activity/route": "app/api/intel/activity/route.js",
+  "/api/intel/repos/route": "app/api/intel/repos/route.js",
+  "/api/intel/stats/route": "app/api/intel/stats/route.js",
+  "/api/stripe/checkout/route": "app/api/stripe/checkout/route.js",
+  "/api/stripe/products/route": "app/api/stripe/products/route.js",
+  "/cyberworld/credits/page": "app/cyberworld/credits/page.js",
+  "/cyberworld/dashboard/page": "app/cyberworld/dashboard/page.js",
+  "/cyberworld/patches/page": "app/cyberworld/patches/page.js",
+  "/cyberworld/play/page": "app/cyberworld/play/page.js",
+  "/cyberworld/settings/page": "app/cyberworld/settings/page.js",
+  "/desktop/page": "app/desktop/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/shop/success/page": "app/shop/success/page.js"
+}

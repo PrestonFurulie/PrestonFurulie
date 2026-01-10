@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/shop/layout,_N_T_/shop/success/layout,_N_T_/shop/success/page,_N_T_/shop/success"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/shop/success/__PAGE__",
+    "/shop/success",
+    "/shop",
+    "/_index",
+    "/_head"
+  ]
+}
