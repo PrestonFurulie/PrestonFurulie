@@ -1701,6 +1701,278 @@ export function CyberWorldInterface() {
                     </div>
                   </div>
                 </div>
+
+                {/* Data Exfiltration Log */}
+                <div className="mb-8">
+                  <h2 className="text-3xl font-mono font-bold mb-6" style={{ color: '#00ff41', textShadow: '0 0 20px rgba(0,255,65,0.6)' }}>
+                    💾 DATA EXFILTRATION LOG
+                  </h2>
+                  <div className="grid grid-cols-2 gap-4">
+                    {[
+                      { id: 1, source: 'SAIME Database', records: '12,456', size: '1.2 GB', status: 'COMPLETED', time: '0.5s ago', color: '#00ff41', progress: 100 },
+                      { id: 2, source: 'Government Emails', records: '8,234', size: '890 MB', status: 'IN PROGRESS', time: '1.8s ago', color: '#ffff00', progress: 67 },
+                      { id: 3, source: 'GPS Logs', records: '479', size: '120 MB', status: 'COMPLETED', time: '2.3s ago', color: '#00ffff', progress: 100 },
+                      { id: 4, source: 'Financial Records', records: '2,100', size: '2.1 GB', status: 'FAILED', time: '3.1s ago', color: '#ff0000', progress: 45 },
+                    ].map((entry, idx) => (
+                      <motion.div
+                        key={entry.id}
+                        initial={{ opacity: 0, x: -20 }}
+                        animate={{ opacity: 1, x: 0 }}
+                        transition={{ delay: idx * 0.1 }}
+                        className="p-5 rounded-lg border-2 relative overflow-hidden group"
+                        style={{
+                          borderColor: entry.color,
+                          background: `rgba(${entry.color === '#00ff41' ? '0,255,65' : entry.color === '#ffff00' ? '255,255,0' : entry.color === '#00ffff' ? '0,255,255' : '255,0,0'}, 0.1)`,
+                          boxShadow: `0 0 15px ${entry.color}30`,
+                        }}
+                        whileHover={{ scale: 1.02, boxShadow: `0 0 25px ${entry.color}60` }}
+                      >
+                        <div className="flex items-start justify-between mb-3">
+                          <div className="flex-1">
+                            <h4 className="text-base font-mono font-bold mb-1" style={{ color: entry.color }}>
+                              {entry.source}
+                            </h4>
+                            <div className="text-xs font-mono" style={{ color: '#aaa' }}>
+                              Records: <span style={{ color: '#00ffff' }}>{entry.records}</span>
+                            </div>
+                          </div>
+                          <motion.div
+                            className={`px-2 py-1 rounded text-xs font-mono font-bold border ${entry.status === 'COMPLETED' ? 'border-[#00ff41] text-[#00ff41] bg-[rgba(0,255,65,0.1)]' : entry.status === 'IN PROGRESS' ? 'border-[#ffff00] text-[#ffff00] bg-[rgba(255,255,0,0.1)]' : 'border-[#ff0000] text-[#ff0000] bg-[rgba(255,0,0,0.1)]'}`}
+                            animate={{ opacity: entry.status === 'IN PROGRESS' ? [0.7, 1, 0.7] : 1 }}
+                            transition={{ duration: 2, repeat: Infinity }}
+                          >
+                            {entry.status}
+                          </motion.div>
+                        </div>
+                        <div className="space-y-2">
+                          <div className="flex justify-between text-xs font-mono">
+                            <span style={{ color: '#888' }}>Size:</span>
+                            <span style={{ color: entry.color }} className="font-bold">{entry.size}</span>
+                          </div>
+                          {entry.status === 'IN PROGRESS' && (
+                            <div className="w-full bg-black/50 rounded-full h-2 overflow-hidden">
+                              <motion.div
+                                className="h-full rounded-full"
+                                style={{
+                                  background: `linear-gradient(90deg, ${entry.color}80, ${entry.color})`,
+                                  width: `${entry.progress}%`,
+                                }}
+                                initial={{ width: 0 }}
+                                animate={{ width: `${entry.progress}%` }}
+                                transition={{ duration: 1, delay: idx * 0.2 }}
+                              />
+                            </div>
+                          )}
+                          <div className="flex justify-between text-xs font-mono pt-2 border-t" style={{ borderColor: `${entry.color}30` }}>
+                            <span style={{ color: '#888' }}>Time:</span>
+                            <span style={{ color: '#aaa' }}>{entry.time}</span>
+                          </div>
+                        </div>
+                      </motion.div>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Global Network Map */}
+                <div className="mb-8">
+                  <h2 className="text-3xl font-mono font-bold mb-6" style={{ color: '#00d4ff', textShadow: '0 0 20px rgba(0,212,255,0.6)' }}>
+                    🌐 GLOBAL NETWORK MAP
+                  </h2>
+                  <div className="grid grid-cols-3 gap-4">
+                    {[
+                      { country: 'Venezuela', active: 12, monitoring: true, color: '#ff0000', lastAccess: '2m ago', systems: 124, dataExfil: '1.2 TB' },
+                      { country: 'Colombia', active: 8, monitoring: true, color: '#ff5500', lastAccess: '5m ago', systems: 87, dataExfil: '890 GB' },
+                      { country: 'Ecuador', active: 5, monitoring: false, color: '#ffff00', lastAccess: '12m ago', systems: 56, dataExfil: '450 GB' },
+                      { country: 'Peru', active: 7, monitoring: true, color: '#00ff41', lastAccess: '8m ago', systems: 78, dataExfil: '700 GB' },
+                      { country: 'Brazil', active: 15, monitoring: true, color: '#00ffff', lastAccess: '1m ago', systems: 145, dataExfil: '1.5 TB' },
+                      { country: 'Argentina', active: 10, monitoring: false, color: '#ff00ff', lastAccess: '15m ago', systems: 92, dataExfil: '950 GB' },
+                    ].map((node, idx) => (
+                      <motion.div
+                        key={node.country}
+                        initial={{ opacity: 0, scale: 0.8 }}
+                        animate={{ opacity: 1, scale: 1 }}
+                        transition={{ delay: idx * 0.1 }}
+                        className="p-5 rounded-lg border-2 relative overflow-hidden group"
+                        style={{
+                          borderColor: node.color,
+                          background: `rgba(${node.color === '#ff0000' ? '255,0,0' : node.color === '#ff5500' ? '255,85,0' : node.color === '#ffff00' ? '255,255,0' : node.color === '#00ff41' ? '0,255,65' : node.color === '#00ffff' ? '0,255,255' : '255,0,255'}, 0.1)`,
+                          boxShadow: `0 0 15px ${node.color}30`,
+                        }}
+                        whileHover={{ scale: 1.05, boxShadow: `0 0 25px ${node.color}60` }}
+                      >
+                        <div className="flex items-center justify-between mb-3">
+                          <h4 className="text-lg font-mono font-bold" style={{ color: node.color }}>
+                            {node.country}
+                          </h4>
+                          <motion.div
+                            className={`w-2 h-2 rounded-full ${node.monitoring ? 'bg-[#00ff41]' : 'bg-[#888]'}`}
+                            animate={{ opacity: node.monitoring ? [0.5, 1, 0.5] : 1 }}
+                            transition={{ duration: 1.5, repeat: Infinity }}
+                            style={{ boxShadow: node.monitoring ? '0 0 8px rgba(0,255,65,0.8)' : 'none' }}
+                          />
+                        </div>
+                        <div className="space-y-2 text-xs font-mono">
+                          <div className="flex justify-between">
+                            <span style={{ color: '#888' }}>Active Connections:</span>
+                            <span style={{ color: '#00ffff' }} className="font-bold">{node.active}</span>
+                          </div>
+                          <div className="flex justify-between">
+                            <span style={{ color: '#888' }}>Systems:</span>
+                            <span style={{ color: node.color }} className="font-bold">{node.systems}</span>
+                          </div>
+                          <div className="flex justify-between">
+                            <span style={{ color: '#888' }}>Data Exfil:</span>
+                            <span style={{ color: '#00ff41' }} className="font-bold">{node.dataExfil}</span>
+                          </div>
+                          <div className="flex justify-between pt-2 border-t" style={{ borderColor: `${node.color}30` }}>
+                            <span style={{ color: '#888' }}>Last Access:</span>
+                            <span style={{ color: '#aaa' }}>{node.lastAccess}</span>
+                          </div>
+                          <div className="flex justify-between">
+                            <span style={{ color: '#888' }}>Status:</span>
+                            <span style={{ color: node.monitoring ? '#00ff41' : '#888' }} className="font-bold">
+                              {node.monitoring ? 'MONITORING' : 'INACTIVE'}
+                            </span>
+                          </div>
+                        </div>
+                      </motion.div>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Live Security Operations Feed */}
+                <div className="mb-8">
+                  <h2 className="text-3xl font-mono font-bold mb-6" style={{ color: '#ff00ff', textShadow: '0 0 20px rgba(255,0,255,0.6)' }}>
+                    ⚡ LIVE SECURITY OPERATIONS FEED
+                  </h2>
+                  <div className="grid grid-cols-2 gap-4">
+                    {[
+                      { id: 1, operation: 'Hash Cracking', target: 'MD5 Database', progress: 89, eta: '2m 34s', color: '#ff00ff', status: 'ACTIVE', records: '1,247/1,400' },
+                      { id: 2, operation: 'Port Scanning', target: '172.16.0.0/24', progress: 67, eta: '4m 12s', color: '#00ffff', status: 'ACTIVE', records: '167/250 hosts' },
+                      { id: 3, operation: 'EXIF Extraction', target: 'Photo Archive', progress: 45, eta: '6m 18s', color: '#ffff00', status: 'RUNNING', records: '47/105 photos' },
+                      { id: 4, operation: 'GPS Mapping', target: 'SAIME Offices', progress: 92, eta: '0m 47s', color: '#00ff41', status: 'ACTIVE', records: '479/520 coordinates' },
+                    ].map((op, idx) => (
+                      <motion.div
+                        key={op.id}
+                        initial={{ opacity: 0, x: -20 }}
+                        animate={{ opacity: 1, x: 0 }}
+                        transition={{ delay: idx * 0.1 }}
+                        className="p-5 rounded-lg border-2 relative overflow-hidden group"
+                        style={{
+                          borderColor: op.color,
+                          background: `rgba(${op.color === '#ff00ff' ? '255,0,255' : op.color === '#00ffff' ? '0,255,255' : op.color === '#ffff00' ? '255,255,0' : '0,255,65'}, 0.1)`,
+                          boxShadow: `0 0 15px ${op.color}30`,
+                        }}
+                        whileHover={{ scale: 1.02, boxShadow: `0 0 25px ${op.color}60` }}
+                      >
+                        <div className="flex items-start justify-between mb-3">
+                          <div className="flex-1">
+                            <h4 className="text-base font-mono font-bold mb-1" style={{ color: op.color }}>
+                              {op.operation}
+                            </h4>
+                            <div className="text-xs font-mono" style={{ color: '#aaa' }}>
+                              Target: <span style={{ color: '#00ffff' }}>{op.target}</span>
+                            </div>
+                          </div>
+                          <motion.div
+                            className={`px-2 py-1 rounded text-xs font-mono font-bold border ${op.status === 'ACTIVE' ? 'border-[#00ff41] text-[#00ff41] bg-[rgba(0,255,65,0.1)]' : 'border-[#ffff00] text-[#ffff00] bg-[rgba(255,255,0,0.1)]'}`}
+                            animate={{ opacity: [0.7, 1, 0.7] }}
+                            transition={{ duration: 2, repeat: Infinity }}
+                          >
+                            {op.status}
+                          </motion.div>
+                        </div>
+                        <div className="space-y-2">
+                          <div className="flex justify-between text-xs font-mono">
+                            <span style={{ color: '#888' }}>Progress:</span>
+                            <span style={{ color: op.color }} className="font-bold">{op.progress}%</span>
+                          </div>
+                          <div className="w-full bg-black/50 rounded-full h-3 overflow-hidden relative">
+                            <motion.div
+                              className="h-full rounded-full"
+                              style={{
+                                background: `linear-gradient(90deg, ${op.color}80, ${op.color})`,
+                                width: `${op.progress}%`,
+                              }}
+                              initial={{ width: 0 }}
+                              animate={{ width: `${op.progress}%` }}
+                              transition={{ duration: 1, delay: idx * 0.2 }}
+                            />
+                            <div className="absolute inset-0 flex items-center justify-center text-[8px] font-mono font-bold" style={{ color: '#fff', textShadow: '0 0 4px rgba(0,0,0,0.8)' }}>
+                              {op.progress}%
+                            </div>
+                          </div>
+                          <div className="flex justify-between text-xs font-mono pt-2 border-t" style={{ borderColor: `${op.color}30` }}>
+                            <span style={{ color: '#888' }}>ETA:</span>
+                            <span style={{ color: '#ffff00' }} className="font-bold">{op.eta}</span>
+                          </div>
+                          <div className="flex justify-between text-xs font-mono">
+                            <span style={{ color: '#888' }}>Records:</span>
+                            <span style={{ color: '#00ffff' }} className="font-bold">{op.records}</span>
+                          </div>
+                        </div>
+                      </motion.div>
+                    ))}
+                  </div>
+                </div>
+
+                {/* System Performance Metrics */}
+                <div className="mb-8">
+                  <h2 className="text-3xl font-mono font-bold mb-6" style={{ color: '#00ffff', textShadow: '0 0 20px rgba(0,255,255,0.6)' }}>
+                    🖥️ SYSTEM PERFORMANCE METRICS
+                  </h2>
+                  <div className="grid grid-cols-4 gap-4">
+                    {[
+                      { label: 'CPU Usage', value: 47, unit: '%', color: '#00ff41', icon: Cpu, trend: '-2%', peak: 89 },
+                      { label: 'Memory', value: 68, unit: '%', color: '#00ffff', icon: HardDrive, trend: '+3%', peak: 92 },
+                      { label: 'Network I/O', value: 82, unit: '%', color: '#00d4ff', icon: Network, trend: '+5%', peak: 98 },
+                      { label: 'Storage', value: 54, unit: '%', color: '#ffff00', icon: Database, trend: '+1%', peak: 76 },
+                    ].map((metric, idx) => {
+                      const MetricIcon = metric.icon;
+                      return (
+                        <motion.div
+                          key={metric.label}
+                          initial={{ opacity: 0, y: 20 }}
+                          animate={{ opacity: 1, y: 0 }}
+                          transition={{ delay: idx * 0.1 }}
+                          className="p-5 rounded-lg border-2 text-center relative overflow-hidden group"
+                          style={{
+                            borderColor: metric.color,
+                            background: `rgba(${metric.color === '#00ff41' ? '0,255,65' : metric.color === '#00ffff' ? '0,255,255' : metric.color === '#00d4ff' ? '0,212,255' : '255,255,0'}, 0.1)`,
+                            boxShadow: `0 0 20px ${metric.color}40`,
+                          }}
+                          whileHover={{ scale: 1.05, boxShadow: `0 0 30px ${metric.color}70` }}
+                        >
+                          <MetricIcon size={32} className="mx-auto mb-3" style={{ color: metric.color, filter: `drop-shadow(0 0 10px ${metric.color})` }} />
+                          <div className="text-4xl font-mono font-bold mb-1" style={{ color: metric.color, textShadow: `0 0 10px ${metric.color}80` }}>
+                            {metric.value}{metric.unit}
+                          </div>
+                          <div className="text-xs font-mono uppercase mb-2" style={{ color: '#888' }}>
+                            {metric.label}
+                          </div>
+                          <div className="w-full bg-black/50 rounded-full h-2 mb-2 overflow-hidden">
+                            <motion.div
+                              className="h-full rounded-full"
+                              style={{
+                                background: `linear-gradient(90deg, ${metric.color}80, ${metric.color})`,
+                                width: `${metric.value}%`,
+                              }}
+                              initial={{ width: 0 }}
+                              animate={{ width: `${metric.value}%` }}
+                              transition={{ duration: 1, delay: idx * 0.1 }}
+                            />
+                          </div>
+                          <div className="flex items-center justify-center gap-2 text-xs font-mono">
+                            <span style={{ color: '#888' }}>Peak: {metric.peak}%</span>
+                            <span style={{ color: metric.trend.startsWith('+') ? '#ffff00' : '#00ff41' }}>
+                              {metric.trend.startsWith('+') ? '↑' : '↓'} {metric.trend}
+                            </span>
+                          </div>
+                        </motion.div>
+                      );
+                    })}
+                  </div>
+                </div>
               </motion.div>
             )}
 
